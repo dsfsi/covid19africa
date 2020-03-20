@@ -1,9 +1,117 @@
 # Data
 
+## Africa CDC
+
+
 ## Data Sources by Country
+
+### Algeria
+
+### Angola
+
+### Benin
+
+### Botswana
+
+### Burkina Faso
+
+### Burundi
+
+### Cameroon
+
+### Cape Verde
+
+### Central African Republic
+
+### Chad
+
+### Comoros
+
+### Congo-Brazzaville
+
+### Congo-Kinshasa
+
+### Cote d'Ivoire
+
+### Djibouti
+
+### Egypt
+
+### Equatorial Guinea
+
+### Eritrea
+
+### Ethiopia
+
+### Gabon
+
+### Gambia
+
+### Ghana
+
+### Guinea
+
+### Guinea Bissau
+
+### Kenya
+
+### Lesotho
+
+### Liberia
+
+### Libya
+
+### Madagascar
+
+### Malawi
+
+### Mali
+
+### Mauritania
+
+### Mauritius
+
+### Morocco
+
+### Mozambique
+
+### Namibia
+
+### Niger
+
+### Nigeria
+
+### Rwanda
+
+### Senegal
+
+### Seychelles
+
+### Sierra Leone
+
+### Somalia
 
 ### South Africa
 * NICD - South Africa [URL](http://www.nicd.ac.za/media/alerts/)
 * Department of Health - South Africa [Main Site](http://www.health.gov.za/), [Twitter](https://twitter.com/HealthZA/)
 * South African Government Media Statements [URL](https://www.gov.za/media-statements)
-* **Machine Readable Repo** [github.com/dsfsi/covid19za](https://github.com/dsfsi/covid19za)
+* **Machine Readable Repo** [github.com/dsfsi/covid19za](https://github.com/dsfsi/covid19za)South Sudan
+
+### Sudan
+
+### Swaziland
+São Tomé and Príncipe
+
+### Tanzania
+
+### Togo
+
+### Tunisia
+
+### Uganda
+
+### Western Sahara
+
+### Zambia
+
+### Zimbabwe

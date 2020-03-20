@@ -1,7 +1,8 @@
 # Data
 
-## Africa CDC
+## General Repos
 
+* [JHU CSE](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 
 ## Data Sources by Country
 
@@ -37,6 +38,8 @@
 
 ### Egypt
 
+* mohp.gov.eg [[URL](http://www.mohp.gov.eg/)]
+
 ### Equatorial Guinea
 
 ### Eritrea
@@ -54,6 +57,8 @@
 ### Guinea Bissau
 
 ### Kenya
+
+* health.go.ke [[Press Releases](http://www.health.go.ke/press-releases/)]
 
 ### Lesotho
 

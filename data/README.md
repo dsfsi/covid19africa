@@ -26,6 +26,7 @@
 ### Central African Republic
 
 ### Chad
+* Chadian government [[URL](https://www.presidence.td/fr.html#)]
 
 ### Comoros
 

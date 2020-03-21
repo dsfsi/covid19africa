@@ -91,6 +91,8 @@
 
 ### Nigeria
 
+* Nigeria Center for Disease Control [Main Site](http://covid19.ncdc.gov.ng/), [Twitter](https://twitter.com/NCDCgov)
+
 ### Rwanda
 
 ### Senegal

@@ -56,6 +56,9 @@
 ### Gambia
 
 ### Ghana
+* Ministry of health [[URL](http://ghanahealthservice.org/covid19/)]
+* Ministry of Information Twitter account [[URL](https://twitter.com/moigovgh/)]
+* Disease Surveillance Department [[URL(https://twitter.com/DSD_GHS)]]
 
 ### Guinea
 

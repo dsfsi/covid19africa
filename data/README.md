@@ -20,6 +20,8 @@
 ### Burundi
 
 ### Cameroon
+* minsante.cm [[URL](https://www.minsante.cm/site/?q=en/epid-mie-de-coronavirus-covid---19-)]
+* spm.gov.cm [[URL](https://www.spm.gov.cm/site/?q=en)]
 
 ### Cape Verde
 

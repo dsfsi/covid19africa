@@ -1,1 +1,1 @@
-case_id, date, age, gender, country, current_status, epi_links, underlying_conditions
+case_id, origin_case_id, date, age, gender, country, current_status, epi_links, underlying_conditions

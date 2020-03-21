@@ -1,4 +1,5 @@
 # Data
+#Note: These are official sources of information. Unofficial sources of information such as, local newspapers, can also be used for data extraction. 
 
 ## General Repos
 
@@ -8,9 +9,9 @@
 * [JHU CSE](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 
 ## Twitter
-* @AfricaCDC
-* @JNkengasong
-* @WHOAFRO
+* [@AfricaCDC](https://twitter.com/AfricaCDC)
+* [@JNkengasong](https://twitter.com/JNkengasong)
+* [@WHOAFRO](https://twitter.com/WHOAFRO)
 
 ## Data Sources by Country
 
@@ -18,11 +19,9 @@
 
 
 ### Angola
-
 * [Ministry of Health](http://www.minsa.gov.ao/)
 
 ### Benin
-
 * [Ministry of Public Health](https://sante.gouv.bj/)
 
 ### Botswana
@@ -38,33 +37,36 @@
 ### Cameroon
 * minsante.cm [[URL](https://www.minsante.cm/site/?q=en/epid-mie-de-coronavirus-covid---19-)]
 * spm.gov.cm [[URL](https://www.spm.gov.cm/site/?q=en)]
-* Twitter: @MinsanteC, @DrManaouda
+* Twitter: [@MinsanteC](https://twitter.com/MinsanteC), [@DrManaouda](https://twitter.com/DrManaouda)
 
 ### Cape Verde
+[Ministry of Health](http://www.minsaude.gov.cv/)
 
 ### Central African Republic
-
-* Twitter: @MSPCentrafrique
+* Twitter: [@MSPCentrafrique](https://twitter.com/MSPCentrafrique)
 
 ### Chad
 * Chadian government [[URL](https://www.presidence.td/fr.html#)]
-* Twitter: @SanteTchad
+* Twitter: [@SanteTchad](https://twitter.com/SanteTchad)
 
 ### Comoros
-* Twitter:  @OMSComores
+* Twitter: [@OMSComores](https://twitter.com/OMSComores)
 
 ### Congo-Brazzaville
+* [Ministry of Health](http://www.sante.gouv.cg/)
 
 ### Congo-Kinshasa
-
-* Twitter: @MinSanteRDC
+* [Ministry of Health](http://www.minisanterdc.cd/)
+* Twitter: [@MinSanteRDC](https://twitter.com/MinSanteRDC)
 
 ### Cote d'Ivoire
+* [Ministry of Health](http://www.gouv.ci/_ministere-une.php?recordID=8)
 
 ### Djibouti
+* [Ministry of Health](http://www.sante.gouv.dj/)
 
 ### Egypt
-
+* [Ministry of Health](www.mohp.gov.eg)
 * mohp.gov.eg [[URL](http://www.mohp.gov.eg/)]
 
 ### Equatorial Guinea
@@ -72,80 +74,91 @@
 ### Eritrea
 
 ### Ethiopia
+* [Ministry of Health](http://www.moh.gov.et/ejcc/)
 
 ### Gabon
+* [Ministry of Health](http://www.sante.gouv.ga/)
 
 ### Gambia
-
-* Twitter: @MohGambia
+* [Ministry of Health](http://www.moh.gov.gm/)
+* Twitter: [@MohGambia](https://twitter.com/MohGambia)
 
 ### Ghana
 * Ministry of health [[URL](http://ghanahealthservice.org/covid19/)]
 * Ministry of Information Twitter account [[URL](https://twitter.com/moigovgh/)]
 * Disease Surveillance Department [[URL(https://twitter.com/DSD_GHS)]]
-* Twitter: @mohgovgh
+* Twitter: [@mohgovgh](https://twitter.com/mohgovgh)
+
 ### Guinea
 
 ### Guinea Bissau
 
 ### Kenya
-
 * health.go.ke [[Press Releases](http://www.health.go.ke/press-releases/)]
 
 ### Lesotho
+* [Ministry of Health](https://www.gov.ls/ministry-of-health/)
 
 ### Liberia
-
-* Twitter: @NPHIL6
+* [Ministry of Health](http://moh.gov.lr/)
 
 ### Libya
+* [Ministry of Health](http://health-ministry.ly/)
 
 ### Madagascar
+* [Ministry of Health](http://www.sante.gov.mg/ministere-sante-publique/)
 
 ### Malawi
-
-* Twitter: @MalawiGovt
+* Twitter: [@MalawiGovt](https://twitter.com/MalawiGovt)
 
 ### Mali
-
-* Twitter: @MichelSidibe
+* [Ministry of Health](http://www.sante.gov.ml/)
+* Twitter: [@MichelSidibe](https://twitter.com/michelsidibe)
 
 ### Mauritania
+* [Ministry of Health](http://www.sante.gov.mr)
 
 ### Mauritius
+* [Ministry of Health](http://health.govmu.org/English/Pages/default.aspx)
 
 ### Morocco
-
-* Twitter: @Ministere_Sante
+* [Ministry of Health](https://www.sante.gov.ma)
+* Twitter: [@Ministere_Sante](https://twitter.com/Ministere_Sante)
 
 ### Mozambique
-* Twitter: @OMSMocambique
-
+* [Ministry of Health](http://www.misau.gov.mz/)
+* Twitter: [@OMSMocambique](https://twitter.com/OMSMocambique)
 
 ### Namibia
-
-* Twitter: @WHONAMIBIA
+* [Ministry of Health](http://www.mhss.gov.na/)
+* Twitter: [@WHONAMIBIA](https://twitter.com/WHONAMIBIA)
 
 ### Niger
+* [Ministry of Health](http://www.msp.ne/)
+
 
 ### Nigeria
 
 * Nigeria Center for Disease Control [Main Site](http://covid19.ncdc.gov.ng/), [Twitter](https://twitter.com/NCDCgov)
-* Twitter: @Chikwe_I, @NCDCgov, @Fmohnigeria
+* Twitter: [@Chikwe_I](https://twitter.com/Chikwe_I), [@NCDCgov](https://twitter.com/NCDCgov), [@Fmohnigeria](https://twitter.com/Fmohnigeria)
 
 ### Rwanda
-
-* Twitter: @RwandaHealth
+* [Ministry of Health](https://moh.gov.rw)
+* Twitter: [@RwandaHealth](https://twitter.com/RwandaHealth)
 
 ### Senegal
+* [Ministry of Health](http://www.sante.gouv.sn/)
 
 ### Seychelles
+* [Ministry of Health](http://www.health.gov.sc/)
 
 ### Sierra Leone
-
-* Twitter: @mohs_sl, @WHOSierraLeone
+* [Ministry of Health](health.gov.sl)
+* Twitter: [@mohs_sl](https://twitter.com/mohs_sl), [@WHOSierraLeone](https://twitter.com/WHOSierraLeone)
 
 ### Somalia
+* [Ministry of Health](http://moh.gov.so)
+* Twitter: [@MoH_Somalia] (https://twitter.com/MoH_Somalia)
 
 ### South Africa
 * NICD - South Africa [URL](http://www.nicd.ac.za/media/alerts/)
@@ -155,27 +168,31 @@
 
 ### Sudan
 
-### Swaziland
-São Tomé and Príncipe
+### Eswatini 
+* [Ministry of Health](http://www.gov.sz)
+
+## São Tomé and Príncipe
 
 ### Tanzania
-
-* Twitter: @umwalimu
+* [Ministry of Health](https://www.moh.go.tz)
+* Twitter: [@umwalimu](https://twitter.com/umwalimu)
 
 ### Togo
+* [Ministry of Health](https://sante.gouv.tg/)
 
 ### Tunisia
+* [Ministry of Health](http://www.santetunisie.rns.tn/fr/)
 
 ### Uganda
-
-* Twitter: @MinofHealthUG
+* [Ministry of Health](http://health.go.ug/)
+* Twitter: [@MinofHealthUG](https://twitter.com/MinofHealthUG)
 
 ### Western Sahara
 
 ### Zambia
-
-* Twitter: @mohzambia, @ZMPublicHealth
+* [Ministry of Health](https://www.moh.gov.zm/)
+* Twitter: [@mohzambia](https://twitter.com/mohzambia), [@ZMPublicHealth](https://twitter.com/ZMPublicHealth)
 
 ### Zimbabwe
-
-* Twitter: @MoHCCZim
+* [Ministry of Health](http://www.mohcc.gov.zw/)
+* Twitter: [@MoHCCZim](https://twitter.com/MoHCCZim)

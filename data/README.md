@@ -1,5 +1,5 @@
 # Data
-# Note: These are official sources of information. Unofficial sources of information such as, local newspapers, can also be used for data extraction. 
+Note: These are mostly official sources of information. Unofficial sources of information such as, local newspapers, can also be used for data extraction. 
 
 ## General Repos
 

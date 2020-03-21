@@ -3,6 +3,7 @@
 ## General Repos
 
 * [WHO Situational Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
+* [beoutbreakprepared/nCoV2019](https://github.com/beoutbreakprepared/nCoV2019/tree/master/bulletins_sitreps)
 * [JHU CSE](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
 
 ## Data Sources by Country

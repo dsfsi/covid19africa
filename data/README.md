@@ -16,7 +16,7 @@ Note: These are mostly official sources of information. Unofficial sources of in
 ## Data Sources by Country
 
 ### Algeria
-
+* [Ministry of Health, Population and Hospital Reform](http://covid19.sante.gov.dz/fr/acceuil/)
 
 ### Angola
 * [Ministry of Health](http://www.minsa.gov.ao/)

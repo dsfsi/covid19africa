@@ -17,15 +17,20 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 
 See [data README](data/README.md)
 
-
 ## Contributing
+
+* See [the issues](https://github.com/dsfsi/covid19africa/issues/)
+
 ### Options
 * *I want to help, but dont have an idea:* You can take a look at the issues to see which one you might be interested in tackling.
 * *I have an idea or new feature:* Create a new issue first, assign it to yourself and then fork the repo. 
+
 ### Submitting Changes [Pull Request]
 * See https://opensource.com/article/19/7/create-pull-request-github
 
 ## Contributors
+
+* [Volunteers](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqTAOlKYALSBQ5HvHjR1RSkl-W4yV14el2kO_ffC2ISXlVvjN5Hl-9vrF2Ug6kdxy90AX0FolpxUzf/pubhtml?gid=0&single=true)
 
 ## Contact
 * Elaine Nsoesie - onelaine@bu.edu

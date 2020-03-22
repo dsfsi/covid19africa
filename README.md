@@ -9,7 +9,7 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 
 | dataset         | url | raw_url[file] |
 |-----------------|-----|---------------|
-|                 |     |               |
+|    line-list-africa             |  [line-list-africa](data/line-list-africa.csv)   |       [line-list-africa.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-africa.csv)        |
 
 ## Visualisation
 

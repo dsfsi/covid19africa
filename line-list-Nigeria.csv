@@ -1,0 +1,37 @@
+Case_id,origin_case_id,date,age,gender,city,province/state,country,current_status,source,symptoms,date_onset_symptoms,date_admission_hospital,date_confirmation,underlying_conditions,travel_history_dates,travel_history_location,death_date,notes_for_discussion
+1,,27-Feb-20,44,Male,Ogun,Ogun,Nigeria,In recovery,www.bbc.com,,,27-Feb-20,27-Feb-20,No,,Italy,,Patient came in from Italy. 
+2,,9-Mar-20,,,Ogun,Ogun,Nigeria,In treatment,https://twitter.com/NCDCgov/status/1237641812451495937,,9-Mar-20,9-Mar-20,9-Mar-20,No,,,,
+3,,16-Mar-20,30,Female,Lagos,Lagos,Nigeria,Clinically Stable,https://twitter.com/NCDCgov/status/1239848545068494848,"Fever, Cold, Cough",,17-Mar-20,17-Mar-20,,13-Mar-20,United Kingdom,,"Patient returned from trip to UK and was in 14 day self isolation, developed symptoms and went to the Infectious Disease Hospital, Lagos for testing"
+4,,16-Mar-20,58,Male,Lagos,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,13-Mar-20,USA,,Patient returned from travel to USA
+5,,16-Mar-20,38,Female,,Ekiti,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,,,,Patient made contact with traveler from the USA
+6,,16-Mar-20,6 months,,Lekki,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,,USA,,Patient returned from travel to USA
+7,,16-Mar-20,,Female,Lekki,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,,USA,,Patient returned from travel to USA
+8,,16-Mar-20,,Male,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,,USA,,American national
+9,,19-Mar-20,59,Male,,,Nigeria,,https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria,,,,,,,,,No travel history but lives with foreign nationals
+10,,19-Mar-20,29,Female,,,Nigeria,,https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria,,,,,,,France,,Returned from France 3/14/2020
+11,,19-Mar-20,23,Female,,,Nigeria,,https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria,,,,,,,,,Made contact with 3rd confirmed case
+12,,19-Mar-20,43,Male,,,Nigeria,,https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria,,,,,,,UK,,Visited London and returned 3/14/2020
+13,,21-Mar-20,,,FCT,Abuja,Nigeria,,https://twitter.com/NCDCgov/status/1241357780533022720,Mild to moderate,,,21-Mar-20,,,,,Close contact of a confirmed case. This patient has no travel history of recent
+14,,21-Mar-20,,,FCT,Abuja,Nigeria,,https://twitter.com/NCDCgov/status/1241357780533022720,Mild to moderate,,,21-Mar-20,,3/14/2020-3/21/2020,High risk country,,Returned from overseas travel
+15,,21-Mar-20,,,FCT,Abuja,Nigeria,,https://twitter.com/NCDCgov/status/1241357780533022720,Mild to moderate,,,21-Mar-20,,3/14/2020-3/21/2020,High risk country,,Returned from overseas travel
+16,,21-Mar-20,,,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1241357780533022720,Mild to moderate,,,21-Mar-20,,3/14/2020-3/21/2020,High risk country,,Returned from overseas travel
+17,,21-Mar-20,,,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1241357780533022720,Mild to moderate,,,21-Mar-20,,3/14/2020-3/21/2020,High risk country,,Returned from overseas travel
+18,,21-Mar-20,,,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1241357780533022720,Mild to moderate,,,21-Mar-20,,3/14/2020-3/21/2020,High risk country,,Returned from overseas travel
+19,,21-Mar-20,,,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1241357780533022720,Mild to moderate,,,21-Mar-20,,3/14/2020-3/21/2020,High risk country,,Returned from overseas travel
+20,,21-Mar-20,,,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1241357780533022720,Mild to moderate,,,21-Mar-20,,3/14/2020-3/21/2020,High risk country,,Returned from overseas travel
+21,,21-Mar-20,,,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1241357780533022720,Mild to moderate,,,21-Mar-20,,3/14/2020-3/21/2020,High risk country,,Returned from overseas travel
+22,,21-Mar-20,,,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1241357780533022720,Mild to moderate,,,21-Mar-20,,3/14/2020-3/21/2020,High risk country,,Returned from overseas travel
+23,,22-Mar-20,,,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1241601948131954688,,,,22-Mar-20,,3/14/2020-3/21/2021,High risk country,,Returned from overseas travel
+24,,22-Mar-20,,,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1241601948131954688,,,,22-Mar-20,,3/14/2020-3/21/2020,High risk country,,Returned from overseas travel
+25,,22-Mar-20,,,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1241601948131954688,,,,22-Mar-20,,3/14/2020-3/21/2020,High risk country,,Returned from overseas travel
+26,,22-Mar-20,,,Ibadan,Oyo,Nigeria,,https://twitter.com/NCDCgov/status/1241669255306907653,,,,22-Mar-20,,,,,
+27,,22-Mar-20,67,Male,FCT,Abuja,Nigeria,Deceased,https://twitter.com/NCDCgov/status/1241669255306907653,Severe,,22-Mar-20,22-Mar-20,"Diabetes, Myeloma. ",19-Mar-20,UK,3/23/2020,"Returned from travel to the UK. Showed symptoms on 3/17/2020, tested and confirmed on Sunday 3/22. Family currently quarantined"
+28,,22-Mar-20,,,,,Nigeria,,http://covid19.ncdc.gov.ng/,,,,,,,,,
+29,,22-Mar-20,,,,,Nigeria,,http://covid19.ncdc.gov.ng/,,,,,,,,,
+30,,22-Mar-20,,,,,Nigeria,,http://covid19.ncdc.gov.ng/,,,,,,,,,
+31,,23-Mar-20,,,,Edo,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,,,,,,
+32,,23-Mar-20,,,FCT,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,,,,,,
+33,,23-Mar-20,,,FCT,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,,,,,,
+34,,23-Mar-20,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,,,,,,
+35,,23-Mar-20,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,,,,,,
+36,,23-Mar-20,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,,,,,,

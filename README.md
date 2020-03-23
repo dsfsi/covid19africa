@@ -11,6 +11,7 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 |-----------------|-----|---------------|
 |    line-list-africa             |  [line-list-africa](data/line-list-africa.csv)   |       [line-list-africa.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-africa.csv)        |
 |    line-list-ethiopia            |  [line-list-ethiopia](data/line-list-ethiopia.csv)   |       [line-list-ethiopia.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-ethiopia.csv)        |
+|    line-list-kenya             |  [line-list-kenya](data/line-list-kenya.csv)   |       [line-list-kenya.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-kenya.csv)        |
 |    line-list-namibia             |  [line-list-namibia](data/line-list-namibia.csv)   |       [line-list-namibia.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-namibia.csv)        |
 ## Visualisation
 

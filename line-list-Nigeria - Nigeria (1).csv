@@ -1,6 +1,6 @@
 Case_id,origin_case_id,date,age,gender,city,province/state,country,current_status,source,symptoms,date_onset_symptoms,date_admission_hospital,date_confirmation,underlying_conditions,travel_history_dates,travel_history_location,death_date,notes_for_discussion
-1,,"February 27, 2020",44,Male,Ogun,Ogun,Nigeria,In recovery,www.bbc.com,,,2/27/2020,2/27/2020,No,,Italy,,Patient came in from Italy. 
-2,,"March 9, 2020",,,Ogun,Ogun,Nigeria,In treatment,https://twitter.com/NCDCgov/status/1237641812451495937,,3/9/2020,3/9/2020,3/9/2020,No,,,,
+1,,2/27/2020,44,Male,Ogun,Ogun,Nigeria,In recovery,www.bbc.com,,,2/27/2020,2/27/2020,No,,Italy,,Patient came in from Italy. 
+2,,3/9/2020,,,Ogun,Ogun,Nigeria,In treatment,https://twitter.com/NCDCgov/status/1237641812451495937,,3/9/2020,3/9/2020,3/9/2020,No,,,,
 3,,3/16/2020,30,Female,Lagos,Lagos,Nigeria,Clinically Stable,https://twitter.com/NCDCgov/status/1239848545068494848,"Fever, Cold, Cough",,3/17/2020,3/17/2020,,3/13/2020,United Kingdom,,"Patient returned from trip to UK and was in 14 day self isolation, developed symptoms and went to the Infectious Disease Hospital, Lagos for testing"
 4,,3/16/2020,58,Male,Lagos,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,3/13/2020,USA,,Patient returned from travel to USA
 5,,3/16/2020,38,Female,,Ekiti,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,,,,Patient made contact with traveler from the USA
@@ -39,7 +39,7 @@ Case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 38,,3/23/2020,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,,,,,,,High risk country,,Returned from overseas travel
 39,,3/23/2020,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,,,,,,,,,
 40,,3/23/2020,,,FCT,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,,,,,,,,,
-41,,2/24/2020,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,,,Contact case of a previously confirmed case
-42,,2/24/2020,,,,Ogun,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,High risk country,,Returned from overseas travel
-43,,2/24/2020,,,FCT,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,Germany,,
-44,,2/24/2020,,,Bauchi,Bauchi,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,UK,,
+41,,3/24/2020,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,,,Contact case of a previously confirmed case
+42,,3/24/2020,,,,Ogun,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,High risk country,,Returned from overseas travel
+43,,3/24/2020,,,FCT,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,Germany,,
+44,,3/24/2020,,,Bauchi,Bauchi,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,UK,,

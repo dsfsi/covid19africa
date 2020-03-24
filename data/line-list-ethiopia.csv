@@ -7,6 +7,7 @@ case_id, origin_case_id, date, age, gender, city, province/state, country, curre
 5,,,59,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopia-confirms-its-6th-case-of-coronavirus/,,,,03/17/2020,,03/16/2020,Dubai,,UK deplomat
 7,,,85,female,Addis Ababa,Addis Ababa,Ethiopia,severe illness,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,03/20/2020,,03/02/2020,,,Ethiopian
 8,,,44,,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,03/20/2020,,,,,Japanese
-9,,,39,,Addis Ababa
+9,,,39,,Addis Ababa,,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,,,03/20/2020,,,Austrialian 
 10,,,28,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-two-more-covid-19-cases/,,,,03/22/2020,,03/14/2020,Belgium,,Ethiopian
 11,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-two-more-covid-19-cases/,,,,03/22/2020,,03/19/2020,Dubai,,Ethiopian
+12,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-one-more-covid-19-case/,,,,03/24/2020,,03/20/2020,Dubai,,Ethiopian

@@ -1,5 +1,9 @@
 # Coronavirus COVID-19 (2019-nCoV) Data Repository for Africa
 
+The purpose of this repository is collate data of the ongoing coronavirus pandemic in Africa. Our goal is to record detailed information on each reported cases in every African country. We want to build a line list – a table summarizing information about people who are infected, dead, recovered. The table for each African country would include demographic and location information. Such a dataset has many uses including studying the spread of COVID19 across Africa and assessing similarities and differences to what’s being observed in other regions of the world.
+
+To sign up to contribute to this effort please send an email to onelaine@bu.edu and choose a country (or countries) in  Contributors file below. This is part of a larger global effort to collate data on the coronavirus pandemic. 
+
 
 ## Licenses
 
@@ -37,5 +41,5 @@ See [data README](data/README.md)
 * [Volunteers](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqTAOlKYALSBQ5HvHjR1RSkl-W4yV14el2kO_ffC2ISXlVvjN5Hl-9vrF2Ug6kdxy90AX0FolpxUzf/pubhtml?gid=0&single=true)
 
 ## Contact
-* Elaine Nsoesie - onelaine@bu.edu
+* Elaine Nsoesie - onelaine@bu.edu, [@ensoesie](https://twitter.com/ensoesie)
 * Vukosi Marivate - vukosi.marivate@cs.up.ac.za, [@vukosi](https://twitter.com/vukosi)

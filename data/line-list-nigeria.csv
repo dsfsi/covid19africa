@@ -43,3 +43,5 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 42,,3/24/2020,,,,Ogun,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,High risk country,,Returned from overseas travel
 43,,3/24/2020,,,FCT,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,Germany,,
 44,,3/24/2020,,,Bauchi,Bauchi,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,UK,,
+45,,3/25/2020,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/25/2020,,,High risk country,,Returned from overseas travel
+46,,3/25/2020,,,,Osun,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/25/2020,,,High risk country,,Returned from overseas travel

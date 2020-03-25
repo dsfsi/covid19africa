@@ -35,3 +35,11 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 34,,23-Mar-20,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,,,,,,
 35,,23-Mar-20,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,,,,,,
 36,,23-Mar-20,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,,,,,,
+37,,3/23/2020,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,,,,,,,High risk country,,Returned from overseas travel
+38,,3/23/2020,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,,,,,,,High risk country,,Returned from overseas travel
+39,,3/23/2020,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,,,,,,,,,
+40,,3/23/2020,,,FCT,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,,,,,,,,,
+41,,3/24/2020,,,,Lagos,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,,,Contact case of a previously confirmed case
+42,,3/24/2020,,,,Ogun,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,High risk country,,Returned from overseas travel
+43,,3/24/2020,,,FCT,Abuja,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,Germany,,
+44,,3/24/2020,,,Bauchi,Bauchi,Nigeria,Receiving Treatment,http://covid19.ncdc.gov.ng/,Mild to moderate,,,3/24/2020,,,UK,,

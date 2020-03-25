@@ -4,7 +4,7 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 3,,16-Mar-20,30,Female,Lagos,Lagos,Nigeria,Clinically Stable,https://twitter.com/NCDCgov/status/1239848545068494848,"Fever, Cold, Cough",,17-Mar-20,17-Mar-20,,13-Mar-20,United Kingdom,,"Patient returned from trip to UK and was in 14 day self isolation, developed symptoms and went to the Infectious Disease Hospital, Lagos for testing"
 4,,16-Mar-20,58,Male,Lagos,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,13-Mar-20,USA,,Patient returned from travel to USA
 5,,16-Mar-20,38,Female,,Ekiti,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,,,,Patient made contact with traveler from the USA
-6,,16-Mar-20,6 months,,Lekki,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,,USA,,Patient returned from travel to USA
+6,,16-Mar-20,6 weeks,,Lekki,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,,USA,,Patient returned from travel to USA
 7,,16-Mar-20,,Female,Lekki,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,,USA,,Patient returned from travel to USA
 8,,16-Mar-20,,Male,,Lagos,Nigeria,,https://twitter.com/NCDCgov/status/1240557996771590146/photo/2,,,,,,,USA,,American national
 9,,19-Mar-20,59,Male,,,Nigeria,,https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria,,,,,,,,,No travel history but lives with foreign nationals

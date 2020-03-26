@@ -23,6 +23,7 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 |    line-list-namibia             |  [line-list-namibia](data/line-list-namibia.csv)   |       [line-list-namibia.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-namibia.csv)        |
 |    line-list-nigeria             |  [line-list-nigeria](data/line-list-nigeria.csv)   |       [line-list-nigeria.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-nigeria.csv)        |
 ## Visualisation
+* Line List Dashboard - [https://bitly.com/covid19africa-dash](https://bitly.com/covid19africa-dash)
 
 ## Data Sources
 

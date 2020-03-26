@@ -4,6 +4,8 @@ The purpose of this repository is to collate data on the ongoing coronavirus pan
 
 To sign up to contribute to this effort please send an email to onelaine@bu.edu and choose a country (or countries) in the  Contributors file below. This is part of a larger global effort to collate data on the coronavirus pandemic. 
 
+See our [blog post](https://dsfsi.github.io/blog/covida19africa-call-to-action/) on why we built this and how we are working.
+
 
 ## Licenses
 

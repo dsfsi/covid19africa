@@ -22,12 +22,14 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 ### Template for a new list
 * See the [data/templates/](data/templates/) if you want to start a new line list for a country that is not yet included. You must upload csv though. 
 
+### Adopt a country
+* See https://github.com/dsfsi/covid19africa/issues/2
+
 ### Help with issues
 * See [the issues](https://github.com/dsfsi/covid19africa/issues/)
 
-### List of contributors or volunteers (you can add yourself)
-
-* [Volunteers](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqTAOlKYALSBQ5HvHjR1RSkl-W4yV14el2kO_ffC2ISXlVvjN5Hl-9vrF2Ug6kdxy90AX0FolpxUzf/pubhtml?gid=0&single=true)
+### List of contributors or volunteers
+* [Volunteers](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqTAOlKYALSBQ5HvHjR1RSkl-W4yV14el2kO_ffC2ISXlVvjN5Hl-9vrF2Ug6kdxy90AX0FolpxUzf/pubhtml?gid=0&single=true) - [Add yourself](https://github.com/dsfsi/covid19africa/issues/2)
 
 
 ### Submitting Changes [Pull Request]

@@ -11,3 +11,7 @@ case_id, origin_case_id, date, age, gender, city, province/state, country, curre
 10,,,28,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-two-more-covid-19-cases/,,,,2020-03-22,,2020-03-14,Belgium,,Ethiopian
 11,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-two-more-covid-19-cases/,,,,2020-03-22,,2020-03-19,Dubai,,Ethiopian
 12,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-one-more-covid-19-case/,,,,2020-03-24,,2020-03-20,Dubai,,Ethiopian
+13,,,72,,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,2020-03-14,Congo Brazzaville ,,Mauritian
+14,,,61,,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,,,,Ethiopian
+15,,,28,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,2020-03-21,Israel,,Ethiopian
+16,,,24,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,,,,Ethiopian

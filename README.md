@@ -24,7 +24,7 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 |    line-list-nigeria             |  [line-list-nigeria](data/line-list-nigeria.csv)   |       [line-list-nigeria.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-nigeria.csv)        |
 ## Visualisation
 * Line List Dashboard - [https://bitly.com/covid19africa-dash](https://bitly.com/covid19africa-dash)
-
+![](https://github.com/dsfsi/covid19africa/raw/master/visualization/dash_screenshot.png)
 ## Data Sources
 
 See [data README](data/README.md)

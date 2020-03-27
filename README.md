@@ -11,6 +11,28 @@ See our [blog post](https://dsfsi.github.io/blog/covida19africa-call-to-action/)
 
 Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  | Data [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
+
+## Contributing
+
+### Options
+* *I want to add a country:* Start a new line list, see template below. 
+* *I want to help, but dont have an idea:* You can take a look at the issues to see which one you might be interested in tackling.
+* *I have an idea or new feature:* Create a new issue first, assign it to yourself and then fork the repo. 
+
+### Template for a new list
+* See the [data/templates/](data/templates/) if you want to start a new line list for a country that is not yet included. You must upload csv though. 
+
+### Help with issues
+* See [the issues](https://github.com/dsfsi/covid19africa/issues/)
+
+### List of contributors or volunteers (you can add yourself)
+
+* [Volunteers](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqTAOlKYALSBQ5HvHjR1RSkl-W4yV14el2kO_ffC2ISXlVvjN5Hl-9vrF2Ug6kdxy90AX0FolpxUzf/pubhtml?gid=0&single=true)
+
+
+### Submitting Changes [Pull Request]
+* See https://opensource.com/article/19/7/create-pull-request-github
+
 ## Data Available [[/data](/data)]
 
 | dataset         | url | raw_url[file] |
@@ -28,21 +50,6 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 ## Data Sources
 
 See [data README](data/README.md)
-
-## Contributing
-
-* See [the issues](https://github.com/dsfsi/covid19africa/issues/)
-
-### Options
-* *I want to help, but dont have an idea:* You can take a look at the issues to see which one you might be interested in tackling.
-* *I have an idea or new feature:* Create a new issue first, assign it to yourself and then fork the repo. 
-
-### Submitting Changes [Pull Request]
-* See https://opensource.com/article/19/7/create-pull-request-github
-
-## Contributors
-
-* [Volunteers](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqTAOlKYALSBQ5HvHjR1RSkl-W4yV14el2kO_ffC2ISXlVvjN5Hl-9vrF2Ug6kdxy90AX0FolpxUzf/pubhtml?gid=0&single=true)
 
 ## Contact
 * Elaine Nsoesie - onelaine@bu.edu, [@ensoesie](https://twitter.com/ensoesie)

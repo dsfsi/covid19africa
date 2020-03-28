@@ -28,6 +28,9 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 ### Help with issues
 * See [the issues](https://github.com/dsfsi/covid19africa/issues/)
 
+### Resources
+* [Stanford <> CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19)
+
 ### List of contributors or volunteers
 * [Volunteers](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqTAOlKYALSBQ5HvHjR1RSkl-W4yV14el2kO_ffC2ISXlVvjN5Hl-9vrF2Ug6kdxy90AX0FolpxUzf/pubhtml?gid=0&single=true) - [Add yourself](https://github.com/dsfsi/covid19africa/issues/2)
 

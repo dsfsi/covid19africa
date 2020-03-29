@@ -9,7 +9,7 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 8,,,35,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid19-17-march-2020,,,,,,2020-03-15,Dubai,,A Burundian, 35, who arrived in Rwanda on 15 March 2020 from Dubai. UAE, in transit to Bujumbura, Burundi, was detected by airport medical screening personnel based on symptoms, and he was then tested."
 9,,,37,Woman,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-18-march-2020,,,,,,2020-03-08,Mumbai,,arrived in Rwanda on 8 March 2020 from Mumbai, India. She is the spouse of a previously confirmed positive case
 10,,,26,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-18-march-2020,,,,,,,,,no travel history
-11,,,45,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-18-march-2020,,,,,,2020-03-16,Belgium,,"arrived on 16 March 2020 from Belgium via Addis Ababa, Ethiopia
+11,,,45,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-18-march-2020,,,,,,2020-03-16,Belgium,,arrived on 16 March 2020 from Belgium via Addis Ababa, Ethiopia
 12,,,0,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid19-20-march-2020,,,,,,,,,domestic partner was previously confirmed positive, along with their son, aged 10 months
 13,,,30,Woman,,,Rwanda,,https://www.afro.who.int/news/update-covid19-20-march-2020,,,,,,,,,domestic partner was previously confirmed positive, along with their son, aged 10 months
 14,,,32,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid19-20-march-2020,,,,,,2020-03-19,Dubai,,who arrived from Dubai, UAE, on 19 March 2020. His symptoms were detected by airport screening upon arrival and he was then tested

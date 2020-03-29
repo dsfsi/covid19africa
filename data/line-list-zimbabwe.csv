@@ -3,6 +3,6 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 2,,,30,M,Harare,Harare Metro,Zimbabwe,Died,MoHCCC,,,,,,,USA,2020-02-23,
 3,,,52,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Dubai,,
 4,,,24,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,USA,,
-5,,,30,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,,
-6,,,40,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,,
-7,,,24,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,,
+5,,,30,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,,Contact of Case 2
+6,,,40,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,,Contact of case 3
+7,,,24,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,,contact of case 3

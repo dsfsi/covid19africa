@@ -65,6 +65,6 @@ See [data README](data/README.md)
 ## Citing this dataset
 
 ### Online
-> *Coronavirus COVID-19 (2019-nCoV) Data Repository for Africa*, Data Consortium for African COVID-19 Data. Available on: https://github.com/dsfsi/covid19africa.
+> *Coronavirus COVID-19 (2019-nCoV) Data Repository for Africa*. Vukosi Marivarte, Elaine Nsoesie and Consortium for African COVID-19 Data. Available on: https://github.com/dsfsi/covid19africa.
 
 

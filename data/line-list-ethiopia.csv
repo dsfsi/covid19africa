@@ -1,4 +1,4 @@
-case_id, origin_case_id, date, age, gender, city, province/state, country, current_status, source, symptoms, date_onset_symptoms, date_admission_hospital, date_confirmation, underlying_conditions, travel_history_dates, travel_history_location, death_date, notes_for_discussion
+case_id,origin_case_id,date,age,gender,city,province/state,country,current_status,source,symptoms,date_onset_symptoms,date_admission_hospital,date_confirmation,underlying_conditions,travel_history_dates,travel_history_location,death_date,notes_for_discussion
 1,,,48,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,http://www.moh.gov.et/ejcc/en/node/194,,,,2020-03-13,,2020-03-04,Burkina Faso,,Japanese citizen
 2,,,42,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-coronavirus-cases-rises-to-four/,,,,2020-03-16,,,,,Ethiopian in close contact with first patien
 3,,,44,,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopia-coronavirus-cases-rises-to-four/,,,,2020-03-16,,,,,Japanese national in close contact with first patient

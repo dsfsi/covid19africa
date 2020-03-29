@@ -7,7 +7,7 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 5,,,59,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopia-confirms-its-6th-case-of-coronavirus/,,,,2020-03-17,,2020-03-16,Dubai,,UK deplomat
 7,,,85,female,Addis Ababa,Addis Ababa,Ethiopia,severe illness,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,2020-03-20,,2020-03-02,,,Ethiopian
 8,,,44,,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,2020-03-20,,,,,Japanese
-9,,,39,,Addis Ababa,,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,,,2020-03-20,,,Austrialian 
+9,,,39,,Addis Ababa,,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,2020-03-20,,,,,Austrialian 
 10,,,28,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-two-more-covid-19-cases/,,,,2020-03-22,,2020-03-14,Belgium,,Ethiopian
 11,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-two-more-covid-19-cases/,,,,2020-03-22,,2020-03-19,Dubai,,Ethiopian
 12,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-one-more-covid-19-case/,,,,2020-03-24,,2020-03-20,Dubai,,Ethiopian
@@ -15,3 +15,6 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 14,,,61,,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,,,,Ethiopian
 15,,,28,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,2020-03-21,Israel,,Ethiopian
 16,,,24,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,,,,Ethiopian
+17,,,28,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,"03/17/2020, 03/19/2020 ","Brussels Belgium, Cameroon",,Ethiopian
+18,14,,14,male,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,,,,Ethiopian
+19,14,,48,female,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,,,,Ethiopian

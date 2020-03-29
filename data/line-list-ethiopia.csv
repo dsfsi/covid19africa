@@ -18,3 +18,5 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 17,,,28,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,"03/17/2020, 03/19/2020 ","Brussels Belgium, Cameroon",,Ethiopian
 18,14,,14,male,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,,,,Ethiopian
 19,14,,48,female,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,,,,Ethiopian
+19,38,,14,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/,,,,2020-03-29,,,Dubai,,Ethiopian
+20,35,,48,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/,,,,2020-03-29,,,Dubai,,Ethiopian

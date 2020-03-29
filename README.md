@@ -6,6 +6,8 @@ To sign up to contribute to this effort please send an email to onelaine@bu.edu 
 
 See our [blog post](https://dsfsi.github.io/blog/covida19africa-call-to-action/) on why we built this and how we are working.
 
+For information on daily updates on the repo, go to [https://twitter.com/vukosi/status/1243077753563484160?s=20](https://twitter.com/vukosi/status/1243077753563484160?s=20)
+
 
 ## Licenses
 

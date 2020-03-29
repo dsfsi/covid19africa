@@ -49,6 +49,8 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 |    line-list-kenya             |  [line-list-kenya](data/line-list-kenya.csv)   |       [line-list-kenya.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-kenya.csv)        |
 |    line-list-namibia             |  [line-list-namibia](data/line-list-namibia.csv)   |       [line-list-namibia.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-namibia.csv)        |
 |    line-list-nigeria             |  [line-list-nigeria](data/line-list-nigeria.csv)   |       [line-list-nigeria.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-nigeria.csv)        |
+|    line-list-rwanda             |  [line-list-rwanda](data/line-list-rwanda.csv)   |       [line-list-rwanda.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-rwanda.csv)        |
+|    line-list-south-africa            |  [line-list-nigeria](data/line-list-south-africa.csv)   |       [line-list-south-africa.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-south-africa.csv)        |
 ## Visualisation
 * Line List Dashboard - [https://bitly.com/covid19africa-dash](https://bitly.com/covid19africa-dash)
 ![](https://github.com/dsfsi/covid19africa/raw/master/visualization/dash_screenshot.png)
@@ -59,3 +61,10 @@ See [data README](data/README.md)
 ## Contact
 * Elaine Nsoesie - onelaine@bu.edu, [@ensoesie](https://twitter.com/ensoesie)
 * Vukosi Marivate - vukosi.marivate@cs.up.ac.za, [@vukosi](https://twitter.com/vukosi)
+
+## Citing this dataset
+
+### Online
+> *Coronavirus COVID-19 (2019-nCoV) Data Repository for Africa*, Data Consortium for African COVID-19 Data. Available on: https://github.com/dsfsi/covid19africa.
+
+

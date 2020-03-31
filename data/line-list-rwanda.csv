@@ -4,7 +4,7 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 3,,,36,Male,,,Rwanda,,https://www.bbc.com/gahuza/amakuru-51904449,,,,,,2020-03-08,Fiji,,arrived 8 March from Fiji via USA and Qatar
 4,,,30,Male,,,Rwanda,,https://www.bbc.com/gahuza/amakuru-51904450,,,,,,,,,Travelled abroad - no further details
 5,,,22,Male,,,Rwanda,,https://www.bbc.com/gahuza/amakuru-51904451,,,,,,2020-03-15,UK,,arrived in Rwanda on 15 March from London
-6,,,32,Woman,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-16-march-2020,,,,,,,,,Wife of case 3, local transmision
+6,,,32,Woman,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-16-march-2020,,,,,,,,,"Wife of case 3, local transmision"
 7,,,61,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-16-march-2020,Cough,2020-03-15,,,,2020-03-13,,,Arrived in Kigali on 13 March from Germany via istanbul
 8,,,35,Male,,,Rwanda,,https://www.afro.who.int/news/update-covid19-17-march-2020,,,,,,2020-03-15,Dubai,,A Burundian, 35, who arrived in Rwanda on 15 March 2020 from Dubai. UAE, in transit to Bujumbura, Burundi, was detected by airport medical screening personnel based on symptoms, and he was then tested
 9,,,37,Woman,,,Rwanda,,https://www.afro.who.int/news/update-covid-19-18-march-2020,,,,,,2020-03-08,Mumbai,,arrived in Rwanda on 8 March 2020 from Mumbai, India. She is the spouse of a previously confirmed positive case

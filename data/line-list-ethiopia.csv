@@ -14,7 +14,6 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 13,,,72,,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,2020-03-14,Congo Brazzaville ,,Mauritian
 14,,,61,,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,,,,Ethiopian
 15,,,28,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,2020-03-21,Israel,,Ethiopian
-16,,,24,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,,,,Ethiopian
 17,,,28,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,"03/17/2020, 03/19/2020 ","Brussels Belgium, Cameroon",,Ethiopian
 18,14,,14,male,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,,,,Ethiopian
 19,14,,48,female,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,,,,Ethiopian
@@ -22,3 +21,7 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 20,,,35,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/,,,,2020-03-29,,,Dubai,,Ethiopian
 21,,,32,male,Addis Kidame,Amhara,Ethiopia,,https://twitter.com/FMoHealth/status/1244572109503967232,,,,2020-03-30,,2020-03-19,USA,,Ethiopian
 22,,,37,female,Bahirdar,Amhara,Ethiopia,,https://twitter.com/FMoHealth/status/1244572109503967232,,,,2020-03-30,,2020-03-21,UAE,,Ethiopian
+23,,,30,male,Addis Ababa,Addis Ababa,Ethiopia,,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1,,,,03/31/2020,,03/24/2020,Dubai,,Ethiopian
+24,,,36,,Addis Ababa,Addis Ababa,Ethiopia,,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1,,,,03/31/2020,,03/24/2020,Dubai,,Ethiopian
+25,,,60,female,Addis Ababa,Addis Ababa,Ethiopia,,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1,,,,03/31/2020,,03/15/2020,France,,Ethiopian
+26,,,42,male,Dire Dawa,Dire Dawa,Ethiopia,,,,,,,,,Australia, Addis Ababa,,Ethiopian

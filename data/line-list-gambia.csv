@@ -1,3 +1,5 @@
 case_id,origin_case_id,date,age,gender,city,province/state,country,current_status,source,symptoms,date_onset_symptoms,date_admission_hospital,date_confirmation,underlying_conditions,travel_history_dates,travel_history_location,death_date,notes_for_discussion
-1,,2020-03-18,20-29,Female,Fajara,,Gambia,Receiving Treatment,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-15,UK,,Case flew from England into Gambia and is currently undergoing treatment
+1,,2020-03-18,28,Female,Fajara,,Gambia,Receiving Treatment,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-15,UK,,Case flew from England into Gambia and is currently undergoing treatment
 2,,2020-03-16,70,Male,Banjul,,Gambia,Deceased,http://www.moh.gov.gm/covid19-update/,Severe,2020-03-17,,,Diabetes,,High risk countries,2020-03-20,Bangladeshi Citizen deceased traveled to six other countries prior to arriving in The Gambia
+3,,2020-03-23,71,Male,Numuyel,,Gambia,Receiving Treatment,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-17,France,,Case flew from France into Gambia and is currently undergoing treatment
+4,,2020-03-28,53,Male,Banjul,,Gambia,Receiving Treatment,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-15,UK,,Case flew from England into Gambia and is currently undergoing treatment

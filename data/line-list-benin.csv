@@ -1,0 +1,7 @@
+case_id,origin_case_id,date,age,gender,city,province/state,country,current_status,source,symptoms,date_onset_symptoms,date_admission_hospital,date_confirmation,underlying_conditions,travel_history_dates,travel_history_location,death_date,notes_for_discussion
+1,,2020-03-16,49,,,,Benin,,https://www.africanews.com/2020/03/16/four-african-countries-confirmed-first-coronavirus-cases-in-a-day-list//,,,,,,2020-03-12,Burkina Faso,,
+2,,,,,,,Benin,,https://www.panapress.com/Coronavirus-Benin-records-second-a_630633085-lang2.html,,,,,,,,,
+3,,2020-03-22,41,Male,,,Benin,,https://www.cnbcafrica.com/apo/2020/03/23/coronavirus-benin-declaration-of-three-new-cases-of-covid-19-in-benin/,"cough, rhinorrhea, sneezing and muscle pain",,,,,"2020-03-03, 2020-03-08",Cote d'Ivoire,,
+4,,2020-03-22,56,Male,,,Benin,,https://www.cnbcafrica.com/apo/2020/03/23/coronavirus-benin-declaration-of-three-new-cases-of-covid-19-in-benin/,"cough, cold, fever and aches and headache",,,,,2020-03-18,Cote d'Ivoire & Togo,,
+5,,2020-03-22,18,Male,,,Benin,,https://www.cnbcafrica.com/apo/2020/03/23/coronavirus-benin-declaration-of-three-new-cases-of-covid-19-in-benin/,"cough, tired, chest pain",,,,,2020-03-16,,,Son of patient 2
+6,,,,,,,Benin,,,,,,,,,,,

@@ -4,7 +4,7 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 3,1,,44,,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopia-coronavirus-cases-rises-to-four/,,,,2020-03-16,,,,,Japanese national in close contact with first patient
 4,1,,47,,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopia-coronavirus-cases-rises-to-four/,,,,2020-03-16,,,,,Japanese national in close contact with first patient
 5,,,,male,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/%e1%89%a0%e1%8a%a2%e1%89%b5%e1%8b%ae%e1%8c%b5%e1%8b%ab-%e1%8a%a8%e1%8b%b1%e1%89%a3%e1%8b%ad-%e1%8b%a8%e1%88%98%e1%8c%a3-%e1%89%b0%e1%8c%a8%e1%88%9b%e1%88%aa-%e1%8b%a8%e1%89%ab%e1%8b%ad%e1%88%a8/,,,,2020-03-16,,,Dubai,,
-5,,,59,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopia-confirms-its-6th-case-of-coronavirus/,,,,2020-03-17,,2020-03-16,Dubai,,UK deplomat
+5,,,,male,Addis Ababa,Addis Ababa,Ethiopia,,https://bit.ly/2JsAIaP,,,,2020-03-16,,,Dubai,,
 7,,,85,female,Addis Ababa,Addis Ababa,Ethiopia,severe illness,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,2020-03-20,,2020-03-02,,,Ethiopian
 8,,,44,,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,2020-03-20,,,,,Japanese
 9,,,39,,Addis Ababa,,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,2020-03-20,,,,,Austrialian 
@@ -24,4 +24,7 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 23,,,30,male,Addis Ababa,Addis Ababa,Ethiopia,,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1,,,,03/31/2020,,03/24/2020,Dubai,,Ethiopian
 24,,,36,,Addis Ababa,Addis Ababa,Ethiopia,,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1,,,,03/31/2020,,03/24/2020,Dubai,,Ethiopian
 25,,,60,female,Addis Ababa,Addis Ababa,Ethiopia,,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1,,,,03/31/2020,,03/15/2020,France,,Ethiopian
-26,,,42,male,Dire Dawa,Dire Dawa,Ethiopia,,,,,,,,,Australia, Addis Ababa,,Ethiopian
+26,,,42,male,Dire Dawa,Dire Dawa,Ethiopia,,https://www.ephi.gov.et/images/Ppress-release_March-31_2020-second-Eng_DD.pdf,,,,,,2020-03-18,"Australia, Addis Ababa",,Ethiopian
+27,,,33,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.ephi.gov.et/images/novel_coronavirus/Press-release-confirmed-cases_April-1_2020_Eng-1.pdf,,,,,,,"Djibuti, Brazil, India, Congo Brazaville",,Ethiopian
+28,,,26,male,Addis Ababa,Addis Ababa,Ethiopia,,https://www.ephi.gov.et/images/novel_coronavirus/Press-release-confirmed-cases_April-1_2020_Eng-1.pdf,,,,,,,,,Ethiopian
+29,,,32,male,Addis Ababa,Addis Ababa,Ethiopia,,https://www.ephi.gov.et/images/novel_coronavirus/Press-release-confirmed-cases_April-1_2020_Eng-1.pdf,,,,,,,,,Ethiopian

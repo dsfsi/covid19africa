@@ -38,9 +38,9 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,original_stat
 36,,,29,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/4/2020,,,3/19/2020,Dubai,Yes,Ethiopian contact with confirmed case,https://twitter.com/FMoHealth/status/1246385769771655169/photo/2
 37,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/4/2020,,,4/1/2020,Dubai,Yes,Ethiopian contact with confirmed case,https://twitter.com/FMoHealth/status/1246385769771655169/photo/2
 38,,,35,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/4/2020,,,4/3/2020,Sweden,Unknown,Ethiopian,https://twitter.com/FMoHealth/status/1246385769771655169/photo/2
-39,,,26,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,,,,,4/5/2020,,,,Dubai,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
-40,,,60,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,,,,,4/5/2020,,,,Congo Brazzaville ,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
-41,,,45,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,,,,,4/5/2020,,,,Canada,Unknown,Eritrean or Libyan,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
-42,,,27,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,,,,,4/5/2020,,,,"UK, Licester City",Unknown,Libyan or Eritrean,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
-43,,,30,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,,,,,4/5/2020,,,,,Yes,Ethiopian contact with confirmed case,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
+39,,,26,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/5/2020,,,,Dubai,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
+40,,,60,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/5/2020,,,,Congo Brazzaville ,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
+41,,,45,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/5/2020,,,,Canada,Unknown,Eritrean or Libyan,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
+42,,,27,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/5/2020,,,,"UK, Licester City",Unknown,Libyan or Eritrean,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
+43,,,30,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/5/2020,,,,,Yes,Ethiopian contact with confirmed case,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
 44,,,65,female,Dukem,Oromia,Ethiopia,critical condition,critical condition,,,,4/6/2020,,,,,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1247096607675482112/photo/2

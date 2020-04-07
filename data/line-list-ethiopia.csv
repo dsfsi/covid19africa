@@ -1,30 +1,46 @@
-case_id,origin_case_id,date,age,gender,city,province/state,country,current_status,source,symptoms,date_onset_symptoms,date_admission_hospital,date_confirmation,underlying_conditions,travel_history_dates,travel_history_location,death_date,notes_for_discussion
-1,,,48,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,http://www.moh.gov.et/ejcc/en/node/194,,,,2020-03-13,,2020-03-04,Burkina Faso,,Japanese citizen
-2,1,,42,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-coronavirus-cases-rises-to-four/,,,,2020-03-16,,,,,Ethiopian in close contact with first patien
-3,1,,44,,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopia-coronavirus-cases-rises-to-four/,,,,2020-03-16,,,,,Japanese national in close contact with first patient
-4,1,,47,,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopia-coronavirus-cases-rises-to-four/,,,,2020-03-16,,,,,Japanese national in close contact with first patient
-5,,,,male,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/%e1%89%a0%e1%8a%a2%e1%89%b5%e1%8b%ae%e1%8c%b5%e1%8b%ab-%e1%8a%a8%e1%8b%b1%e1%89%a3%e1%8b%ad-%e1%8b%a8%e1%88%98%e1%8c%a3-%e1%89%b0%e1%8c%a8%e1%88%9b%e1%88%aa-%e1%8b%a8%e1%89%ab%e1%8b%ad%e1%88%a8/,,,,2020-03-16,,,Dubai,,
-5,,,,male,Addis Ababa,Addis Ababa,Ethiopia,,https://bit.ly/2JsAIaP,,,,2020-03-16,,,Dubai,,
-7,,,85,female,Addis Ababa,Addis Ababa,Ethiopia,severe illness,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,2020-03-20,,2020-03-02,,,Ethiopian
-8,,,44,,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,2020-03-20,,,,,Japanese
-9,,,39,,Addis Ababa,,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/,,,,2020-03-20,,,,,Austrialian 
-10,,,28,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-two-more-covid-19-cases/,,,,2020-03-22,,2020-03-14,Belgium,,Ethiopian
-11,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-two-more-covid-19-cases/,,,,2020-03-22,,2020-03-19,Dubai,,Ethiopian
-12,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,https://www.fanabc.com/english/ethiopia-confirms-one-more-covid-19-case/,,,,2020-03-24,,2020-03-20,Dubai,,Ethiopian
-13,,,72,,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,2020-03-14,Congo Brazzaville ,,Mauritian
-14,,,61,,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,,,,Ethiopian
-15,,,28,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/,,,,2020-03-27,,2020-03-21,Israel,,Ethiopian
-17,,,28,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,"03/17/2020, 03/19/2020 ","Brussels Belgium, Cameroon",,Ethiopian
-18,14,,14,male,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,,,,Ethiopian
-19,14,,48,female,Adama,Oromia,Ethiopia,,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/,,,,2020-03-29,,,,,Ethiopian
-19,,,38,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/,,,,2020-03-29,,,Dubai,,Ethiopian
-20,,,35,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.fanabc.com/,,,,2020-03-29,,,Dubai,,Ethiopian
-21,,,32,male,Addis Kidame,Amhara,Ethiopia,,https://twitter.com/FMoHealth/status/1244572109503967232,,,,2020-03-30,,2020-03-19,USA,,Ethiopian
-22,,,37,female,Bahirdar,Amhara,Ethiopia,,https://twitter.com/FMoHealth/status/1244572109503967232,,,,2020-03-30,,2020-03-21,UAE,,Ethiopian
-23,,,30,male,Addis Ababa,Addis Ababa,Ethiopia,,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1,,,,03/31/2020,,03/24/2020,Dubai,,Ethiopian
-24,,,36,,Addis Ababa,Addis Ababa,Ethiopia,,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1,,,,03/31/2020,,03/24/2020,Dubai,,Ethiopian
-25,,,60,female,Addis Ababa,Addis Ababa,Ethiopia,,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1,,,,03/31/2020,,03/15/2020,France,,Ethiopian
-26,,,42,male,Dire Dawa,Dire Dawa,Ethiopia,,https://www.ephi.gov.et/images/Ppress-release_March-31_2020-second-Eng_DD.pdf,,,,,,2020-03-18,"Australia, Addis Ababa",,Ethiopian
-27,,,33,female,Addis Ababa,Addis Ababa,Ethiopia,,https://www.ephi.gov.et/images/novel_coronavirus/Press-release-confirmed-cases_April-1_2020_Eng-1.pdf,,,,,,,"Djibuti, Brazil, India, Congo Brazaville",,Ethiopian
-28,,,26,male,Addis Ababa,Addis Ababa,Ethiopia,,https://www.ephi.gov.et/images/novel_coronavirus/Press-release-confirmed-cases_April-1_2020_Eng-1.pdf,,,,,,,,,Ethiopian
-29,,,32,male,Addis Ababa,Addis Ababa,Ethiopia,,https://www.ephi.gov.et/images/novel_coronavirus/Press-release-confirmed-cases_April-1_2020_Eng-1.pdf,,,,,,,,,Ethiopian
+case_id,origin_case_id,date,age,gender,city,province/state,country,original_status,current_status,symptoms,date_onset_symptoms,date_admission_hospital,date_confirmation,closed_date,underlying_conditions,travel_history_dates,travel_history_location,contact,notes_for_discussion,source
+1,,,48,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/13/2020,,,3/4/2020,Burkina Faso,Unknown,Japanese citizen,http://www.moh.gov.et/ejcc/en/node/194
+2,1,,42,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/15/2020,,,,,yes,Ethiopian in close contact with first patien,https://www.fanabc.com/english/ethiopia-coronavirus-cases-rises-to-four/
+3,1,,44,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/15/2020,,,,,Yes,Japanese national in close contact with first patient and transferred to Japan,https://www.fanabc.com/english/ethiopia-coronavirus-cases-rises-to-four/
+4,1,,47,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/15/2020,,,,,Yes,Japanese national in close contact with first patient and transferred to Japan,https://www.fanabc.com/english/ethiopia-coronavirus-cases-rises-to-four/
+5,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/15/2020,,,,Dubai,Unknown,Ethiopian,https://www.fanabc.com/%e1%89%a0%e1%8a%a2%e1%89%b5%e1%8b%ae%e1%8c%b5%e1%8b%ab-%e1%8a%a8%e1%8b%b1%e1%89%a3%e1%8b%ad-%e1%8b%a8%e1%88%98%e1%8c%a3-%e1%89%b0%e1%8c%a8%e1%88%9b%e1%88%aa-%e1%8b%a8%e1%89%ab%e1%8b%ad%e1%88%a8/
+6,,,59,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/17/2020,,,,Dubai,Unknown,UK Citizen diplomat,https://bit.ly/2JsAIaP
+7,,,85,female,Addis Ababa,Addis Ababa,Ethiopia,critical condition,recovered,,,,3/19/2020,4/4/2020,,3/2/2020,,Unknown,Ethiopian arrived from unspecified foreign country,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/
+8,,,44,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/19/2020,,,,,Yes,Japanese contact with unspecified previously confirmed case,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/
+9,,,39,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/19/2020,,,3/15/2020,Austria,Unknown,Austrian,https://www.fanabc.com/english/ethiopia-reports-three-new-cases-of-coronavirus/
+10,,,28,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/22/2020,,,3/14/2020,Belgium,Unknown,Ethiopian,https://www.fanabc.com/english/ethiopia-confirms-two-more-covid-19-cases/
+11,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/22/2020,,,3/19/2020,Dubai,Unknown,Ethiopian,https://www.fanabc.com/english/ethiopia-confirms-two-more-covid-19-cases/
+12,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/23/2020,,,3/19/2020,Dubai,Unknown,Ethiopian,https://www.fanabc.com/english/ethiopia-confirms-one-more-covid-19-case/
+13,,,72,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/27/2020,,,3/14/2020,Congo Brazzaville ,Unknown,Mauritian,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/
+14,,,61,male,Adama,Oromia,Ethiopia,stable condition,stable condition,,,,3/27/2020,,,,,Yes,Ethiopian with known contact with unspecified foreigner,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/
+15,,,28,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/27/2020,,,3/21/2020,Israel,Unknown,Ethiopian,https://www.fanabc.com/english/ethiopias-coronavirus-cases-rise-to-16/
+16,,,24,female,Addis Ababa,addis Ababa,Ethiopia,stable condition,stable condition,,,,3/27/2020,,,,,Unknown,Ethiopian,https://twitter.com/FMoHealth/status/1243467502312710146/photo/1
+17,,,28,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/29/2020,,,"03/17/2020, 03/19/2020 ","Brussels Belgium, Cameroon",,Ethiopian,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/
+18,14,,14,male,Adama,Oromia,Ethiopia,stable condition,stable condition,,,,3/29/2020,,,,,Unknown,Ethiopian,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/
+19,14,,48,female,Adama,Oromia,Ethiopia,stable condition,stable condition,,,,3/29/2020,,,,,Unknown,Ethiopian,https://www.fanabc.com/english/ministry-reports-three-more-confirmed-cases-of-coronavirus/
+19,,,38,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/29/2020,,,,Dubai,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1244291016301166593/photo/1
+20,,,35,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/29/2020,,,,Dubai,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1244291016301166593/photo/1
+21,,,32,male,Addis Kidame,Amhara,Ethiopia,stable condition,stable condition,,,,3/30/2020,,,3/19/2020,USA,Unknown,Ethiopian,https://twitter.com/FMoHealth/status/1244572109503967232
+22,,,37,female,Bahirdar,Amhara,Ethiopia,stable condition,stable condition,,,,3/30/2020,,,3/21/2020,UAE,Unknown,Ethiopian,https://twitter.com/FMoHealth/status/1244572109503967232
+23,,,30,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/31/2020,,,3/24/2020,Dubai,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1
+24,,,36,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,3/31/2020,,,3/24/2020,Dubai,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1
+25,,,60,female,Addis Ababa,Addis Ababa,Ethiopia,critical condition,dead,,,,3/31/2020,4/5/2020,,3/15/2020,France,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1244909896371515392/photo/1
+26,,,42,male,Dire Dawa,Dire Dawa,Ethiopia,stable condition,stable condition,,,,3/31/2020,,,3/18/2020,"Australia, Addis Ababa",Unknown,Ethiopian,https://www.ephi.gov.et/images/Ppress-release_March-31_2020-second-Eng_DD.pdf
+27,,,33,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/1/2020,,,,"Djibuti, Brazil, India, Congo Brazaville",,Ethiopian,https://www.ephi.gov.et/images/novel_coronavirus/Press-release-confirmed-cases_April-1_2020_Eng-1.pdf
+28,,,26,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/1/2020,,,,,Yes,Ethiopian contact with many travellers,https://www.ephi.gov.et/images/novel_coronavirus/Press-release-confirmed-cases_April-1_2020_Eng-1.pdf
+29,,,32,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/1/2020,,,,,Yes,Ethiopian contact with unspecified previously confirmed case,https://www.ephi.gov.et/images/novel_coronavirus/Press-release-confirmed-cases_April-1_2020_Eng-1.pdf
+30,,,35,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/3/2020,,,3/25/2020,Dubai,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1246009436554121218/photo/1
+31,,,28,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/3/2020,,,,,Unknown,Ethiopian contact with confirmed case,https://twitter.com/lia_tadesse/status/1246009436554121218/photo/1
+32,,,33,female,Dire Dawa,Dire Dawa,Ethiopia,stable condition,stable condition,,,,4/3/2020,,,,,Yes,Ethiopian contact with confirmed case,https://twitter.com/lia_tadesse/status/1246009436554121218/photo/1
+33,,,56,male,Addis Ababa,Addis Ababa,Ethiopia,critical condition,dead,,,,4/3/2020,4/5/2020,,,,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1246009436554121218/photo/1
+34,,,30,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/3/2020,,,,,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1246009436554121218/photo/1
+35,,,30,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/3/2020,,,3/17/2020,Dubai,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1246009436554121218/photo/1
+36,,,29,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/4/2020,,,3/19/2020,Dubai,Yes,Ethiopian contact with confirmed case,https://twitter.com/FMoHealth/status/1246385769771655169/photo/2
+37,,,34,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/4/2020,,,4/1/2020,Dubai,Yes,Ethiopian contact with confirmed case,https://twitter.com/FMoHealth/status/1246385769771655169/photo/2
+38,,,35,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/4/2020,,,4/3/2020,Sweden,Unknown,Ethiopian,https://twitter.com/FMoHealth/status/1246385769771655169/photo/2
+39,,,26,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/5/2020,,,,Dubai,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
+40,,,60,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/5/2020,,,,Congo Brazzaville ,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
+41,,,45,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/5/2020,,,,Canada,Unknown,Eritrean or Libyan,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
+42,,,27,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/5/2020,,,,"UK, Licester City",Unknown,Libyan or Eritrean,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
+43,,,30,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/5/2020,,,,,Yes,Ethiopian contact with confirmed case,https://twitter.com/lia_tadesse/status/1246739633532276737/photo/2
+44,,,65,female,Dukem,Oromia,Ethiopia,critical condition,critical condition,,,,4/6/2020,,,,,Unknown,Ethiopian,https://twitter.com/lia_tadesse/status/1247096607675482112/photo/2

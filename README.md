@@ -66,6 +66,11 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 
 See [data README](data/README.md)
 
+## Github Contributors [Commits and Pull requests]
+<a href="https://github.com/dsfsi/covid19africa/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=dsfsi/covid19africa" />
+</a>
+Made with [contributors-img](https://contributors-img.web.app).
 ## Contact
 * Elaine Nsoesie - onelaine@bu.edu, [@ensoesie](https://twitter.com/ensoesie)
 * Vukosi Marivate - vukosi.marivate@cs.up.ac.za, [@vukosi](https://twitter.com/vukosi)

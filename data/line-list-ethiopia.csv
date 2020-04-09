@@ -52,3 +52,6 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,original_stat
 50,,,25,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/7/2020,,,,Thailand,Unknown,Ethiopian,https://twitter.com/EPHIEthiopia/status/1247483606299262976/photo/1
 51,,,19,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/7/2020,,,,,Yes,Ethiopian,https://twitter.com/EPHIEthiopia/status/1247483606299262976/photo/1
 52,,,30,female,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/7/2020,,,,UK London,Unknown,Eritrean,https://twitter.com/EPHIEthiopia/status/1247483606299262976/photo/1
+53,21,,36,male,Addis Kidame,Amhara,Ethiopia,stable condition,stable condition,,,,4/8/2020,,,,,Yes,Ethiopian,https://twitter.com/EPHIEthiopia/status/1247836243175657472/photo/1
+54,,,29,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/8/2020,,,,Dubai,Unknown,Ethiopian,https://twitter.com/EPHIEthiopia/status/1247836243175657472/photo/1
+55,,,29,male,Addis Ababa,Addis Ababa,Ethiopia,stable condition,stable condition,,,,4/8/2020,,,,dubai,UNknown,Ethiopian,https://twitter.com/EPHIEthiopia/status/1247836243175657472/photo/1

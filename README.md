@@ -34,6 +34,8 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 * See [the issues](https://github.com/dsfsi/covid19africa/issues/)
 
 ### Resources
+* [Data Science Africa COVID-19 Response](https://www.youtube.com/watch?v=9o0sa7gypMc)
+* [IndabaX South Africa: Vukosi Marivate - Using data science to inform the COVID-19 outbreak in Africa](https://www.youtube.com/watch?v=DZOpypSA85I)
 * [Stanford <> CS472 Data science and AI for COVID-19](https://sites.google.com/view/data-science-covid-19)
 
 ### List of contributors or volunteers

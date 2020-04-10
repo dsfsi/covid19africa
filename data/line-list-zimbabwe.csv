@@ -10,3 +10,5 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 9,,,50,M,Harare,Harare Metro,Zimbabwe,Died,MoHCC,,,,,,,UK,2020-04-08,
 10,,,24,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,
 11,,,79,M,Bulawayo,Bulawayo,Zimbabwe,Died,MoHCC,,,,,,,Local,2020-04-04,Results came back on 2020-04-07 after his death
+12,,,21,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,Travelled with case 10
+13,,,21,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,Both travelled with case 10

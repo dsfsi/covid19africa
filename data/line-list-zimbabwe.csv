@@ -1,12 +1,12 @@
 case_id,origin_case_id,date,age,gender,city,province/state,country,current_status,source,symptoms,date_onset_symptoms,date_admission_hospital,date_confirmation,underlying_conditions,travel_history_dates,travel_history_location,death_date,notes_for_discussion
 1,,,38,M,VicFalls,Mat-North,Zimbabwe,Stable,MoHCC,,,,,,,UK,,
-2,,,30,M,Harare,Harare Metro,Zimbabwe,Died,MoHCCC,,,,,,,USA,2020-02-23,
+2,,,30,M,Harare,Harare Metro,Zimbabwe,Died,MoHCC,,,,,,,USA,2020-02-23,
 3,,,52,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Dubai,,
 4,,,24,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,USA,,
 5,,,30,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,,Contact of Case 2
 6,,,40,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,,Contact of case 3
 7,,,24,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,,contact of case 3
 8,,,21,M,Mash East,Mash East, Zimbabwe, Stable,MoHCC,,,,,,,Local,,contact of case 3
-9,,,50,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,
+9,,,50,M,Harare,Harare Metro,Zimbabwe,Died,MoHCC,,,,,,,UK,2020-04-08,
 10,,,24,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,
 11,,,79,M,Bulawayo,Bulawayo,Zimbabwe,Died,MoHCC,,,,,,,Local,2020-04-04,Results came back on 2020-04-07 after his death

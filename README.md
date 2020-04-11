@@ -78,6 +78,7 @@ Made with [contributors-img](https://contributors-img.web.app).
 ## Contact
 * Elaine Nsoesie - onelaine@bu.edu, [@ensoesie](https://twitter.com/ensoesie)
 * Vukosi Marivate - vukosi.marivate@cs.up.ac.za, [@vukosi](https://twitter.com/vukosi)
+* Esube Bekele - esube.tamirat[at]gmail.com, 
 
 ## Citing this dataset
 

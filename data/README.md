@@ -74,7 +74,12 @@ Note: These are mostly official sources of information. Unofficial sources of in
 ### Eritrea
 
 ### Ethiopia
-* [Ministry of Health](http://www.moh.gov.et/ejcc/)
+* [Ministry of Health](http://www.moh.gov.et/)
+* Twitter: [@FMoHealth](https://twitter.com/FMoHealth)
+* [Ethiopian Public Health Institute](https://www.ephi.gov.et/)
+* Twitter: [@EPHIEthiopia](https://twitter.com/EPHIEthiopia)
+* [Minister of Health](http://www.moh.gov.et/)
+* Twitter: [@lia_tadesse](https://twitter.com/lia_tadesse)
 
 ### Gabon
 * [Ministry of Health](http://www.sante.gouv.ga/)

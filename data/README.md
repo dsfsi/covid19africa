@@ -80,6 +80,7 @@ Note: These are mostly official sources of information. Unofficial sources of in
 * Twitter: [@EPHIEthiopia](https://twitter.com/EPHIEthiopia)
 * [Minister of Health](http://www.moh.gov.et/)
 * Twitter: [@lia_tadesse](https://twitter.com/lia_tadesse)
+* [COVID-19 Monitoring Platform](https://www.covid19.et/covid-19/)
 
 ### Gabon
 * [Ministry of Health](http://www.sante.gouv.ga/)

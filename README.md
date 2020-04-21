@@ -1,6 +1,6 @@
 # Coronavirus COVID-19 (2019-nCoV) Data Repository for Africa
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3732980.svg)](https://doi.org/10.5281/zenodo.3732980)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3757554.svg)](https://doi.org/10.5281/zenodo.3757554)
 
 
 The purpose of this repository is to collate data on the ongoing coronavirus pandemic in Africa. Our goal is to record detailed information on each reported case in every African country. We want to build a line list – a table summarizing information about people who are infected, dead, or recovered. The table for each African country would include demographic, location, and  symptom (where available) information for each reported case. The data will be obtained from official sources (e.g., WHO, departments of health, CDC etc.) and unofficial sources (e.g., news). Such a dataset has many uses, including studying the spread of COVID-19 across Africa and assessing similarities and differences to what’s being observed in other regions of the world.
@@ -89,7 +89,7 @@ Made with [contributors-img](https://contributors-img.web.app).
 
 > @dataset{marivate_vukosi_2020_3732980,
   author       = {Marivate, Vukosi and
-                  Nsoesie, Elaine and
+                  Nsoesie, Elaine and Bekele, Esube and
                   Africa open COVID-19 data working group},
   title        = {{Coronavirus COVID-19 (2019-nCoV) Data Repository 
                    for Africa}},
@@ -97,8 +97,8 @@ Made with [contributors-img](https://contributors-img.web.app).
   year         = 2020,
   publisher    = {Zenodo},
   version      = {0.5},
-  doi          = {10.5281/zenodo.3732980},
-  url          = {[https://doi.org/10.5281/zenodo.3732980](https://doi.org/10.5281/zenodo.3732980)}
+  doi          = {10.5281/zenodo.3757554},
+  url          = {[http://doi.org/10.5281/zenodo.3757554](http://doi.org/10.5281/zenodo.3757554)}
 }
 
 

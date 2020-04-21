@@ -22,4 +22,5 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 21,,,34,F,Bulawayo,Bulawayo,Zimbabwe,Stable,MoHCC,,,,,,,Local,,contact of case 16
 22,,,16,F,Bulawayo,Bulawayo,Zimbabwe,Stable,MoHCC,,,,,,,Local,,contact of case 16
 23,,,52,F,Bulawayo,Bulawayo,Zimbabwe,Stable,MoHCC,,,,,,,Local,,contact of case 15
-24,,,27,M,Harare,Harare Metro,Zimbabwe,Died,MoHCC,,,,,,,UK,,
+24,,,27,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,
+25,,,29,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,France,,

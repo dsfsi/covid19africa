@@ -16,7 +16,7 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 15,,,34,F,Bulawayo,Bulawayo,Zimbabwe,Stable,MoHCC,,,,,,,Local,,
 16,,,52,F,Bulawayo,Bulawayo,Zimbabwe,Stable,MoHCC,,,,,,,Local,,contact of case 11
 17,,,79,F,Bulawayo,Bulawayo,Zimbabwe,Stable,MoHCC,,,,,,,Local,,contact of case 11
-18,,,44,M,Harare,Harare Metro,Zimbabwe,Died,MoHCC,,,,,,,UK,,
+18,,,44,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,
 19,,,4,F,Bulawayo,Bulawayo,Zimbabwe,Stable,MoHCC,,,,,,,Local,,contact of case 16
 20,,,10,F,Bulawayo,Bulawayo,Zimbabwe,Stable,MoHCC,,,,,,,Local,,contact of case 16
 21,,,34,F,Bulawayo,Bulawayo,Zimbabwe,Stable,MoHCC,,,,,,,Local,,contact of case 16
@@ -27,3 +27,6 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 26,,,49,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,
 27,,,52,F,Mhondoro,Mash East,Zimbabwe,Died,MoHCC,,,,,,,Local,,2020-04-21
 28,,,25,F,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,
+29,,,46,F,Mhondoro,Mash East,Zimbabwe,Stable,MoHCC,,,,,,,Local,,Contact of case 27
+30,,,52,F,Mhondoro,Mash East,Zimbabwe,Stable,MoHCC,,,,,,,Local,,Contact of case 27
+31,,,31,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,

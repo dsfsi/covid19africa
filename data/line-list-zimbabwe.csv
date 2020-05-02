@@ -30,3 +30,6 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 29,,,46,F,Mhondoro,Mash East,Zimbabwe,Stable,MoHCC,,,,,,,Local,,Contact of case 27
 30,,,52,F,Mhondoro,Mash East,Zimbabwe,Stable,MoHCC,,,,,,,Local,,Contact of case 27
 31,,,31,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,
+32,,,52,M,Murehwa,Mash East,Zimbabwe,Stable,MoHCC,,,,,,,Local,, No known details of contact with positive person
+33,,,70,M,Bulawayo,Bulawayo Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,
+34,,,27,M,Bulawayo,Bulawayo Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,, contact of case 33

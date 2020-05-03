@@ -13,8 +13,9 @@ from datetime import datetime
 from PIL import Image
 
 import pytesseract
+# Point this to where you installed Tesseract executable for OCR
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-africa_cdc_path = "data/africa_cdc/"
+africa_cdc_path = "data/time_series/africa_cdc/"
 # This is a hack for now, it will be replaced with similarity measures for more elegant accomodation of variants
 # Variants happen due to people mistyping or OCR artifacts
 freq_missed = {"ORC" : "DRC", "Cdte d'ivoire": "Cote d'ivoire", "Cdte d'Ivoire": "Cote d'ivoire", 

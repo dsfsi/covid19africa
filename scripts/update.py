@@ -1,0 +1,194 @@
+# This script will be used to update cases, deaths, recovered from 
+# https://twitter.com/AfricaCDC daily updates in the form of images
+
+import sys
+import os
+from os import listdir
+from os.path import isfile, join
+import pandas as pd
+import re
+import argparse
+from datetime import datetime
+
+from PIL import Image
+
+import pytesseract
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+africa_cdc_path = "data/africa_cdc/"
+# This is a hack for now, it will be replaced with similarity measures for more elegant accomodation of variants
+# Variants happen due to people mistyping or OCR artifacts
+freq_missed = {"ORC" : "DRC", "Cdte d'ivoire": "Cote d'ivoire", "Cdte d'Ivoire": "Cote d'ivoire", 
+                                "Cate d'ivoire" : "Cote d'ivoire", "Cote d'Ivoire" : "Cote d'ivoire", "Cate d'Ivoire" : "Cote d'ivoire", 
+                                "Céte d'ivoire" : "Cote d'ivoire", "Céte d'Ivoire" : "Cote d'ivoire", "Cte d'Ivoire" : "Cote d'ivoire",
+                                "S20 Tome & Principe" : "Sao Tome & Principe", "Sa0 Tome & Principe" : "Sao Tome & Principe"}
+
+def print_inter_diff(data_f, data):
+    # matched text from images
+    txt = list(data.keys())
+    txt.sort()
+    # country names from the CSV files
+    x = data_f[0]
+    country_names = x.index
+    print(list(country_names))
+    print(len(country_names))
+
+    print(list(txt))
+    print(len(txt))
+
+    inxn = list(set(txt) & set(country_names))
+    print(inxn)
+    print(len(inxn))
+
+    diff = set(txt).difference(set(country_names))
+    print(diff)
+    print(len(diff))
+
+def parse_args():
+    cmd_parser = argparse.ArgumentParser()
+    cmd_parser.add_argument("-i", "--input_path", default="img/",
+                            help="path to the image file to parse data from")
+    cmd_parser.add_argument("-m", "--mode", default="batch",
+                            help="Whether to batch process many days images or single day image")
+    args = vars(cmd_parser.parse_args())
+
+    return args
+
+def get_filenames(files_path=africa_cdc_path, file_base="africa_cdc_daily_time_series"):
+    str_ = files_path + file_base + "_"
+    str_ += '{0}.csv'
+    files = list(map(str_.format, ["cases", "deaths", "recovered"])) # , "tests"]))
+    print(files)
+    return files
+
+def read_time_series():
+    files = get_filenames()
+    # read the files
+    data_f = [pd.read_csv(f, index_col='Country', encoding = "ISO-8859-1") for f in files]
+    # print(data_f)
+    return data_f, files
+
+def update_time_series(data_f="", data="", date_txt=""):
+    # data_f[0] is cases, data_f[1] is deaths, data_f[2] is recovered
+    for df, i in zip(data_f, range(len(data_f))):
+        # First, check to see if the date column exists
+        # print("The existing data columns are: \n")
+        # print(df.columns)
+        if date_txt not in df.columns:
+            print("The date doesn't exist!!! Creating a new column")
+            # If date doesn't exist, create a new column with the current date
+            df[date_txt] = 0
+        else:
+            print("The date exists! Updating existing column.")
+        # update the column data
+        keys = data.keys()
+        for row in df.index:
+            if row in keys:
+                # print("Country: {}, Data: {}".format(row,i))
+                if len(data[row]) == 3:
+                    df.at[row, date_txt] = data[row][i] 
+        # print(df)
+
+    return data_f
+
+def write_time_series(data="", files=""):
+    for df, f in zip(data, files):
+        df.to_csv(f, encoding = "utf-8")
+    
+def get_text(file_name=""):
+    # This expression matches the country cases, deaths, and recoveries as well as for the regions and totals at the beginning of the 
+    # African CDC daily reporting images
+    # cdr_exp = r"([*&\-'\w]+\s*[*&\-'\w]+\s*[*&\-'\w]+\s*[*&\-'\w]+)\s?(\([^)]+\))" # exp
+    # cdr_exp = r"(([*&\-'\w]+\s?){1,4})\s?(\([^)]+\))" # exp
+    cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s(\(?[\d\*\;\s\,]+\))" # exp
+    re_ = re.compile(cdr_exp)
+
+    #print( image_to_string(Image.open('April_15_6pm.jpg')))
+    # 'img/April_15_6pm.jpg'
+    txt = pytesseract.image_to_string(Image.open(file_name), lang='eng')
+    # Remove the newline characters
+    txt = txt.replace("\n", ' ')
+    print(txt)
+    # get the date text
+    date_txt = parse_date(txt)
+    # get all matching data
+    txt_ = re_.findall(txt)
+    print(txt_)
+    # remove trailing spaces and construct the data dict
+    data = {x[0].rstrip().lstrip().replace("*",'').replace(",",''):parse_num(x[2]) for x in txt_}
+    # Replace frequently missed country names because of data entry and OCR issues
+    for key, val in freq_missed.items():
+        if key in data.keys():
+            data[val] = data.pop(key)
+
+    keys = list(data.keys())
+    # print(keys)
+    keys.sort()
+    print(keys)
+    return data, date_txt
+
+def parse_date(txt):
+    exp_d = r'\d\d?\s[\w]+\s\d{4}'
+    re_d = re.compile(exp_d)
+    txt_ = re_d.findall(txt)
+    # Grab the first matched date
+    print(txt_)
+    date_obj = datetime.strptime(txt_[0], '%d %B %Y').date()
+    date_txt = date_obj.strftime('%#m/%#d/%Y')
+    # date_txt = '5/2/2020'
+    print(date_txt)
+
+    return date_txt
+
+def parse_num(x):
+    exp_n = r'[\d,]+'
+    re_n = re.compile(exp_n)
+    txt_ = [int(a.replace(",",'')) for a in re_n.findall(x)]
+    # print(txt_)
+    return txt_
+
+def update_africa_cdc_data(data="", files="", imgs_path="img/April_15_6pm.jpg"):
+    # Open the files once
+    data_f, files = read_time_series()
+    # Update the data from each image parsed
+    data, date_txt = get_text(imgs_path)
+    print(data)
+    print(date_txt)
+    print_inter_diff(data_f, data)
+    # Write the data to the time series data frames
+    data_f = update_time_series(data_f, data, date_txt)
+
+    # Finally, write the data frames once to the files
+    write_time_series(data_f, files)
+
+def update_africa_cdc_data_batch(data="", files="", imgs_path="img/"):
+    # Open the files once
+    data_f, files = read_time_series()
+    # Create the filenames in the img/ folder
+    images = [imgs_path]
+    if imgs_path == "img/":
+        images = [imgs_path + f for f in listdir(imgs_path) if isfile(join(imgs_path, f))]
+
+    for image_file in images:
+        print("="*100)
+        print("Processing File: {}".format(image_file))
+        print("="*100)
+        # Update the data from each image parsed
+        data, date_txt = get_text(image_file)
+        print(data)
+        print(date_txt)
+        print_inter_diff(data_f, data)
+        # Write the data to the time series data frames
+        data_f = update_time_series(data_f, data, date_txt)
+
+        # Finally, write the data frames for each update just in case
+        write_time_series(data_f, files)
+
+args = parse_args()
+images_path = args["input_path"]
+mode = args["mode"]
+print(images_path)
+print(mode)
+
+update_africa_cdc_data_batch(imgs_path=images_path)
+
+

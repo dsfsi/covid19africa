@@ -1,0 +1,99 @@
+case_id,origin_case_id,date,age,gender,city,province/state,country,current_status,source 1,source 2,symptoms,date_onset_symptoms,date_admission_hospital,date_confirmation,underlying_conditions,travel_history_dates,travel_history_location,death_date,notes_for_discussion
+1,,2020-03-19,36,Male,Niamey,Niamey Capital District,Niger,Alive,https://www.aa.com.tr/en/africa/niger-reports-first-confirmed-covid-19-case/1772561,,,,,2020-03-20,,,"Travelled to Togo, Ghana, Cote d'Ivoire, and Burkina Faso",N/A,
+2,,2020-03-21,51,Male,Niamey,Niamey Capital District,Niger,Alive,http://www.tamtaminfo.com/coronavirus-un-deuxieme-cas-declare-au-niger/,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,2020-03-21,,Returned 2020-2-28,Travelled from Italy,N/A,
+3,,2020-03-22,x,x,Niamey,Niamey Capital District,Niger,Alive,https://www.actuniger.com/societe/15981-coronavirus-un-3e-cas-confirme-sur-une-bresilienne-qui-est-arrivee-de-suisse-ministre-de-la-sante,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,2020-03-23,,Returned 2020-3-16,Travelled from Switzerland,N/A,
+4,,2020-03-24,63,Male,Niamey,Niamey Capital District,Niger,Alive,http://www.actuniger.com/societe/15985-covid-19-7-cas-et-un-premier-deces-au-niger-ministre-de-la-sante,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,2020-03-24,,Returned 2020-3-14,Travelled from France,N/A,
+5,,2020-03-24,57,Male,Niamey,Niamey Capital District,Niger,Alive,http://www.actuniger.com/societe/15985-covid-19-7-cas-et-un-premier-deces-au-niger-ministre-de-la-sante,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,2020-03-24,,Returned 2020-3-14,Travelled from France,N/A,
+6,,2020-03-24,63,Female,Niamey,Niamey Capital District,Niger,Alive,http://www.actuniger.com/societe/15985-covid-19-7-cas-et-un-premier-deces-au-niger-ministre-de-la-sante,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,2020-03-24,,Returned 2020-3-14,Travelled from France,N/A,
+7,,2020-03-24,63,Male,Niamey,Niamey Capital District,Niger,Dead,http://www.tamtaminfo.com/coronavirus-sept-7-cas-enregistres-dont-un-1mort/,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,2020-03-24,,,,2020-03-23,
+8,,2020-03-24,62,Male,Niamey,Niamey Capital District,Niger,Alive,http://www.actuniger.com/societe/15996-coronavirus-10-cas-enregistres-au-niger-en-une-semaine,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,2020-03-24,,Returned 2020-2-27,Travelled from Senegal,,
+9,,2020-03-26,52,Female,Niamey,Niamey Capital District,Niger,Alive,http://www.actuniger.com/societe/15996-coronavirus-10-cas-enregistres-au-niger-en-une-semaine,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,2020-03-26,,,Contact with patient confirmed positive,,
+10,,2020-03-26,56,Male,Niamey,Niamey Capital District,Niger,Alive,http://www.actuniger.com/societe/15996-coronavirus-10-cas-enregistres-au-niger-en-une-semaine,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,2020-03-26,,Returned 2020-2-28,"Travelled to Central African Republic, Liberia, and Kenya",,
+11,,2020-03-28,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+12,,2020-03-28,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+13,,2020-03-28,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+14,,2020-03-28,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+15,,2020-03-28,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+16,,2020-03-28,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+17,,2020-03-28,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+18,,2020-03-28,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+19,,2020-03-29,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+20,,2020-03-28,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+21,,2020-03-28,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+22,,2020-03-28,?,?,Niamey,Niamey Capital District,Niger,,https://coronavirus.ne/#info,https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases,,,,,,,,,No details yet. 3 deaths as of 2020-3-28
+23,,2020-03-30,27,Female,Niamey,Niamey Capital District,Niger,Alive,http://www.actuniger.com/societe/16014-covid-19-05-nouveaux-cas-positifs-a-niamey,,,,,2020-03-30,,,,,
+24,,2020-03-30,69,Male,Niamey,Niamey Capital District,Niger,Alive,http://www.actuniger.com/societe/16014-covid-19-05-nouveaux-cas-positifs-a-niamey,,,,,2020-03-30,,,,,
+25,,2020-03-30,57,Female,Niamey,Niamey Capital District,Niger,Alive,http://www.actuniger.com/societe/16014-covid-19-05-nouveaux-cas-positifs-a-niamey,,,,,2020-03-30,,,,,
+26,,2020-03-30,54,Male,Niamey,Niamey Capital District,Niger,Alive,http://www.actuniger.com/societe/16014-covid-19-05-nouveaux-cas-positifs-a-niamey,,,,,2020-03-30,,,,,
+27,,2020-03-30,52,Female,Niamey,Niamey Capital District,Niger,Alive,http://www.actuniger.com/societe/16014-covid-19-05-nouveaux-cas-positifs-a-niamey,,,,,2020-03-30,,,,,
+28,,2020-4-1,?,Female,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+29,,2020-4-1,?,Female,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+30,,2020-4-1,?,Female,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+31,,2020-4-1,?,Female,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+32,,2020-4-1,?,Female,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+33,,2020-4-1,?,Female,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+34,,2020-4-1,?,Female,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+35,,2020-4-1,?,Female,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+36,,2020-4-1,?,Female,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+37,,2020-4-1,?,Female,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+38,,2020-4-1,?,Female,"Maradi (Two patients in Maradi, unknown sex)",,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+39,,2020-4-1,?,Male,"Maradi (Two patients in Maradi, unknown sex)",,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+40,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+41,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+42,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+43,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+44,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+45,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+46,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+47,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+48,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+49,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+50,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+51,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+52,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+53,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+54,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+55,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+56,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+57,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+58,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+59,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+60,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+61,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+62,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+63,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+64,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+65,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+66,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+67,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+68,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+69,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+70,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+71,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+72,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+73,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+74,,2020-4-1,?,Male,Niamey,Niamey Capital District,Niger,?,http://www.actuniger.com/societe/16019-covid-19-74-cas-dont-2-a-maradi-et-5-deces-a-la-date-du-1er-avril,,,,,2020-4-2,,,,,2 deaths in cases 24-74
+75,,,?,Female,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+76,,,?,Female,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+77,,,?,Female,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+78,,,?,Female,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+79,,,?,Female,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+80,,,?,Female,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+81,,,?,Female,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+82,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+83,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+84,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+85,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+86,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+87,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+88,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+89,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+90,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+91,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+92,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+93,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+94,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+95,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+96,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+97,,,?,Male,Niamey,,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,
+98,,,?,Male ?,Dioundiou  (sex unknown),,,Alive,http://www.actuniger.com/societe/16023-covid-19-98-cas-dont-1-a-dosso-et-5-deces-a-la-date-du-02-avril,,,,,2020-4-2,,,,,

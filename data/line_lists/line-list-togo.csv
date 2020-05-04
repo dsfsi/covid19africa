@@ -1,0 +1,26 @@
+"","case_id","origin_case_id","date","age","gender","city","province/state","country","current_status","source","symptoms","date_onset_symptoms","date_admission_hospital","date_confirmation","underlying_conditions","travel_history_dates","travel_history_location","death_date","notes_for_discussion"
+"1",1,NA,2020-03-06,42,"female","LomÈ",NA,"Togo","Recovered","https://africa.cgtn.com/2020/03/06/togo-confirms-first-covid-19-case/",NA,NA,NA,2020-03-06,NA,NA,"Germany, France, Turkey",NA,NA
+"2",2,NA,2020-03-20,NA,NA,NA,NA,"Togo","Alive","https://sante.gouv.tg/node/637",NA,NA,NA,2020-03-20,NA,NA,NA,NA,NA
+"3",3,NA,2020-03-20,NA,NA,NA,NA,"Togo","Alive","https://sante.gouv.tg/node/637",NA,NA,NA,2020-03-20,NA,NA,NA,NA,NA
+"4",4,NA,2020-03-20,NA,NA,NA,NA,"Togo","Alive","https://sante.gouv.tg/node/637",NA,NA,NA,2020-03-20,NA,NA,NA,NA,NA
+"5",5,NA,2020-03-20,NA,NA,NA,NA,"Togo","Alive","https://sante.gouv.tg/node/637",NA,NA,NA,2020-03-20,NA,NA,NA,NA,NA
+"6",6,NA,2020-03-20,NA,NA,NA,NA,"Togo","Alive","https://sante.gouv.tg/node/637",NA,NA,NA,2020-03-20,NA,NA,NA,NA,NA
+"7",7,NA,2020-03-20,NA,NA,NA,NA,"Togo","Alive","https://sante.gouv.tg/node/637",NA,NA,NA,2020-03-20,NA,"2020/03/13","Europe",NA,NA
+"8",8,NA,2020-03-20,NA,NA,NA,NA,"Togo","Alive","https://sante.gouv.tg/node/637",NA,NA,NA,2020-03-20,NA,"2020/03/13","Europe",NA,NA
+"9",9,NA,2020-03-20,NA,NA,NA,NA,"Togo","Alive","https://sante.gouv.tg/node/637",NA,NA,NA,2020-03-20,NA,"2020/03/13","Europe",NA,NA
+"10",10,NA,2020-03-21,NA,NA,NA,NA,"Togo",NA,NA,NA,NA,NA,2020-03-21,NA,NA,NA,NA,NA
+"11",11,NA,2020-03-21,NA,NA,NA,NA,"Togo",NA,NA,NA,NA,NA,2020-03-21,NA,NA,NA,NA,NA
+"12",12,NA,2020-03-21,NA,NA,NA,NA,"Togo",NA,NA,NA,NA,NA,2020-03-21,NA,NA,NA,NA,NA
+"13",13,NA,2020-03-21,NA,NA,NA,NA,"Togo",NA,NA,NA,NA,NA,2020-03-21,NA,NA,NA,NA,NA
+"14",14,NA,2020-03-21,NA,NA,NA,NA,"Togo",NA,NA,NA,NA,NA,2020-03-21,NA,NA,NA,NA,NA
+"15",15,NA,2020-03-21,NA,NA,NA,NA,"Togo",NA,NA,NA,NA,NA,2020-03-21,NA,NA,NA,NA,NA
+"16",16,NA,2020-03-21,NA,NA,NA,NA,"Togo",NA,NA,NA,NA,NA,2020-03-21,NA,NA,NA,NA,NA
+"17",17,NA,NA,NA,NA,NA,NA,"Togo",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18",18,NA,NA,NA,NA,NA,NA,"Togo",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19",19,NA,NA,NA,NA,NA,NA,"Togo",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20",20,NA,NA,NA,"male",NA,NA,"Togo","Deceased","https://covid19.gouv.tg/situation-au-togo/",NA,NA,NA,NA,NA,"2020/03/17","Brussles",NA,NA
+"21",21,NA,2020-03-25,49,"male","LomÈ",NA,"Togo","Alive","https://covid19.gouv.tg/situation-au-togo/",NA,NA,NA,2020-03-25,NA,"2020/03/15","France",NA,NA
+"22",22,NA,2020-03-25,22,"male","LomÈ",NA,"Togo","Alive","https://covid19.gouv.tg/situation-au-togo/",NA,NA,NA,2020-03-25,NA,"2020/03/17","Burkina Faso",NA,NA
+"23",23,NA,2020-03-25,47,"male","LomÈ",NA,"Togo","Alive","https://covid19.gouv.tg/situation-au-togo/",NA,NA,NA,2020-03-25,NA,"2020/03/14","Burkina Faso",NA,NA
+"24",24,NA,2020-03-26,38,"male","LomÈ",NA,"Togo","Alive","https://covid19.gouv.tg/situation-au-togo/",NA,NA,NA,2020-03-26,NA,"2020/03/17","France",NA,NA
+"25",25,NA,2020-03-27,29,NA,"LomÈ",NA,"Togo","Alive","https://covid19.gouv.tg/situation-au-togo/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA

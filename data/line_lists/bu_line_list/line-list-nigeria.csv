@@ -1,0 +1,92 @@
+"","case_id","origin_case_id","date","age","gender","city","province/state","country","current_status","source","symptoms","date_onset_symptoms","date_admission_hospital","date_confirmation","underlying_conditions","travel_history_dates","travel_history_location","death_date","notes_for_discussion"
+"1",1,NA,2020-02-27,44,"male","Lagos",NA,"Nigeria","Alive","https://www.premiumtimesng.com/health/health-news/380886-updated-coronavirus-second-case-confirmed-in-nigeria.html",NA,NA,NA,2020-02-27,NA,"2020/02/24","Italy",NA,NA
+"2",2,NA,2020-03-09,NA,"male","Lagos",NA,"Nigeria","Alive","https://www.premiumtimesng.com/health/health-news/380886-updated-coronavirus-second-case-confirmed-in-nigeria.html",NA,NA,NA,2020-03-09,NA,NA,NA,NA,NA
+"3",2,NA,NA,NA,NA,NA,NA,"Nigeria","Alive","https://africacdc.org/disease-outbreak/novel-coronavirus-2019-ncov-global-epidemic-10-march-2020/",NA,NA,NA,NA,NA,NA,"Italy",NA,NA
+"4",3,NA,2020-03-16,30,"female","Lagos",NA,"Nigeria","Alive","https://www.thisdaylive.com/index.php/2020/03/17/breaking-nigeria-records-third-case-of-coronavirus/",NA,NA,NA,2020-03-16,NA,"2020/03/13","UK",NA,NA
+"5",4,NA,2020-03-18,38,NA,"Ekiti",NA,"Nigeria","Alive","https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria (March 19th Sitrep)",NA,NA,NA,2020-03-18,NA,NA,NA,NA,NA
+"6",5,NA,2020-03-18,NA,NA,"Lagos",NA,"Nigeria","Alive","https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria (March 19th Sitrep)",NA,NA,NA,2020-03-18,NA,NA,NA,NA,NA
+"7",6,NA,2020-03-18,NA,"female","Lagos",NA,"Nigeria","Alive","https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria (March 19th Sitrep)",NA,NA,NA,2020-03-18,NA,NA,"US",NA,NA
+"8",7,NA,2020-03-18,0.115384615,NA,"Lagos",NA,"Nigeria","Alive","https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria (March 19th Sitrep)",NA,NA,NA,2020-03-18,NA,NA,"US",NA,NA
+"9",8,NA,2020-03-18,58,"male","Lagos",NA,"Nigeria","Alive","https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria (March 19th Sitrep)",NA,NA,NA,2020-03-18,NA,"2020/03/13","UK",NA,NA
+"10",9,NA,2020-03-19,29,"female","Lagos",NA,"Nigeria","Alive","https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria (March 19th Sitrep)",NA,NA,NA,2020-03-19,NA,"2020/03/14","France",NA,NA
+"11",10,NA,2020-03-19,23,"female","Lagos",NA,"Nigeria","Alive","https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria (March 19th Sitrep)",NA,NA,NA,2020-03-19,NA,NA,NA,NA,NA
+"12",11,NA,2020-03-19,59,"male","Lagos",NA,"Nigeria","Alive","https://www.ncdc.gov.ng/diseases/sitreps/?cat=14&name=An%20update%20of%20COVID-19%20outbreak%20in%20Nigeria (March 19th Sitrep)",NA,NA,NA,2020-03-19,NA,NA,NA,NA,NA
+"13",12,NA,2020-03-19,43,"male","Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-19,NA,"2020/03/13","UK",NA,NA
+"14",13,NA,2020-03-21,NA,NA,"Abuja",NA,"Nigeria","Alive","https://twitter.com/DrEOEhanire/status/1241356894876377088/photo/1",NA,NA,NA,2020-03-21,NA,"3/15/2020 to 3/21","Canada/France/UK/_x000D_
+Netherlands/Spain",NA,NA
+"15",14,NA,2020-03-21,NA,NA,"Abuja",NA,"Nigeria","Alive","https://twitter.com/DrEOEhanire/status/1241356899775324163",NA,NA,NA,2020-03-21,NA,"3/15/2020 to 3/21","Canada/France/UK/_x000D_
+Netherlands/Spain",NA,NA
+"16",15,NA,2020-03-21,NA,NA,"Abuja",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-21,NA,"3/15/2020 to 3/21","Canada/France/UK/_x000D_
+Netherlands/Spain",NA,NA
+"17",16,NA,2020-03-21,NA,NA,"Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-21,NA,"3/15/2020 to 3/21","Canada/France/UK/_x000D_
+Netherlands/Spain",NA,NA
+"18",17,NA,2020-03-21,NA,NA,"Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-21,NA,"3/15/2020 to 3/21","Canada/France/UK/_x000D_
+Netherlands/Spain",NA,NA
+"19",18,NA,2020-03-21,NA,NA,"Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-21,NA,"3/15/2020 to 3/21","Canada/France/UK/_x000D_
+Netherlands/Spain",NA,NA
+"20",19,NA,2020-03-21,NA,NA,"Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-21,NA,"3/15/2020 to 3/21","Canada/France/UK/_x000D_
+Netherlands/Spain",NA,NA
+"21",20,NA,2020-03-21,NA,NA,"Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-21,NA,"3/15/2020 to 3/21","Canada/France/UK/_x000D_
+Netherlands/Spain",NA,NA
+"22",21,NA,2020-03-21,NA,NA,"Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-21,NA,"3/15/2020 to 3/21","Canada/France/UK/_x000D_
+Netherlands/Spain",NA,NA
+"23",22,NA,2020-03-21,NA,NA,"Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-21,NA,NA,NA,NA,NA
+"24",23,NA,NA,NA,NA,NA,NA,"Nigeria","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25",24,NA,NA,NA,NA,NA,NA,"Nigeria","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26",25,NA,NA,NA,NA,NA,NA,"Nigeria","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27",26,NA,2020-03-22,42,NA,"Oyo",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-22,NA,"2020/03/11","UK",NA,NA
+"28",27,NA,2020-03-22,67,NA,"Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-22,NA,"2020/03/09","UK",NA,NA
+"29",28,NA,2020-03-22,52,NA,"Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-22,NA,"2020/03/08","Dubai",NA,NA
+"30",29,NA,2020-03-22,55,NA,"Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-22,NA,NA,NA,NA,NA
+"31",30,NA,2020-03-22,33,NA,"Lagos",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-22,NA,"2020/03/08","USA",NA,NA
+"32",31,NA,2020-03-23,NA,NA,"Abuja",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242009696334217216",NA,NA,NA,2020-03-23,NA,NA,"UK (don't know which 2)",NA,NA
+"33",32,NA,2020-03-23,NA,NA,"Abuja",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242009696334217216",NA,NA,NA,2020-03-23,NA,NA,"UK (don't know which 2)",NA,NA
+"34",33,NA,2020-03-23,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242009696334217216",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"35",34,NA,2020-03-23,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242009696334217216",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"36",35,NA,2020-03-23,NA,NA,"Edo",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242009696334217216",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"37",36,NA,2020-03-23,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242210215208062976",NA,NA,NA,2020-03-23,NA,NA,"Yes",NA,NA
+"38",37,NA,2020-03-23,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242210215208062976",NA,NA,NA,2020-03-23,NA,NA,"Yes",NA,NA
+"39",38,NA,2020-03-23,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242210215208062976",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"40",39,NA,2020-03-23,NA,NA,"Abuja",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242210215208062976",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"41",40,NA,2020-03-23,67,"male",NA,NA,"Nigeria","Deceased","https://twitter.com/NCDCgov/status/1242025530070687750",NA,NA,NA,2020-03-23,NA,NA,"UK",NA,NA
+"42",41,NA,2020-03-24,NA,NA,"Abuja",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-24,NA,NA,NA,NA,NA
+"43",42,NA,2020-03-24,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242502830918979585",NA,NA,NA,2020-03-24,NA,NA,"Germany/UK (don't know which 2)",NA,NA
+"44",43,NA,2020-03-24,NA,NA,"Ogun",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242502830918979585",NA,NA,NA,2020-03-24,NA,NA,"Germany/UK (don't know which 2)",NA,NA
+"45",44,NA,2020-03-24,NA,NA,"Bauchi",NA,"Nigeria","Alive",NA,NA,NA,NA,2020-03-24,NA,NA,NA,NA,NA
+"46",45,NA,2020-03-25,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242692856944435200",NA,NA,NA,2020-03-25,NA,"past 7 days",NA,NA,NA
+"47",46,NA,2020-03-25,NA,NA,"Osun",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242692856944435200",NA,NA,NA,2020-03-25,NA,"past 7 days",NA,NA,NA
+"48",47,NA,2020-03-25,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242941046474055681",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"49",48,NA,2020-03-25,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242941046474055681",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"50",49,NA,2020-03-25,NA,NA,"Rivers",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242941046474055681",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"51",50,NA,2020-03-25,NA,NA,"Abuja",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242941046474055681",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"52",51,NA,2020-03-25,NA,NA,"Abuja",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1242941046474055681",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"53",52,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"54",53,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"55",54,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"56",55,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"57",56,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"58",57,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"59",58,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"60",59,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"61",60,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"62",61,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"63",62,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"64",63,NA,2020-03-26,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"65",64,NA,2020-03-26,NA,NA,"Bauchi",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"66",65,NA,2020-03-26,NA,NA,"Abuja",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243260377636515841",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"67",66,NA,2020-03-27,NA,NA,"Abuja",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243613937666531328",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"68",67,NA,2020-03-27,NA,NA,"Abuja",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243613937666531328",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"69",68,NA,2020-03-27,NA,NA,"Abuja",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243613937666531328",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"70",69,NA,2020-03-27,NA,NA,"Oyo",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243613937666531328",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"71",70,NA,2020-03-27,NA,NA,"Oyo",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243613937666531328",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"72",71,NA,2020-03-27,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243673114363527185",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"73",72,NA,2020-03-27,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243673114363527185",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"74",73,NA,2020-03-27,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243673114363527185",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"75",74,NA,2020-03-27,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243673114363527185",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"76",75,NA,2020-03-27,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243673114363527185",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"77",76,NA,2020-03-27,NA,NA,"Lagos",NA,"Nigeria","Alive","https://twitter.com/NCDCgov/status/1243673114363527185",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"78",77,NA,2020-03-27,NA,NA,"Lagos",NA,"Nigeria","Alive","https://covid19.ncdc.gov.ng/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"79",78,NA,2020-03-27,NA,NA,"Lagos",NA,"Nigeria","Alive","https://covid19.ncdc.gov.ng/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"80",79,NA,2020-03-27,NA,NA,"Edo",NA,"Nigeria","Alive","https://covid19.ncdc.gov.ng/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"81",80,NA,2020-03-27,NA,NA,"Enugu",NA,"Nigeria","Alive","https://covid19.ncdc.gov.ng/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"82",81,NA,2020-03-27,NA,NA,"Enugu",NA,"Nigeria","Alive","https://covid19.ncdc.gov.ng/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA

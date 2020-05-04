@@ -1,0 +1,10 @@
+"","case_id","origin_case_id","date","age","gender","city","province/state","country","current_status","source","symptoms","date_onset_symptoms","date_admission_hospital","date_confirmation","underlying_conditions","travel_history_dates","travel_history_location","death_date","notes_for_discussion"
+"1",1,NA,2020-03-14,33,"female",NA,NA,"Eswatini","Recovered","https://africa.cgtn.com/2020/03/14/eswatini-confirms-countrys-first-case-of-covid-19/",NA,NA,NA,2020-03-14,NA,"2020/03/07","USA",NA,NA
+"2",2,NA,2020-03-21,42,"male",NA,NA,"Eswatini","Alive","http://www.gov.sz/index.php/component/content/article/117-health/2412-covid-19-update?Itemid=799",NA,NA,NA,2020-03-21,NA,NA,"Italy",NA,NA
+"3",3,NA,2020-03-21,31,"male",NA,NA,"Eswatini","Alive","http://www.gov.sz/index.php/component/content/article/117-health/2412-covid-19-update?Itemid=799",NA,NA,NA,2020-03-21,NA,NA,NA,NA,NA
+"4",4,NA,2020-03-21,55,"female",NA,NA,"Eswatini","Alive","http://www.gov.sz/index.php/component/content/article/117-health/2412-covid-19-update?Itemid=799",NA,NA,NA,2020-03-21,NA,NA,"Europe",NA,NA
+"5",5,NA,2020-03-23,52,"male",NA,NA,"Eswatini","Alive","http://www.gov.sz/images/CORONA/Health-statement-23-March.pdf",NA,NA,NA,2020-03-23,NA,NA,"USA",NA,NA
+"6",6,NA,2020-03-25,NA,NA,NA,NA,"Eswatini","Alive","http://www.gov.sz/images/CORONA/ESWATINI-_COVID-19-SITREP-11-1.pdf",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"7",7,NA,2020-03-26,NA,NA,NA,NA,"Eswatini","Alive","http://www.gov.sz/images/CORONA/ESWATINI-_COVID-19-SITREP-12.pdf",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"8",8,NA,2020-03-26,NA,NA,NA,NA,"Eswatini","Alive","http://www.gov.sz/images/CORONA/ESWATINI-_COVID-19-SITREP-12.pdf",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"9",9,NA,2020-03-26,NA,NA,NA,NA,"Eswatini","Alive","http://www.gov.sz/images/CORONA/ESWATINI-_COVID-19-SITREP-12.pdf",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA

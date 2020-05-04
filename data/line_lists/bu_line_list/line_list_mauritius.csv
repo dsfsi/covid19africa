@@ -1,0 +1,94 @@
+"","case_id","origin_case_id","date","age","gender","city","province/state","country","current_status","source","symptoms","date_onset_symptoms","date_admission_hospital","date_confirmation","underlying_conditions","travel_history_dates","travel_history_location","death_date","notes_for_discussion"
+"1",1,NA,2020-03-19,52,"male",NA,NA,"Mauritius","Death","https://www.nbc.na/news/mauritius-records-first-covid-19-death.29465",NA,"2020/03/14",NA,2020-03-19,NA,"2020/02/21","Belgium",NA,NA
+"2",2,NA,2020-03-19,59,"male","Candos (residence), Souillac (isolated)",NA,"Mauritius","Death","https://defimedia.info/covid-19-trois-mauriciens-testes-positifs-zot-pe-gayn-tou-tretman-ki-bizin-rassure-le-pm",NA,NA,NA,2020-03-19,NA,"2020/03/07","UK",NA,"Mauritian, fever; importation=Y; transmission_type=NA; detected_through=Self-presentation"
+"3",3,NA,2020-03-19,21,"male","Souillac",NA,"Mauritius","Alive","https://defimedia.info/covid-19-trois-mauriciens-testes-positifs-zot-pe-gayn-tou-tretman-ki-bizin-rassure-le-pm",NA,NA,NA,2020-03-19,NA,"2020/03/14","Cruise",NA,"Mauritian, employee on a cruise ship; importation=Y; transmission_type=NA; detected_through=Active monitoring"
+"4",4,NA,2020-03-19,25,"male","Souillac",NA,"Mauritius","Alive","https://defimedia.info/covid-19-trois-mauriciens-testes-positifs-zot-pe-gayn-tou-tretman-ki-bizin-rassure-le-pm",NA,NA,NA,2020-03-19,NA,"2020/03/18","Cruise",NA,"Mauritian, employee on a cruise ship; importation=Y; transmission_type=NA; detected_through=Active monitoring"
+"5",5,NA,2020-03-19,NA,NA,NA,NA,"Mauritius","Alive","https://www.lexpress.mu/article/372956/deces-lie-au-coronavirus-gouvernement-confirme",NA,NA,NA,2020-03-19,NA,NA,NA,NA,"Contact of case #2 (M from UK); importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"6",6,NA,2020-03-19,NA,NA,NA,NA,"Mauritius","Alive","https://www.lexpress.mu/article/372956/deces-lie-au-coronavirus-gouvernement-confirme",NA,NA,NA,2020-03-19,NA,NA,NA,NA,"Contact of case #2 (M from UK); importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"7",7,NA,2020-03-19,NA,NA,NA,NA,"Mauritius","Alive","https://www.lexpress.mu/article/372956/deces-lie-au-coronavirus-gouvernement-confirme",NA,NA,NA,2020-03-19,NA,NA,NA,NA,"Contact of case #2 (M from UK); importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"8",8,NA,2020-03-20,15,"female",NA,NA,"Mauritius","Alive","https://www.vecret.com/blog/les-5-nouveaux-cas-lies-au-patient-zero-santaram-appa-voici-leurs-coordonnees.html",NA,NA,NA,2020-03-20,NA,NA,NA,NA,"Contact of case #2 (M from UK); importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"9",9,NA,2020-03-20,40,"female",NA,NA,"Mauritius","Alive","https://www.vecret.com/blog/les-5-nouveaux-cas-lies-au-patient-zero-santaram-appa-voici-leurs-coordonnees.html",NA,NA,NA,2020-03-20,NA,NA,NA,NA,"Contact of case #2 (M from UK); importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"10",10,NA,2020-03-20,56,"female",NA,NA,"Mauritius","Alive","https://www.vecret.com/blog/les-5-nouveaux-cas-lies-au-patient-zero-santaram-appa-voici-leurs-coordonnees.html",NA,NA,NA,2020-03-20,NA,NA,NA,NA,"Contact of case #2 (M from UK); importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"11",11,NA,2020-03-20,52,"male",NA,NA,"Mauritius","Alive","https://www.vecret.com/blog/les-5-nouveaux-cas-lies-au-patient-zero-santaram-appa-voici-leurs-coordonnees.html",NA,NA,NA,2020-03-20,NA,NA,NA,NA,"Contact of case #2 (M from UK); importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"12",12,NA,2020-03-20,67,"male",NA,NA,"Mauritius","Alive","https://www.vecret.com/blog/les-5-nouveaux-cas-lies-au-patient-zero-santaram-appa-voici-leurs-coordonnees.html",NA,NA,NA,2020-03-20,NA,NA,NA,NA,"Contact of case #2 (M from UK); importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"13",13,NA,2020-03-21,NA,NA,NA,NA,"Mauritius","Alive","https://www.lexpress.mu/article/372956/deces-lie-au-coronavirus-gouvernement-confirme",NA,NA,NA,2020-03-21,NA,NA,NA,NA,"Contact of case #2 (M from UK); importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"14",14,NA,2020-03-21,NA,"male",NA,NA,"Mauritius","Alive","https://ionnews.mu/covid-19-jagatpal-confirme-un-premier-deces-et-un-cas-dinfection-sur-un-francais-21032020/",NA,NA,NA,2020-03-21,NA,NA,"France",NA,NA
+"15",15,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive",NA,NA,NA,NA,2020-03-22,NA,NA,NA,NA,NA
+"16",16,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive",NA,NA,NA,NA,2020-03-22,NA,NA,NA,NA,NA
+"17",17,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive",NA,NA,NA,NA,2020-03-22,NA,NA,NA,NA,NA
+"18",18,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive",NA,NA,NA,NA,2020-03-22,NA,NA,NA,NA,NA
+"19",19,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/covid-19-28-cas-recenses-au-total-quatre-nouveaux-tests-positifs-sont-tombes-ce-soir-22032020/",NA,NA,NA,2020-03-22,NA,NA,NA,NA,NA
+"20",20,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/covid-19-28-cas-recenses-au-total-quatre-nouveaux-tests-positifs-sont-tombes-ce-soir-22032020/",NA,NA,NA,2020-03-22,NA,NA,NA,NA,NA
+"21",21,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/covid-19-28-cas-recenses-au-total-quatre-nouveaux-tests-positifs-sont-tombes-ce-soir-22032020/",NA,NA,NA,2020-03-22,NA,NA,NA,NA,NA
+"22",22,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/covid-19-28-cas-recenses-au-total-quatre-nouveaux-tests-positifs-sont-tombes-ce-soir-22032020/",NA,NA,NA,2020-03-22,NA,NA,NA,NA,NA
+"23",23,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/covid-19-28-cas-recenses-au-total-quatre-nouveaux-tests-positifs-sont-tombes-ce-soir-22032020/",NA,NA,NA,2020-03-22,NA,NA,NA,NA,"Mauritian; importation=N; transmission_type=Community transmission; detected_through=Self-presentation"
+"24",24,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/covid-19-28-cas-recenses-au-total-quatre-nouveaux-tests-positifs-sont-tombes-ce-soir-22032020/",NA,NA,NA,2020-03-22,NA,NA,NA,NA,"Contact of case #2; importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"25",25,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/covid-19-28-cas-recenses-au-total-quatre-nouveaux-tests-positifs-sont-tombes-ce-soir-22032020/",NA,NA,NA,2020-03-22,NA,NA,NA,NA,"Contact of case #2; importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"26",26,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/covid-19-28-cas-recenses-au-total-quatre-nouveaux-tests-positifs-sont-tombes-ce-soir-22032020/",NA,NA,NA,2020-03-22,NA,NA,NA,NA,"Contact of case #2; importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"27",27,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/covid-19-28-cas-recenses-au-total-quatre-nouveaux-tests-positifs-sont-tombes-ce-soir-22032020/",NA,NA,NA,2020-03-22,NA,NA,NA,NA,"Contact of case #2; importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"28",28,NA,2020-03-22,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/covid-19-28-cas-recenses-au-total-quatre-nouveaux-tests-positifs-sont-tombes-ce-soir-22032020/",NA,"2020/03/21",NA,2020-03-22,NA,"2020/03/21","India",NA,NA
+"29",29,NA,2020-03-23,NA,NA,NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-36-cas-confirmes-maurice",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"30",30,NA,2020-03-23,NA,NA,NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-36-cas-confirmes-maurice",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"31",31,NA,2020-03-23,NA,NA,NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-36-cas-confirmes-maurice",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"32",32,NA,2020-03-23,NA,NA,NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-36-cas-confirmes-maurice",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"33",33,NA,2020-03-23,NA,NA,NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-36-cas-confirmes-maurice",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"34",34,NA,2020-03-23,NA,NA,NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-36-cas-confirmes-maurice",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"35",35,NA,2020-03-23,NA,NA,NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-36-cas-confirmes-maurice",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"36",36,NA,2020-03-23,NA,NA,NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-36-cas-confirmes-maurice",NA,NA,NA,2020-03-23,NA,NA,NA,NA,NA
+"37",37,NA,2020-03-24,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-24,NA,NA,NA,NA,NA
+"38",38,NA,2020-03-24,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-24,NA,NA,NA,NA,NA
+"39",39,NA,2020-03-24,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-24,NA,NA,NA,NA,NA
+"40",40,NA,2020-03-24,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-24,NA,NA,NA,NA,NA
+"41",41,NA,2020-03-24,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-24,NA,NA,NA,NA,NA
+"42",42,NA,2020-03-24,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-24,NA,NA,NA,NA,NA
+"43",43,NA,2020-03-25,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"44",44,NA,2020-03-25,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"45",45,NA,2020-03-25,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"46",46,NA,2020-03-25,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"47",47,NA,2020-03-25,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"48",48,NA,2020-03-25,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"49",49,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-le-nombre-de-cas-positifs-passe-52",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"50",50,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-le-nombre-de-cas-positifs-passe-52",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"51",51,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-le-nombre-de-cas-positifs-passe-52",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"52",52,NA,2020-03-26,20,"female",NA,NA,"Mauritius","Alive","https://defimedia.info/covid-19-le-nombre-de-cas-positifs-passe-52",NA,NA,NA,2020-03-26,NA,NA,NA,NA,"Contracted virus at supermarket; importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"53",53,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"54",54,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"55",55,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"56",56,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"57",57,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"58",58,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"59",59,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"60",60,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"61",61,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"62",62,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"63",63,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"64",64,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"65",65,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"66",66,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"67",67,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"68",68,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"69",69,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"70",70,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"71",71,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"72",72,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"73",73,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"74",74,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"75",75,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"76",76,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"77",77,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"78",78,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"79",79,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"80",80,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"81",81,NA,2020-03-26,NA,NA,NA,NA,"Mauritius","Alive","https://ionnews.mu/video-jugnauth-on-est-passe-de-48-a-81-cas-a-maurice-en-un-jour-26032020/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"82",82,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"83",83,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"84",84,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"85",85,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"86",86,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"87",87,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"88",88,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"89",89,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"90",90,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"91",91,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"92",92,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"93",93,NA,2020-03-27,NA,NA,NA,NA,"Mauritius","Alive","https://www.facebook.com/coronavirusmoris/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA

@@ -1,0 +1,23 @@
+"","case_id","origin_case_id","date","age","gender","city","province/state","country","current_status","source","symptoms","date_onset_symptoms","date_admission_hospital","date_confirmation","underlying_conditions","travel_history_dates","travel_history_location","death_date","notes_for_discussion"
+"1",1,NA,2020-03-18,NA,"male","Lusaka",NA,"Zambia","Alive","https://www.france24.com/en/20200319-burkina-faso-sub-saharan-africa-coronavirus-covid19-death-who-tedros-adhanom-ghebreyesus",NA,NA,NA,2020-03-18,NA,NA,"France",NA,NA
+"2",2,NA,2020-03-18,NA,"female","Lusaka",NA,"Zambia","Alive","https://www.france24.com/en/20200319-burkina-faso-sub-saharan-africa-coronavirus-covid19-death-who-tedros-adhanom-ghebreyesus",NA,NA,NA,2020-03-18,NA,NA,"France",NA,"Ugandan; importation=Y; transmission_type=NA; detected_through=Active monitoring"
+"3",3,NA,2020-03-22,NA,"male","Lusaka",NA,"Zambia","Alive","https://www.cnbcafrica.com/apo/2020/03/22/zambia-confirms-3rd-covid-19/",NA,NA,NA,2020-03-22,NA,"2020/03/18","Pakistan",NA,"Zambian; importation=Y; transmission_type=NA; detected_through=Active monitoring"
+"4",4,NA,2020-03-25,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/25/lungus-full-address-zambia-records-12-covid-19-cases-as-lock-down-looms/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"5",5,NA,2020-03-25,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/25/lungus-full-address-zambia-records-12-covid-19-cases-as-lock-down-looms/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"6",6,NA,2020-03-25,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/25/lungus-full-address-zambia-records-12-covid-19-cases-as-lock-down-looms/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"7",7,NA,2020-03-25,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/25/lungus-full-address-zambia-records-12-covid-19-cases-as-lock-down-looms/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"8",8,NA,2020-03-25,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/25/lungus-full-address-zambia-records-12-covid-19-cases-as-lock-down-looms/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"9",9,NA,2020-03-25,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/25/lungus-full-address-zambia-records-12-covid-19-cases-as-lock-down-looms/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"10",10,NA,2020-03-25,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/25/lungus-full-address-zambia-records-12-covid-19-cases-as-lock-down-looms/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"11",11,NA,2020-03-25,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/25/lungus-full-address-zambia-records-12-covid-19-cases-as-lock-down-looms/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"12",12,NA,2020-03-25,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/25/lungus-full-address-zambia-records-12-covid-19-cases-as-lock-down-looms/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"13",13,NA,2020-03-26,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/27/covid-19-cases-rise-to-22/",NA,NA,NA,2020-03-26,NA,"2020/03/18","Pakistan",NA,NA
+"14",14,NA,2020-03-26,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/27/covid-19-cases-rise-to-22/",NA,NA,NA,2020-03-26,NA,"2020/03/18","Pakistan",NA,NA
+"15",15,NA,2020-03-26,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/27/covid-19-cases-rise-to-22/",NA,NA,NA,2020-03-26,NA,"2020/03/18","Pakistan",NA,NA
+"16",16,NA,2020-03-26,NA,NA,"Copperbelt, Masaiti Hospital in Ndola",NA,"Zambia","Alive","https://diggers.news/local/2020/03/27/covid-19-cases-rise-to-22/",NA,NA,NA,2020-03-26,NA,NA,NA,NA,"Contact of traveler; importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"17",17,NA,2020-03-27,NA,NA,"Copperbelt, Masaiti Hospital in Ndola",NA,"Zambia","Alive","https://diggers.news/local/2020/03/27/covid-19-cases-rise-to-22/",NA,NA,NA,2020-03-27,NA,"2020/03/18","Pakistan",NA,NA
+"18",18,NA,2020-03-27,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/27/covid-19-cases-rise-to-22/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"19",19,NA,2020-03-27,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/27/covid-19-cases-rise-to-22/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"20",20,NA,2020-03-27,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/27/covid-19-cases-rise-to-22/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"21",21,NA,2020-03-27,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/27/covid-19-cases-rise-to-22/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"22",22,NA,2020-03-27,NA,NA,"Lusaka",NA,"Zambia","Alive","https://diggers.news/local/2020/03/27/covid-19-cases-rise-to-22/",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA

@@ -1,0 +1,4 @@
+"","case_id","origin_case_id","date","age","gender","city","province/state","country","current_status","source","symptoms","date_onset_symptoms","date_admission_hospital","date_confirmation","underlying_conditions","travel_history_dates","travel_history_location","death_date","notes_for_discussion"
+"1",1,NA,2020-03-13,40,"male","Nouakchott",NA,"Mauritania",NA,"http://www.sante.gov.mr/?p=3796",NA,NA,NA,2020-03-13,NA,"2020/03/09",NA,NA,NA
+"2",2,NA,2020-03-18,41,"female","Nouakchott",NA,"Mauritania",NA,"http://www.sante.gov.mr/?p=3796",NA,NA,NA,2020-03-18,NA,"2020/03/08",NA,NA,NA
+"3",3,NA,2020-03-26,74,"male","Nouakchott",NA,"Mauritania",NA,"http://www.sante.gov.mr/?p=3796",NA,NA,NA,2020-03-26,NA,"2020/03/15","France",NA,NA

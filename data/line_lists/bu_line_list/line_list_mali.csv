@@ -1,0 +1,12 @@
+"","case_id","origin_case_id","date","age","gender","city","province/state","country","current_status","source","symptoms","date_onset_symptoms","date_admission_hospital","date_confirmation","underlying_conditions","travel_history_dates","travel_history_location","death_date","notes_for_discussion"
+"1",1,NA,2020-03-24,49,"female","Bameko",NA,"Mali",NA,"https://twitter.com/GouvernementM/status/1242755883374911490?s=20",NA,NA,NA,2020-03-24,NA,"2020/03/12","France",NA,NA
+"2",2,NA,2020-03-24,62,"male","Kayes",NA,"Mali",NA,"https://twitter.com/GouvernementM/status/1242755883374911490?s=20",NA,NA,NA,2020-03-24,NA,"2020/03/16","France",NA,NA
+"3",3,NA,2020-03-25,NA,NA,NA,NA,"Mali",NA,NA,NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"4",4,NA,2020-03-25,NA,NA,NA,NA,"Mali",NA,NA,NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"5",5,NA,2020-03-27,88,"male","YÈlimanÈ",NA,"Mali",NA,"https://pbs.twimg.com/media/EUHY7PBWoAEqkdb?format=jpg&name=large",NA,NA,NA,2020-03-27,NA,"2020/03/16","France",NA,NA
+"6",6,NA,2020-03-27,38,"male",NA,NA,"Mali",NA,"https://pbs.twimg.com/media/EUHY7PBWoAEqkdb?format=jpg&name=large",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"7",7,NA,2020-03-27,NA,"male",NA,NA,"Mali",NA,"https://pbs.twimg.com/media/EUHY7PBWoAEqkdb?format=jpg&name=large",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"8",8,NA,2020-03-27,48,"male","Commune II, district of Bamako",NA,"Mali",NA,"https://pbs.twimg.com/media/EUHY7PBWoAEqkdb?format=jpg&name=large",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"9",9,NA,2020-03-27,39,"male","Commune III, district of Bamako",NA,"Mali",NA,"https://pbs.twimg.com/media/EUHY7PBWoAEqkdb?format=jpg&name=large",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"10",10,NA,2020-03-27,43,"male","Commune II, district of Bamako",NA,"Mali",NA,"https://pbs.twimg.com/media/EUHY7PBWoAEqkdb?format=jpg&name=large",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA
+"11",11,NA,2020-03-27,35,"female","Commune II, district of Bamako",NA,"Mali",NA,"https://pbs.twimg.com/media/EUHY7PBWoAEqkdb?format=jpg&name=large",NA,NA,NA,2020-03-27,NA,NA,NA,NA,NA

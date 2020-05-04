@@ -1,0 +1,27 @@
+"","case_id","origin_case_id","date","age","gender","city","province/state","country","current_status","source","symptoms","date_onset_symptoms","date_admission_hospital","date_confirmation","underlying_conditions","travel_history_dates","travel_history_location","death_date","notes_for_discussion"
+"1",1,NA,2020-03-20,NA,NA,NA,NA,"Madagascar","Alive","http://www.sante.gov.mg/ministere-sante-publique/2020/03/21/message-du-president-de-la-republique-a-la-nation-concernant-le-coronavirus/",NA,NA,NA,2020-03-20,NA,NA,"France",NA,NA
+"2",2,NA,2020-03-20,NA,NA,NA,NA,"Madagascar","Alive","http://www.sante.gov.mg/ministere-sante-publique/2020/03/21/message-du-president-de-la-republique-a-la-nation-concernant-le-coronavirus/",NA,NA,NA,2020-03-20,NA,NA,"France",NA,NA
+"3",3,NA,2020-03-20,NA,NA,NA,NA,"Madagascar","Alive","http://www.sante.gov.mg/ministere-sante-publique/2020/03/21/message-du-president-de-la-republique-a-la-nation-concernant-le-coronavirus/",NA,NA,NA,2020-03-20,NA,NA,"France",NA,NA
+"4",4,NA,NA,NA,NA,NA,NA,"Madagascar","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5",5,NA,NA,NA,NA,NA,NA,"Madagascar","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6",6,NA,NA,NA,NA,NA,NA,"Madagascar","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7",7,NA,NA,NA,NA,NA,NA,"Madagascar","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8",8,NA,NA,NA,NA,NA,NA,"Madagascar","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9",9,NA,NA,NA,NA,NA,NA,"Madagascar","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10",10,NA,NA,NA,NA,NA,NA,"Madagascar","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11",11,NA,NA,NA,NA,NA,NA,"Madagascar","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12",12,NA,NA,NA,NA,NA,NA,"Madagascar","Alive",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13",13,NA,2020-03-23,NA,NA,NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Dix-sept-malades-et-vingt-deux-personnes-recherchees.html",NA,NA,NA,2020-03-23,NA,"2020/03/19","France",NA,NA
+"14",14,NA,2020-03-23,NA,NA,NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Dix-sept-malades-et-vingt-deux-personnes-recherchees.html",NA,NA,NA,2020-03-23,NA,"2020/03/19","France",NA,NA
+"15",15,NA,2020-03-23,NA,NA,NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Dix-sept-malades-et-vingt-deux-personnes-recherchees.html",NA,NA,NA,2020-03-23,NA,"2020/03/19","France",NA,NA
+"16",16,NA,2020-03-23,NA,NA,NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Dix-sept-malades-et-vingt-deux-personnes-recherchees.html",NA,NA,NA,2020-03-23,NA,"2020/03/19","France",NA,NA
+"17",17,NA,2020-03-23,NA,NA,NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Dix-sept-malades-et-vingt-deux-personnes-recherchees.html",NA,NA,NA,2020-03-23,NA,"2020/03/19","France",NA,NA
+"18",18,NA,2020-03-24,NA,"female",NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Deux-nouveaux-cas-positifs-sur-soixante-testes-zero-forme-grave.html",NA,NA,NA,2020-03-24,NA,"2020/03/18","France",NA,NA
+"19",19,NA,2020-03-24,NA,"female",NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Deux-nouveaux-cas-positifs-sur-soixante-testes-zero-forme-grave.html",NA,NA,NA,2020-03-24,NA,"2020/03/18","France",NA,NA
+"20",20,NA,2020-03-26,72,"male",NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Vingt-deux-cas-asymptomatiques-de-Covid-19-et-une-personne-en-detresse.html",NA,NA,NA,2020-03-26,NA,"2020/03/19","France",NA,NA
+"21",21,NA,2020-03-26,31,"male",NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Vingt-deux-cas-asymptomatiques-de-Covid-19-et-une-personne-en-detresse.html",NA,NA,NA,2020-03-26,NA,"2020/03/19","France",NA,NA
+"22",22,NA,2020-03-26,25,"male",NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Vingt-deux-cas-asymptomatiques-de-Covid-19-et-une-personne-en-detresse.html",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA
+"23",23,NA,2020-03-26,62,"female",NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Vingt-deux-cas-asymptomatiques-de-Covid-19-et-une-personne-en-detresse.html",NA,NA,NA,2020-03-26,NA,NA,"Ethiopia",NA,NA
+"24",24,NA,2020-03-27,32,NA,NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Un-premier-cas-contact-confirme-du-Covid-19-et-deux-autres-nouveaux-cas.html",NA,NA,NA,2020-03-27,NA,NA,NA,NA,"Malagasy; importation=N; transmission_type=Contact; detected_through=Active monitoring"
+"25",25,NA,2020-03-27,NA,NA,NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Un-premier-cas-contact-confirme-du-Covid-19-et-deux-autres-nouveaux-cas.html",NA,NA,NA,2020-03-27,NA,"2020/03/18",NA,NA,"Foreigner; importation=Y; transmission_type=NA; detected_through=Active monitoring"
+"26",26,NA,2020-03-27,21,"female",NA,NA,"Madagascar","Alive","https://www.madagascar-tribune.com/Un-premier-cas-contact-confirme-du-Covid-19-et-deux-autres-nouveaux-cas.html",NA,NA,NA,2020-03-27,NA,"2020/03/18",NA,NA,"Madagascan; importation=Y; transmission_type=NA; detected_through=Active monitoring"

@@ -49,18 +49,18 @@ Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](http
 
 | dataset         | url | raw_url[file] |
 |-----------------|-----|---------------|
-|    line-list-africa             |  [line-list-africa](data/line-list-africa.csv)   |       [line-list-africa.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-africa.csv)        |
-|    line-list-algeria            |  [line-list-algeria](data/line-list-algeria.csv)   |       [line-list-algeria.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-algeria.csv)        |
-|    line-list-benin          |  [line-list-benin](data/line-list-benin.csv)   |       [line-list-benin.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-benin.csv)        |
-|    line-list-egypt           |  [line-list-egypt](data/line-list-egypt.csv)   |       [line-list-egypt.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-egypt.csv)        |
-|    line-list-ethiopia            |  [line-list-ethiopia](data/line-list-ethiopia.csv)   |       [line-list-ethiopia.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-ethiopia.csv)        |
-|    line-list-gambia             |  [line-list-gambia](data/line-list-gambia.csv)   |       [line-list-gambia.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-gambia.csv)        |
-|    line-list-kenya             |  [line-list-kenya](data/line-list-kenya.csv)   |       [line-list-kenya.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-kenya.csv)        |
-|    line-list-namibia             |  [line-list-namibia](data/line-list-namibia.csv)   |       [line-list-namibia.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-namibia.csv)        |
-|    line-list-nigeria             |  [line-list-nigeria](data/line-list-nigeria.csv)   |       [line-list-nigeria.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-nigeria.csv)        |
-|    line-list-rwanda             |  [line-list-rwanda](data/line-list-rwanda.csv)   |       [line-list-rwanda.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-rwanda.csv)        |
-|    line-list-south-africa            |  [line-list-south-africa](data/line-list-south-africa.csv)   |       [line-list-south-africa.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-south-africa.csv)        |
-|    line-list-zimbabwe            |  [line-list-zimbabwe](data/line-list-zimbabwe.csv)   |       [line-list-south-zimbabwe.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-zimbabwe.csv)        |
+|    line-list-africa             |  [line-list-africa](data/line_lists/line-list-africa.csv)   |       [line-list-africa.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-africa.csv)        |
+|    line-list-algeria            |  [line-list-algeria](data/line_lists/line-list-algeria.csv)   |       [line-list-algeria.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-algeria.csv)        |
+|    line-list-benin          |  [line-list-benin](data/line_lists/line-list-benin.csv)   |       [line-list-benin.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-benin.csv)        |
+|    line-list-egypt           |  [line-list-egypt](data/line_lists/line-list-egypt.csv)   |       [line-list-egypt.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-egypt.csv)        |
+|    line-list-ethiopia            |  [line-list-ethiopia](data/line_lists/line-list-ethiopia.csv)   |       [line-list-ethiopia.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-ethiopia.csv)        |
+|    line-list-gambia             |  [line-list-gambia](data/line_lists/line-list-gambia.csv)   |       [line-list-gambia.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-gambia.csv)        |
+|    line-list-kenya             |  [line-list-kenya](data/line_lists/line-list-kenya.csv)   |       [line-list-kenya.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-kenya.csv)        |
+|    line-list-namibia             |  [line-list-namibia](data/line_lists/line-list-namibia.csv)   |       [line-list-namibia.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-namibia.csv)        |
+|    line-list-nigeria             |  [line-list-nigeria](data/line_lists/line-list-nigeria.csv)   |       [line-list-nigeria.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-nigeria.csv)        |
+|    line-list-rwanda             |  [line-list-rwanda](data/line_lists/line-list-rwanda.csv)   |       [line-list-rwanda.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-rwanda.csv)        |
+|    line-list-south-africa            |  [line-list-south-africa](data/line_lists/line-list-south-africa.csv)   |       [line-list-south-africa.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-south-africa.csv)        |
+|    line-list-zimbabwe            |  [line-list-zimbabwe](data/line_lists/line-list-zimbabwe.csv)   |       [line-list-south-zimbabwe.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-zimbabwe.csv)        |
 ## Visualisation
 * Line List Dashboard - [https://bitly.com/covid19africa-dash](https://bitly.com/covid19africa-dash)
 ![](https://github.com/dsfsi/covid19africa/raw/master/visualization/dash_screenshot.png)

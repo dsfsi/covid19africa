@@ -1,0 +1,19 @@
+africacdc_images:
+  - day: 31/3/2020
+    morning:
+      - time: 9 am
+      - filename:
+      - url:
+    afternoon:
+      - time: 5 pm
+      - filename: March 31 2020 5pm EAT.jpg
+      - url:
+  - day: 1/4/2020
+    morning:
+      - time: 9 am
+      - filename:
+      - url:
+    afternoon:
+      - time: 5 pm
+      - filename:
+      - url:

@@ -1,16 +1,24 @@
-Group,Province State,Country Region,Latitude,Longitude,Location Geom,Continent,Continent Code,Region,Country,Dates,Values
+Group,Province State,Country Region,Latitude,Longitude,Location Geom,Continent,Continent Code,Region,Country,Date,Values
+Tests,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/5/2020,6500
+Confirmed Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/5/20,4838
+Deaths,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/5/20,470
+Recovered Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/5/20,2067
+Tests,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/4/2020,6500
+Confirmed Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/4/20,4648
+Deaths,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/4/20,465
+Recovered Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/4/20,1998
+Tests,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/3/2020,6500
 Confirmed Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/3/20,4474
 Deaths,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/3/20,463
 Recovered Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/3/20,1936
+Tests,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/2/2020,6500
 Confirmed Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/2/20,4295
 Deaths,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/2/20,459
 Recovered Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/2/20,1872
+Tests,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/1/2020,6500
 Confirmed Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/1/20,4154
 Deaths,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/1/20,453
 Recovered Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/1/20,1821
-Tests,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/03/2020,6500
-Tests,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/02/2020,6500
-Tests,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,5/01/2020,6500
 Tests,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,4/9/2020,3359
 Confirmed Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,4/9/20,1666
 Deaths,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,4/9/20,235
@@ -411,18 +419,26 @@ Tests,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,1/22/2020
 Confirmed Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,1/22/20,0
 Deaths,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,1/22/20,0
 Recovered Cases,,Algeria,28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,,Algeria,1/22/20,0
+Tests,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/5/2020,3000
+Confirmed Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/5/20,36
+Deaths,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/5/20,2
+Recovered Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/5/20,11
+Tests,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/4/2020,3000
+Confirmed Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/4/20,35
+Deaths,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/4/20,2
+Recovered Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/4/20,11
+Tests,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/3/2020,3000
 Confirmed Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/3/20,35
 Deaths,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/3/20,2
 Recovered Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/3/20,11
+Tests,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/2/2020,481
 Confirmed Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/2/20,35
 Deaths,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/2/20,2
 Recovered Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/2/20,11
+Tests,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/1/2020,481
 Confirmed Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/1/20,30
 Deaths,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/1/20,2
 Recovered Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/1/20,11
-Tests,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/03/2020,3000
-Tests,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/02/2020,481
-Tests,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,5/01/2020,481
 Tests,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,4/9/2020,0
 Confirmed Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,4/9/20,19
 Deaths,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,4/9/20,2
@@ -823,18 +839,26 @@ Tests,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,1/22/20
 Confirmed Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,1/22/20,0
 Deaths,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,1/22/20,0
 Recovered Cases,,Angola,-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,,Angola,1/22/20,0
+Tests,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/5/2020,0
+Confirmed Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/5/20,96
+Deaths,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/5/20,2
+Recovered Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/5/20,50
+Tests,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/4/2020,0
+Confirmed Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/4/20,96
+Deaths,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/4/20,2
+Recovered Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/4/20,50
+Tests,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/3/2020,0
 Confirmed Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/3/20,90
 Deaths,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/3/20,2
 Recovered Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/3/20,42
+Tests,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/2/2020,0
 Confirmed Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/2/20,90
 Deaths,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/2/20,2
 Recovered Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/2/20,42
+Tests,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/1/2020,0
 Confirmed Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/1/20,90
 Deaths,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/1/20,2
 Recovered Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/1/20,42
-Tests,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/03/2020,0
-Tests,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/02/2020,0
-Tests,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,5/01/2020,0
 Tests,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,4/9/2020,0
 Confirmed Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,4/9/20,26
 Deaths,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,4/9/20,1
@@ -1235,18 +1259,26 @@ Tests,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,1/22/2020,0
 Confirmed Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,1/22/20,0
 Deaths,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,1/22/20,0
 Recovered Cases,,Benin,9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,,Benin,1/22/20,0
+Tests,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/5/2020,9066
+Confirmed Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/5/20,23
+Deaths,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/5/20,1
+Recovered Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/5/20,8
+Tests,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/4/2020,8636
+Confirmed Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/4/20,23
+Deaths,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/4/20,1
+Recovered Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/4/20,8
+Tests,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/3/2020,8636
 Confirmed Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/3/20,23
 Deaths,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/3/20,1
 Recovered Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/3/20,8
+Tests,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/2/2020,7675
 Confirmed Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/2/20,23
 Deaths,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/2/20,1
 Recovered Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/2/20,8
+Tests,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/1/2020,7675
 Confirmed Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/1/20,23
 Deaths,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/1/20,1
 Recovered Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/1/20,8
-Tests,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/03/2020,8636
-Tests,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/02/2020,7675
-Tests,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,5/01/2020,7675
 Tests,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,4/9/2020,1154
 Confirmed Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,4/9/20,13
 Deaths,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,4/9/20,1
@@ -1647,18 +1679,26 @@ Tests,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,1/2
 Confirmed Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,1/22/20,0
 Deaths,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,1/22/20,0
 Recovered Cases,,Botswana,-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,,Botswana,1/22/20,0
+Tests,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/5/2020,0
+Confirmed Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/5/20,688
+Deaths,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/5/20,48
+Recovered Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/5/20,548
+Tests,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/4/2020,0
+Confirmed Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/4/20,672
+Deaths,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/4/20,46
+Recovered Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/4/20,545
+Tests,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/3/2020,0
 Confirmed Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/3/20,662
 Deaths,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/3/20,45
 Recovered Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/3/20,540
+Tests,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/2/2020,0
 Confirmed Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/2/20,652
 Deaths,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/2/20,44
 Recovered Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/2/20,535
+Tests,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/1/2020,0
 Confirmed Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/1/20,649
 Deaths,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/1/20,44
 Recovered Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/1/20,517
-Tests,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/03/2020,0
-Tests,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/02/2020,0
-Tests,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,5/01/2020,0
 Tests,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,4/9/2020,0
 Confirmed Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,4/9/20,443
 Deaths,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,4/9/20,24
@@ -2059,18 +2099,26 @@ Tests,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Fa
 Confirmed Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,1/22/20,0
 Deaths,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,1/22/20,0
 Recovered Cases,,Burkina Faso,12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,,Burkina Faso,1/22/20,0
+Tests,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/5/2020,284
+Confirmed Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/5/20,15
+Deaths,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/5/20,1
+Recovered Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/5/20,7
+Tests,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/4/2020,284
+Confirmed Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/4/20,15
+Deaths,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/4/20,1
+Recovered Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/4/20,7
+Tests,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/3/2020,284
 Confirmed Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/3/20,15
 Deaths,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/3/20,1
 Recovered Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/3/20,7
+Tests,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/2/2020,284
 Confirmed Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/2/20,15
 Deaths,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/2/20,1
 Recovered Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/2/20,7
+Tests,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/1/2020,284
 Confirmed Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/1/20,11
 Deaths,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/1/20,1
 Recovered Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/1/20,4
-Tests,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/03/2020,284
-Tests,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/02/2020,284
-Tests,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,5/01/2020,284
 Tests,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,4/9/2020,0
 Confirmed Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,4/9/20,3
 Deaths,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,4/9/20,0
@@ -2471,18 +2519,26 @@ Tests,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,1/22/20
 Confirmed Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,1/22/20,0
 Deaths,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,1/22/20,0
 Recovered Cases,,Burundi,-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,,Burundi,1/22/20,0
+Tests,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/5/2020,3498
+Confirmed Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/5/20,85
+Deaths,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/5/20,0
+Recovered Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/5/20,10
+Tests,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/4/2020,3498
+Confirmed Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/4/20,85
+Deaths,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/4/20,0
+Recovered Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/4/20,10
+Tests,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/3/2020,3498
 Confirmed Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/3/20,72
 Deaths,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/3/20,0
 Recovered Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/3/20,10
+Tests,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/2/2020,0
 Confirmed Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/2/20,72
 Deaths,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/2/20,0
 Recovered Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/2/20,10
+Tests,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/1/2020,0
 Confirmed Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/1/20,72
 Deaths,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/1/20,0
 Recovered Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/1/20,10
-Tests,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/03/2020,3498
-Tests,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/02/2020,0
-Tests,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,5/01/2020,0
 Tests,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,4/9/2020,0
 Confirmed Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,4/9/20,8
 Deaths,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,4/9/20,0
@@ -2883,18 +2939,26 @@ Tests,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,1/22/2020,0
 Confirmed Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,1/22/20,0
 Deaths,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,1/22/20,0
 Recovered Cases,,CAR,6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,,CAR,1/22/20,0
+Tests,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/5/2020,791
+Confirmed Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/5/20,186
+Deaths,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/5/20,2
+Recovered Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/5/20,37
+Tests,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/4/2020,791
+Confirmed Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/4/20,175
+Deaths,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/4/20,2
+Recovered Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/4/20,37
+Tests,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/3/2020,791
 Confirmed Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/3/20,165
 Deaths,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/3/20,2
 Recovered Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/3/20,33
+Tests,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/2/2020,791
 Confirmed Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/2/20,152
 Deaths,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/2/20,2
 Recovered Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/2/20,18
+Tests,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/1/2020,791
 Confirmed Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/1/20,122
 Deaths,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/1/20,1
 Recovered Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/1/20,18
-Tests,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/03/2020,791
-Tests,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/02/2020,791
-Tests,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,5/01/2020,791
 Tests,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,4/9/2020,0
 Confirmed Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,4/9/20,7
 Deaths,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,4/9/20,1
@@ -3295,18 +3359,26 @@ Tests,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde
 Confirmed Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,1/22/20,0
 Deaths,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,1/22/20,0
 Recovered Cases,,Cabo Verde,16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,,Cabo Verde,1/22/20,0
+Tests,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/5/2020,0
+Confirmed Cases,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/5/20,2104
+Deaths,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/5/20,64
+Recovered Cases,,Cameroon,3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,,Cameroon,5/5/20,953
+Tests,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/4/2020,0
+Confirmed Cases,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/4/20,2104
+Deaths,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/4/20,64
+Recovered Cases,,Cameroon,3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,,Cameroon,5/4/20,953
+Tests,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/3/2020,0
 Confirmed Cases,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/3/20,2077
 Deaths,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/3/20,64
 Recovered Cases,,Cameroon,3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,,Cameroon,5/3/20,953
+Tests,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/2/2020,0
 Confirmed Cases,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/2/20,2077
 Deaths,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/2/20,64
 Recovered Cases,,Cameroon,3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,,Cameroon,5/2/20,953
+Tests,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/1/2020,0
 Confirmed Cases,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/1/20,1832
 Deaths,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/1/20,61
 Recovered Cases,,Cameroon,3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,,Cameroon,5/1/20,934
-Tests,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/03/2020,0
-Tests,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/02/2020,0
-Tests,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,5/01/2020,0
 Tests,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,4/9/2020,0
 Confirmed Cases,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,4/9/20,730
 Deaths,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,4/9/20,10
@@ -3707,18 +3779,26 @@ Tests,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,1/22/2020
 Confirmed Cases,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,1/22/20,0
 Deaths,,Cameroon,3.848,11.5021,POINT(11.5021 3.848),Africa,AF,,Cameroon,1/22/20,0
 Recovered Cases,,Cameroon,3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,,Cameroon,1/22/20,0
+Tests,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/5/2020,0
+Confirmed Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/5/20,170
+Deaths,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/5/20,17
+Recovered Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/5/20,43
+Tests,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/4/2020,0
+Confirmed Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/4/20,117
+Deaths,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/4/20,10
+Recovered Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/4/20,39
+Tests,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/3/2020,0
 Confirmed Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/3/20,117
 Deaths,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/3/20,10
 Recovered Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/3/20,39
+Tests,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/2/2020,0
 Confirmed Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/2/20,117
 Deaths,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/2/20,10
 Recovered Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/2/20,39
+Tests,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/1/2020,0
 Confirmed Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/1/20,73
 Deaths,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/1/20,5
 Recovered Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/1/20,33
-Tests,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/03/2020,0
-Tests,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/02/2020,0
-Tests,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,5/01/2020,0
 Tests,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,4/9/2020,0
 Confirmed Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,4/9/20,11
 Deaths,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,4/9/20,0
@@ -4119,18 +4199,26 @@ Tests,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,1/22/2020,0
 Confirmed Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,1/22/20,0
 Deaths,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,1/22/20,0
 Recovered Cases,,Chad,15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,,Chad,1/22/20,0
+Tests,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/5/2020,0
+Confirmed Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/5/20,236
+Deaths,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/5/20,10
+Recovered Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/5/20,26
+Tests,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/4/2020,0
+Confirmed Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/4/20,236
+Deaths,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/4/20,10
+Recovered Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/4/20,26
+Tests,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/3/2020,0
 Confirmed Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/3/20,229
 Deaths,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/3/20,9
 Recovered Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/3/20,25
+Tests,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/2/2020,0
 Confirmed Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/2/20,229
 Deaths,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/2/20,9
 Recovered Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/2/20,25
+Tests,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/1/2020,0
 Confirmed Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/1/20,229
 Deaths,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/1/20,9
 Recovered Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/1/20,25
-Tests,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/03/2020,0
-Tests,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/02/2020,0
-Tests,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,5/01/2020,0
 Tests,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,4/9/2020,0
 Confirmed Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,4/9/20,60
 Deaths,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,4/9/20,5
@@ -4531,18 +4619,26 @@ Tests,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,1/22/2020,0
 Confirmed Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,1/22/20,0
 Deaths,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,1/22/20,0
 Recovered Cases,,Congo,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,Congo,1/22/20,0
+Tests,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/5/2020,0
+Confirmed Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/5/20,705
+Deaths,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/5/20,34
+Recovered Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/5/20,90
+Tests,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/4/2020,0
+Confirmed Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/4/20,682
+Deaths,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/4/20,34
+Recovered Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/4/20,80
+Tests,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/3/2020,0
 Confirmed Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/3/20,674
 Deaths,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/3/20,33
 Recovered Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/3/20,75
+Tests,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/2/2020,0
 Confirmed Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/2/20,674
 Deaths,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/2/20,33
 Recovered Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/2/20,75
+Tests,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/1/2020,0
 Confirmed Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/1/20,604
 Deaths,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/1/20,32
 Recovered Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/1/20,75
-Tests,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/03/2020,0
-Tests,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/02/2020,0
-Tests,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,5/01/2020,0
 Tests,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,4/9/2020,0
 Confirmed Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,4/9/20,180
 Deaths,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,4/9/20,18
@@ -4943,18 +5039,26 @@ Tests,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,1/22/2020,0
 Confirmed Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,1/22/20,0
 Deaths,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,1/22/20,0
 Recovered Cases,,DRC,-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,,DRC,1/22/20,0
+Tests,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/5/2020,14378
+Confirmed Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/5/20,1120
+Deaths,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/5/20,2
+Recovered Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/5/20,745
+Tests,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/4/2020,14222
+Confirmed Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/4/20,1116
+Deaths,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/4/20,2
+Recovered Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/4/20,713
+Tests,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/3/2020,14222
 Confirmed Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/3/20,1112
 Deaths,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/3/20,2
 Recovered Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/3/20,686
+Tests,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/2/2020,13856
 Confirmed Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/2/20,1112
 Deaths,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/2/20,2
 Recovered Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/2/20,686
+Tests,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/1/2020,13856
 Confirmed Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/1/20,1097
 Deaths,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/1/20,2
 Recovered Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/1/20,672
-Tests,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/03/2020,14222
-Tests,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/02/2020,13856
-Tests,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,5/01/2020,13856
 Tests,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,4/9/2020,3399
 Confirmed Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,4/9/20,135
 Deaths,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,4/9/20,0
@@ -5355,18 +5459,26 @@ Tests,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,1/22/
 Confirmed Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,1/22/20,0
 Deaths,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,1/22/20,0
 Recovered Cases,,Djibouti,11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,,Djibouti,1/22/20,0
+Tests,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/5/2020,90000
+Confirmed Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/5/20,7201
+Deaths,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/5/20,452
+Recovered Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/5/20,1730
+Tests,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/4/2020,90000
+Confirmed Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/4/20,6813
+Deaths,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/4/20,436
+Recovered Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/4/20,1632
+Tests,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/3/2020,90000
 Confirmed Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/3/20,6465
 Deaths,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/3/20,429
 Recovered Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/3/20,1562
+Tests,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/2/2020,90000
 Confirmed Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/2/20,6193
 Deaths,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/2/20,415
 Recovered Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/2/20,1522
+Tests,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/1/2020,90000
 Confirmed Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/1/20,5895
 Deaths,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/1/20,406
 Recovered Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/1/20,1460
-Tests,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/03/2020,90000
-Tests,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/02/2020,90000
-Tests,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,5/01/2020,90000
 Tests,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,4/9/2020,25000
 Confirmed Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,4/9/20,1699
 Deaths,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,4/9/20,118
@@ -5767,18 +5879,26 @@ Tests,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,1/22/2020,0
 Confirmed Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,1/22/20,0
 Deaths,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,1/22/20,0
 Recovered Cases,,Egypt,26.0,30.0,POINT(30.0 26.0),Africa,AF,,Egypt,1/22/20,0
+Tests,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/5/2020,854
+Confirmed Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/5/20,315
+Deaths,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/5/20,3
+Recovered Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/5/20,13
+Tests,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/4/2020,854
+Confirmed Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/4/20,315
+Deaths,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/4/20,3
+Recovered Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/4/20,13
+Tests,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/3/2020,854
 Confirmed Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/3/20,315
 Deaths,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/3/20,1
 Recovered Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/3/20,9
+Tests,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/2/2020,854
 Confirmed Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/2/20,315
 Deaths,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/2/20,1
 Recovered Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/2/20,9
+Tests,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/1/2020,854
 Confirmed Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/1/20,315
 Deaths,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/1/20,1
 Recovered Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/1/20,9
-Tests,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/03/2020,854
-Tests,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/02/2020,854
-Tests,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,5/01/2020,854
 Tests,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,4/9/2020,854
 Confirmed Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,4/9/20,18
 Deaths,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,4/9/20,0
@@ -6179,18 +6299,26 @@ Tests,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,1
 Confirmed Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,1/22/20,0
 Deaths,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,1/22/20,0
 Recovered Cases,,Equatorial Guinea,1.5,10.0,POINT(10.0 1.5),Africa,AF,,Equatorial Guinea,1/22/20,0
+Tests,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/5/2020,0
+Confirmed Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/5/20,39
+Deaths,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/5/20,0
+Recovered Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/5/20,30
+Tests,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/4/2020,0
+Confirmed Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/4/20,39
+Deaths,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/4/20,0
+Recovered Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/4/20,26
+Tests,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/3/2020,0
 Confirmed Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/3/20,39
 Deaths,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/3/20,0
 Recovered Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/3/20,26
+Tests,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/2/2020,0
 Confirmed Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/2/20,39
 Deaths,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/2/20,0
 Recovered Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/2/20,26
+Tests,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/1/2020,0
 Confirmed Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/1/20,39
 Deaths,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/1/20,0
 Recovered Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/1/20,26
-Tests,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/03/2020,0
-Tests,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/02/2020,0
-Tests,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,5/01/2020,0
 Tests,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,4/9/2020,0
 Confirmed Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,4/9/20,33
 Deaths,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,4/9/20,0
@@ -6591,18 +6719,26 @@ Tests,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,1/22/20
 Confirmed Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,1/22/20,0
 Deaths,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,1/22/20,0
 Recovered Cases,,Eritrea,15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,,Eritrea,1/22/20,0
+Tests,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/5/2020,714
+Confirmed Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/5/20,119
+Deaths,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/5/20,1
+Recovered Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/5/20,12
+Tests,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/4/2020,714
+Confirmed Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/4/20,116
+Deaths,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/4/20,1
+Recovered Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/4/20,12
+Tests,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/3/2020,714
 Confirmed Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/3/20,112
 Deaths,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/3/20,1
 Recovered Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/3/20,12
+Tests,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/2/2020,714
 Confirmed Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/2/20,108
 Deaths,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/2/20,1
 Recovered Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/2/20,12
+Tests,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/1/2020,714
 Confirmed Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/1/20,106
 Deaths,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/1/20,1
 Recovered Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/1/20,12
-Tests,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/03/2020,714
-Tests,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/02/2020,714
-Tests,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,5/01/2020,714
 Tests,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,4/9/2020,0
 Confirmed Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,4/9/20,12
 Deaths,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,4/9/20,0
@@ -7003,18 +7139,26 @@ Tests,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,1/2
 Confirmed Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,1/22/20,0
 Deaths,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,1/22/20,0
 Recovered Cases,,Eswatini,-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,,Eswatini,1/22/20,0
+Tests,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/5/2020,26517
+Confirmed Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/5/20,145
+Deaths,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/5/20,4
+Recovered Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/5/20,91
+Tests,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/4/2020,25135
+Confirmed Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/4/20,140
+Deaths,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/4/20,3
+Recovered Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/4/20,75
+Tests,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/3/2020,24088
 Confirmed Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/3/20,135
 Deaths,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/3/20,3
 Recovered Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/3/20,75
+Tests,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/2/2020,22330
 Confirmed Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/2/20,133
 Deaths,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/2/20,3
 Recovered Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/2/20,69
+Tests,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/1/2020,20770
 Confirmed Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/1/20,133
 Deaths,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/1/20,3
 Recovered Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/1/20,66
-Tests,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/03/2020,24088
-Tests,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/02/2020,22330
-Tests,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,5/01/2020,20770
 Tests,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,4/9/2020,2790
 Confirmed Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,4/9/20,56
 Deaths,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,4/9/20,2
@@ -7415,18 +7559,26 @@ Tests,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,1/22/2020
 Confirmed Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,1/22/20,0
 Deaths,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,1/22/20,0
 Recovered Cases,,Ethiopia,9.145,40.4897,POINT(40.4897 9.145),Africa,AF,,Ethiopia,1/22/20,0
+Tests,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/5/2020,724
+Confirmed Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/5/20,397
+Deaths,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/5/20,6
+Recovered Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/5/20,93
+Tests,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/4/2020,724
+Confirmed Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/4/20,367
+Deaths,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/4/20,6
+Recovered Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/4/20,93
+Tests,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/3/2020,724
 Confirmed Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/3/20,335
 Deaths,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/3/20,5
 Recovered Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/3/20,85
+Tests,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/2/2020,724
 Confirmed Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/2/20,335
 Deaths,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/2/20,5
 Recovered Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/2/20,85
+Tests,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/1/2020,724
 Confirmed Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/1/20,276
 Deaths,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/1/20,3
 Recovered Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/1/20,67
-Tests,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/03/2020,724
-Tests,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/02/2020,724
-Tests,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,5/01/2020,724
 Tests,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,4/9/2020,0
 Confirmed Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,4/9/20,44
 Deaths,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,4/9/20,1
@@ -7827,18 +7979,26 @@ Tests,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,1/22/2020,0
 Confirmed Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,1/22/20,0
 Deaths,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,1/22/20,0
 Recovered Cases,,Gabon,-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,,Gabon,1/22/20,0
+Tests,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/5/2020,562
+Confirmed Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/5/20,17
+Deaths,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/5/20,1
+Recovered Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/5/20,9
+Tests,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/4/2020,401
+Confirmed Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/4/20,17
+Deaths,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/4/20,1
+Recovered Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/4/20,9
+Tests,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/3/2020,401
 Confirmed Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/3/20,17
 Deaths,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/3/20,1
 Recovered Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/3/20,9
+Tests,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/2/2020,401
 Confirmed Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/2/20,17
 Deaths,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/2/20,1
 Recovered Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/2/20,9
+Tests,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/1/2020,401
 Confirmed Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/1/20,12
 Deaths,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/1/20,1
 Recovered Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/1/20,8
-Tests,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/03/2020,401
-Tests,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/02/2020,401
-Tests,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,5/01/2020,401
 Tests,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,4/9/2020,0
 Confirmed Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,4/9/20,4
 Deaths,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,4/9/20,1
@@ -8239,18 +8399,26 @@ Tests,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,1/22/20
 Confirmed Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,1/22/20,0
 Deaths,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,1/22/20,0
 Recovered Cases,,Gambia,13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,,Gambia,1/22/20,0
+Tests,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/5/2020,129461
+Confirmed Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/5/20,2719
+Deaths,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/5/20,18
+Recovered Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/5/20,294
+Tests,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/4/2020,129461
+Confirmed Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/4/20,2719
+Deaths,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/4/20,18
+Recovered Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/4/20,294
+Tests,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/3/2020,129461
 Confirmed Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/3/20,2169
 Deaths,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/3/20,18
 Recovered Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/3/20,229
+Tests,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/2/2020,117049
 Confirmed Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/2/20,2169
 Deaths,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/2/20,18
 Recovered Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/2/20,229
+Tests,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/1/2020,113497
 Confirmed Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/1/20,2074
 Deaths,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/1/20,17
 Recovered Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/1/20,212
-Tests,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/03/2020,129461
-Tests,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/02/2020,117049
-Tests,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,5/01/2020,113497
 Tests,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,4/9/2020,12046
 Confirmed Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,4/9/20,378
 Deaths,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,4/9/20,6
@@ -8651,18 +8819,26 @@ Tests,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,1/22/2020,0
 Confirmed Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,1/22/20,0
 Deaths,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,1/22/20,0
 Recovered Cases,,Ghana,7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,,Ghana,1/22/20,0
+Tests,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/5/2020,0
+Confirmed Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/5/20,1811
+Deaths,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/5/20,10
+Recovered Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/5/20,498
+Tests,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/4/2020,0
+Confirmed Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/4/20,1710
+Deaths,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/4/20,9
+Recovered Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/4/20,450
+Tests,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/3/2020,0
 Confirmed Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/3/20,1586
 Deaths,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/3/20,7
 Recovered Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/3/20,405
+Tests,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/2/2020,0
 Confirmed Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/2/20,1586
 Deaths,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/2/20,7
 Recovered Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/2/20,405
+Tests,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/1/2020,0
 Confirmed Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/1/20,1537
 Deaths,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/1/20,7
 Recovered Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/1/20,342
-Tests,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/03/2020,0
-Tests,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/02/2020,0
-Tests,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,5/01/2020,0
 Tests,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,4/9/2020,0
 Confirmed Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,4/9/20,194
 Deaths,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,4/9/20,0
@@ -9063,18 +9239,26 @@ Tests,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,1/22/2020,0
 Confirmed Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,1/22/20,0
 Deaths,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,1/22/20,0
 Recovered Cases,,Guinea,9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,,Guinea,1/22/20,0
+Tests,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/5/2020,1500
+Confirmed Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/5/20,413
+Deaths,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/5/20,1
+Recovered Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/5/20,19
+Tests,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/4/2020,1500
+Confirmed Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/4/20,413
+Deaths,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/4/20,1
+Recovered Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/4/20,19
+Tests,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/3/2020,1500
 Confirmed Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/3/20,257
 Deaths,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/3/20,1
 Recovered Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/3/20,19
+Tests,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/2/2020,1500
 Confirmed Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/2/20,257
 Deaths,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/2/20,1
 Recovered Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/2/20,19
+Tests,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/1/2020,1500
 Confirmed Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/1/20,257
 Deaths,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/1/20,1
 Recovered Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/1/20,19
-Tests,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/03/2020,1500
-Tests,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/02/2020,1500
-Tests,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,5/01/2020,1500
 Tests,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,4/9/2020,1500
 Confirmed Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,4/9/20,36
 Deaths,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,4/9/20,0
@@ -9475,18 +9659,26 @@ Tests,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-
 Confirmed Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,1/22/20,0
 Deaths,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,1/22/20,0
 Recovered Cases,,Guinea-Bissau,11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,,Guinea-Bissau,1/22/20,0
+Tests,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/5/2020,11448
+Confirmed Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/5/20,1464
+Deaths,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/5/20,18
+Recovered Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/5/20,701
+Tests,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/4/2020,10778
+Confirmed Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/4/20,1432
+Deaths,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/4/20,17
+Recovered Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/4/20,693
+Tests,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/3/2020,10778
 Confirmed Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/3/20,1398
 Deaths,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/3/20,17
 Recovered Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/3/20,653
+Tests,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/2/2020,10508
 Confirmed Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/2/20,1362
 Deaths,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/2/20,15
 Recovered Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/2/20,622
+Tests,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/1/2020,10073
 Confirmed Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/1/20,1333
 Deaths,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/1/20,15
 Recovered Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/1/20,597
-Tests,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/03/2020,10778
-Tests,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/02/2020,10508
-Tests,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,5/01/2020,10073
 Tests,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,4/9/2020,0
 Confirmed Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,4/9/20,444
 Deaths,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,4/9/20,3
@@ -9887,18 +10079,26 @@ Tests,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,1/22/
 Confirmed Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,1/22/20,0
 Deaths,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,1/22/20,0
 Recovered Cases,,Ivory Coast,7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,,Ivory Coast,1/22/20,0
+Tests,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/5/2020,25861
+Confirmed Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/5/20,535
+Deaths,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/5/20,24
+Recovered Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/5/20,182
+Tests,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/4/2020,24784
+Confirmed Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/4/20,490
+Deaths,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/4/20,24
+Recovered Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/4/20,173
+Tests,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/3/2020,24784
 Confirmed Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/3/20,465
 Deaths,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/3/20,24
 Recovered Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/3/20,167
+Tests,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/2/2020,23780
 Confirmed Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/2/20,435
 Deaths,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/2/20,22
 Recovered Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/2/20,152
+Tests,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/1/2020,21702
 Confirmed Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/1/20,411
 Deaths,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/1/20,21
 Recovered Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/1/20,150
-Tests,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/03/2020,24784
-Tests,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/02/2020,23780
-Tests,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,5/01/2020,21702
 Tests,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,4/9/2020,5278
 Confirmed Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,4/9/20,184
 Deaths,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,4/9/20,7
@@ -10299,18 +10499,26 @@ Tests,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,1/22/2020,0
 Confirmed Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,1/22/20,0
 Deaths,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,1/22/20,0
 Recovered Cases,,Kenya,-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,,Kenya,1/22/20,0
+Tests,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/5/2020,0
+Confirmed Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/5/20,170
+Deaths,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/5/20,20
+Recovered Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/5/20,58
+Tests,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/4/2020,0
+Confirmed Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/4/20,166
+Deaths,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/4/20,18
+Recovered Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/4/20,58
+Tests,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/3/2020,0
 Confirmed Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/3/20,158
 Deaths,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/3/20,18
 Recovered Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/3/20,58
+Tests,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/2/2020,0
 Confirmed Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/2/20,154
 Deaths,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/2/20,18
 Recovered Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/2/20,48
+Tests,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/1/2020,0
 Confirmed Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/1/20,152
 Deaths,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/1/20,18
 Recovered Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/1/20,45
-Tests,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/03/2020,0
-Tests,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/02/2020,0
-Tests,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,5/01/2020,0
 Tests,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,4/9/2020,0
 Confirmed Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,4/9/20,31
 Deaths,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,4/9/20,4
@@ -10711,18 +10919,26 @@ Tests,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,1/22/2020
 Confirmed Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,1/22/20,0
 Deaths,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,1/22/20,0
 Recovered Cases,,Liberia,6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,,Liberia,1/22/20,0
+Tests,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/5/2020,2338
+Confirmed Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/5/20,63
+Deaths,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/5/20,3
+Recovered Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/5/20,23
+Tests,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/4/2020,2338
+Confirmed Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/4/20,63
+Deaths,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/4/20,3
+Recovered Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/4/20,23
+Tests,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/3/2020,2338
 Confirmed Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/3/20,63
 Deaths,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/3/20,3
 Recovered Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/3/20,22
+Tests,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/2/2020,2155
 Confirmed Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/2/20,63
 Deaths,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/2/20,3
 Recovered Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/2/20,22
+Tests,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/1/2020,2155
 Confirmed Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/1/20,63
 Deaths,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/1/20,3
 Recovered Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/1/20,18
-Tests,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/03/2020,2338
-Tests,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/02/2020,2155
-Tests,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,5/01/2020,2155
 Tests,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,4/9/2020,492
 Confirmed Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,4/9/20,24
 Deaths,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,4/9/20,1
@@ -11123,18 +11339,26 @@ Tests,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,1/22/20
 Confirmed Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,1/22/20,0
 Deaths,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,1/22/20,0
 Recovered Cases,,Libya,26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,,Libya,1/22/20,0
+Tests,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/5/2020,3907
+Confirmed Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/5/20,151
+Deaths,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/5/20,0
+Recovered Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/5/20,101
+Tests,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/4/2020,3861
+Confirmed Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/4/20,149
+Deaths,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/4/20,0
+Recovered Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/4/20,99
+Tests,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/3/2020,3772
 Confirmed Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/3/20,149
 Deaths,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/3/20,0
 Recovered Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/3/20,98
+Tests,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/2/2020,3611
 Confirmed Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/2/20,135
 Deaths,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/2/20,0
 Recovered Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/2/20,97
+Tests,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/1/2020,3393
 Confirmed Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/1/20,132
 Deaths,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/1/20,0
 Recovered Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/1/20,94
-Tests,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/03/2020,3772
-Tests,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/02/2020,3611
-Tests,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,5/01/2020,3393
 Tests,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,4/9/2020,0
 Confirmed Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,4/9/20,93
 Deaths,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,4/9/20,0
@@ -11535,18 +11759,26 @@ Tests,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar
 Confirmed Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,1/22/20,0
 Deaths,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,1/22/20,0
 Recovered Cases,,Madagascar,-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,,Madagascar,1/22/20,0
+Tests,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/5/2020,961
+Confirmed Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/5/20,41
+Deaths,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/5/20,3
+Recovered Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/5/20,9
+Tests,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/4/2020,907
+Confirmed Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/4/20,41
+Deaths,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/4/20,3
+Recovered Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/4/20,9
+Tests,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/3/2020,907
 Confirmed Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/3/20,39
 Deaths,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/3/20,3
 Recovered Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/3/20,9
+Tests,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/2/2020,892
 Confirmed Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/2/20,38
 Deaths,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/2/20,3
 Recovered Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/2/20,9
+Tests,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/1/2020,831
 Confirmed Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/1/20,37
 Deaths,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/1/20,3
 Recovered Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/1/20,9
-Tests,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/03/2020,907
-Tests,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/02/2020,892
-Tests,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,5/01/2020,831
 Tests,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,4/9/2020,0
 Confirmed Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,4/9/20,8
 Deaths,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,4/9/20,1
@@ -11947,18 +12179,26 @@ Tests,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998)
 Confirmed Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,1/22/20,0
 Deaths,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,1/22/20,0
 Recovered Cases,,Malawi,-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,,Malawi,1/22/20,0
+Tests,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/5/2020,2172
+Confirmed Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/5/20,612
+Deaths,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/5/20,32
+Recovered Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/5/20,228
+Tests,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/4/2020,2172
+Confirmed Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/4/20,580
+Deaths,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/4/20,29
+Recovered Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/4/20,223
+Tests,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/3/2020,2172
 Confirmed Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/3/20,563
 Deaths,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/3/20,27
 Recovered Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/3/20,213
+Tests,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/2/2020,2172
 Confirmed Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/2/20,544
 Deaths,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/2/20,26
 Recovered Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/2/20,206
+Tests,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/1/2020,2172
 Confirmed Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/1/20,508
 Deaths,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/1/20,26
 Recovered Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/1/20,196
-Tests,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/03/2020,2172
-Tests,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/02/2020,2172
-Tests,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,5/01/2020,2172
 Tests,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,4/9/2020,0
 Confirmed Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,4/9/20,74
 Deaths,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,4/9/20,7
@@ -12359,18 +12599,26 @@ Tests,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Afr
 Confirmed Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,1/22/20,0
 Deaths,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,1/22/20,0
 Recovered Cases,,Mali,17.570692,-3.996166000000001,POINT(-3.996166000000001 17.570692),Africa,AF,,Mali,1/22/20,0
+Tests,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/5/2020,1842
+Confirmed Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/5/20,8
+Deaths,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/5/20,1
+Recovered Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/5/20,6
+Tests,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/4/2020,1032
+Confirmed Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/4/20,8
+Deaths,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/4/20,1
+Recovered Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/4/20,6
+Tests,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/3/2020,1032
 Confirmed Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/3/20,8
 Deaths,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/3/20,1
 Recovered Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/3/20,6
+Tests,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/2/2020,1032
 Confirmed Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/2/20,8
 Deaths,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/2/20,1
 Recovered Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/2/20,6
+Tests,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/1/2020,1032
 Confirmed Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/1/20,8
 Deaths,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/1/20,1
 Recovered Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/1/20,6
-Tests,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/03/2020,1032
-Tests,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/02/2020,1032
-Tests,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,5/01/2020,1032
 Tests,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,4/9/2020,258
 Confirmed Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,4/9/20,7
 Deaths,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,4/9/20,1
@@ -12771,18 +13019,26 @@ Tests,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,1
 Confirmed Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,1/22/20,0
 Deaths,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,1/22/20,0
 Recovered Cases,,Mauritania,21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,,Mauritania,1/22/20,0
+Tests,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/5/2020,55494
+Confirmed Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/5/20,332
+Deaths,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/5/20,10
+Recovered Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/5/20,319
+Tests,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/4/2020,18959
+Confirmed Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/4/20,332
+Deaths,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/4/20,10
+Recovered Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/4/20,316
+Tests,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/3/2020,18398
 Confirmed Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/3/20,332
 Deaths,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/3/20,10
 Recovered Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/3/20,315
+Tests,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/2/2020,16028
 Confirmed Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/2/20,332
 Deaths,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/2/20,10
 Recovered Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/2/20,314
+Tests,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/1/2020,16028
 Confirmed Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/1/20,332
 Deaths,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/1/20,10
 Recovered Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/1/20,312
-Tests,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/03/2020,18398
-Tests,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/02/2020,16028
-Tests,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,5/01/2020,16028
 Tests,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,4/9/2020,6730
 Confirmed Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,4/9/20,314
 Deaths,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,4/9/20,7
@@ -13183,18 +13439,26 @@ Tests,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,1/22/2020,0
 Confirmed Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,1/22/20,0
 Deaths,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,1/22/20,0
 Recovered Cases,,Mauritius,-20.2,57.5,POINT(57.5 -20.2),Africa,AF,,Mauritius,1/22/20,0
+Tests,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/5/2020,52958
+Confirmed Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/5/20,5219
+Deaths,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/5/20,181
+Recovered Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/5/20,1838
+Tests,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/4/2020,47837
+Confirmed Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/4/20,5053
+Deaths,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/4/20,179
+Recovered Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/4/20,1653
+Tests,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/3/2020,45302
 Confirmed Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/3/20,4903
 Deaths,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/3/20,174
 Recovered Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/3/20,1438
+Tests,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/2/2020,40961
 Confirmed Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/2/20,4729
 Deaths,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/2/20,173
 Recovered Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/2/20,1256
+Tests,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/1/2020,39367
 Confirmed Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/1/20,4569
 Deaths,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/1/20,171
 Recovered Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/1/20,1083
-Tests,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/03/2020,45302
-Tests,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/02/2020,40961
-Tests,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,5/01/2020,39367
 Tests,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,4/9/2020,6116
 Confirmed Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,4/9/20,1374
 Deaths,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,4/9/20,97
@@ -13595,18 +13859,26 @@ Tests,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,1/22/20
 Confirmed Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,1/22/20,0
 Deaths,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,1/22/20,0
 Recovered Cases,,Morocco,31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,,Morocco,1/22/20,0
+Tests,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/5/2020,2867
+Confirmed Cases,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/5/20,81
+Deaths,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/5/20,0
+Recovered Cases,,Mozambique,-18.6657,35.5296,POINT(35.5296 -18.6657),Africa,AF,,Mozambique,5/5/20,19
+Tests,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/4/2020,2466
+Confirmed Cases,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/4/20,80
+Deaths,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/4/20,0
+Recovered Cases,,Mozambique,-18.6657,35.5296,POINT(35.5296 -18.6657),Africa,AF,,Mozambique,5/4/20,19
+Tests,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/3/2020,2466
 Confirmed Cases,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/3/20,80
 Deaths,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/3/20,0
 Recovered Cases,,Mozambique,-18.6657,35.5296,POINT(35.5296 -18.6657),Africa,AF,,Mozambique,5/3/20,19
+Tests,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/2/2020,2337
 Confirmed Cases,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/2/20,79
 Deaths,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/2/20,0
 Recovered Cases,,Mozambique,-18.6657,35.5296,POINT(35.5296 -18.6657),Africa,AF,,Mozambique,5/2/20,18
+Tests,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/1/2020,2337
 Confirmed Cases,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/1/20,79
 Deaths,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/1/20,0
 Recovered Cases,,Mozambique,-18.6657,35.5296,POINT(35.5296 -18.6657),Africa,AF,,Mozambique,5/1/20,12
-Tests,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/03/2020,2466
-Tests,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/02/2020,2337
-Tests,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,5/01/2020,2337
 Tests,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,4/9/2020,483
 Confirmed Cases,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,4/9/20,17
 Deaths,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,4/9/20,0
@@ -14007,18 +14279,26 @@ Tests,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mo
 Confirmed Cases,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,1/22/20,0
 Deaths,,Mozambique,-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,,Mozambique,1/22/20,0
 Recovered Cases,,Mozambique,-18.6657,35.5296,POINT(35.5296 -18.6657),Africa,AF,,Mozambique,1/22/20,0
+Tests,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/5/2020,1122
+Confirmed Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/5/20,16
+Deaths,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/5/20,0
+Recovered Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/5/20,8
+Tests,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/4/2020,1122
+Confirmed Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/4/20,16
+Deaths,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/4/20,0
+Recovered Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/4/20,8
+Tests,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/3/2020,1122
 Confirmed Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/3/20,16
 Deaths,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/3/20,0
 Recovered Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/3/20,8
+Tests,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/2/2020,1122
 Confirmed Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/2/20,16
 Deaths,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/2/20,0
 Recovered Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/2/20,8
+Tests,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/1/2020,704
 Confirmed Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/1/20,16
 Deaths,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/1/20,0
 Recovered Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/1/20,8
-Tests,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/03/2020,1122
-Tests,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/02/2020,1122
-Tests,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,5/01/2020,704
 Tests,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,4/9/2020,362
 Confirmed Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,4/9/20,16
 Deaths,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,4/9/20,0
@@ -14419,18 +14699,26 @@ Tests,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,1/22/
 Confirmed Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,1/22/20,0
 Deaths,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,1/22/20,0
 Recovered Cases,,Namibia,-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,,Namibia,1/22/20,0
+Tests,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/5/2020,5409
+Confirmed Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/5/20,763
+Deaths,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/5/20,38
+Recovered Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/5/20,543
+Tests,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/4/2020,5309
+Confirmed Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/4/20,755
+Deaths,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/4/20,37
+Recovered Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/4/20,534
+Tests,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/3/2020,5309
 Confirmed Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/3/20,750
 Deaths,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/3/20,36
 Recovered Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/3/20,518
+Tests,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/2/2020,5271
 Confirmed Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/2/20,736
 Deaths,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/2/20,35
 Recovered Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/2/20,507
+Tests,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/1/2020,5230
 Confirmed Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/1/20,728
 Deaths,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/1/20,33
 Recovered Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/1/20,478
-Tests,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/03/2020,5309
-Tests,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/02/2020,5271
-Tests,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,5/01/2020,5230
 Tests,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,4/9/2020,4251
 Confirmed Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,4/9/20,410
 Deaths,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,4/9/20,11
@@ -14831,18 +15119,26 @@ Tests,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,1/22/2020,0
 Confirmed Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,1/22/20,0
 Deaths,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,1/22/20,0
 Recovered Cases,,Niger,17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,,Niger,1/22/20,0
+Tests,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/5/2020,21208
+Confirmed Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/5/20,2950
+Deaths,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/5/20,98
+Recovered Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/5/20,481
+Tests,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/4/2020,19512
+Confirmed Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/4/20,2802
+Deaths,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/4/20,93
+Recovered Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/4/20,417
+Tests,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/3/2020,18536
 Confirmed Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/3/20,2558
 Deaths,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/3/20,87
 Recovered Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/3/20,400
+Tests,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/2/2020,16588
 Confirmed Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/2/20,2388
 Deaths,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/2/20,85
 Recovered Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/2/20,351
+Tests,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/1/2020,16588
 Confirmed Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/1/20,2170
 Deaths,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/1/20,68
 Recovered Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/1/20,351
-Tests,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/03/2020,18536
-Tests,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/02/2020,16588
-Tests,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,5/01/2020,16588
 Tests,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,4/9/2020,5000
 Confirmed Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,4/9/20,288
 Deaths,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,4/9/20,7
@@ -15243,18 +15539,26 @@ Tests,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,1/22/2020,0
 Confirmed Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,1/22/20,0
 Deaths,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,1/22/20,0
 Recovered Cases,,Nigeria,9.082,8.6753,POINT(8.6753 9.082),Africa,AF,,Nigeria,1/22/20,0
+Tests,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/5/2020,37315
+Confirmed Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/5/20,261
+Deaths,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/5/20,0
+Recovered Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/5/20,129
+Tests,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/4/2020,35096
+Confirmed Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/4/20,261
+Deaths,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/4/20,0
+Recovered Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/4/20,128
+Tests,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/3/2020,35096
 Confirmed Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/3/20,259
 Deaths,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/3/20,0
 Recovered Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/3/20,124
+Tests,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/2/2020,33303
 Confirmed Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/2/20,255
 Deaths,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/2/20,0
 Recovered Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/2/20,120
+Tests,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/1/2020,33303
 Confirmed Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/1/20,249
 Deaths,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/1/20,0
 Recovered Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/1/20,109
-Tests,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/03/2020,35096
-Tests,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/02/2020,33303
-Tests,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,5/01/2020,33303
 Tests,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,4/9/2020,806
 Confirmed Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,4/9/20,110
 Deaths,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,4/9/20,0
@@ -15655,18 +15959,26 @@ Tests,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,1/22/2020
 Confirmed Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,1/22/20,0
 Deaths,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,1/22/20,0
 Recovered Cases,,Rwanda,-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,,Rwanda,1/22/20,0
+Tests,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/5/2020,175
+Confirmed Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/5/20,174
+Deaths,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/5/20,3
+Recovered Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/5/20,4
+Tests,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/4/2020,175
+Confirmed Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/4/20,23
+Deaths,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/4/20,3
+Recovered Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/4/20,4
+Tests,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/3/2020,175
 Confirmed Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/3/20,16
 Deaths,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/3/20,1
 Recovered Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/3/20,4
+Tests,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/2/2020,19
 Confirmed Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/2/20,16
 Deaths,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/2/20,1
 Recovered Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/2/20,4
+Tests,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/1/2020,19
 Confirmed Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/1/20,16
 Deaths,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/1/20,1
 Recovered Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/1/20,4
-Tests,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/03/2020,175
-Tests,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/02/2020,19
-Tests,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,5/01/2020,19
 Tests,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,4/9/2020,19
 Confirmed Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,4/9/20,4
 Deaths,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,4/9/20,0
@@ -16067,18 +16379,26 @@ Tests,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,
 Confirmed Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,1/22/20,0
 Deaths,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,1/22/20,0
 Recovered Cases,,Sao Tome and Principe,0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,,Sao Tome and Principe,1/22/20,0
+Tests,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/5/2020,18969
+Confirmed Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/5/20,1329
+Deaths,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/5/20,11
+Recovered Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/5/20,470
+Tests,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/4/2020,17787
+Confirmed Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/4/20,1271
+Deaths,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/4/20,10
+Recovered Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/4/20,415
+Tests,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/3/2020,17787
 Confirmed Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/3/20,1182
 Deaths,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/3/20,9
 Recovered Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/3/20,372
+Tests,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/2/2020,466
 Confirmed Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/2/20,1115
 Deaths,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/2/20,9
 Recovered Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/2/20,368
+Tests,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/1/2020,466
 Confirmed Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/1/20,1024
 Deaths,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/1/20,9
 Recovered Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/1/20,356
-Tests,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/03/2020,17787
-Tests,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/02/2020,466
-Tests,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,5/01/2020,466
 Tests,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,4/9/2020,0
 Confirmed Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,4/9/20,250
 Deaths,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,4/9/20,2
@@ -16479,18 +16799,26 @@ Tests,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,1/22/
 Confirmed Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,1/22/20,0
 Deaths,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,1/22/20,0
 Recovered Cases,,Senegal,14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,,Senegal,1/22/20,0
+Tests,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/5/2020,0
+Confirmed Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/5/20,11
+Deaths,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/5/20,0
+Recovered Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/5/20,8
+Tests,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/4/2020,0
+Confirmed Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/4/20,11
+Deaths,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/4/20,0
+Recovered Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/4/20,6
+Tests,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/3/2020,0
 Confirmed Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/3/20,11
 Deaths,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/3/20,0
 Recovered Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/3/20,6
+Tests,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/2/2020,0
 Confirmed Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/2/20,11
 Deaths,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/2/20,0
 Recovered Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/2/20,6
+Tests,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/1/2020,0
 Confirmed Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/1/20,11
 Deaths,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/1/20,0
 Recovered Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/1/20,6
-Tests,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/03/2020,0
-Tests,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/02/2020,0
-Tests,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,5/01/2020,0
 Tests,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,4/9/2020,0
 Confirmed Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,4/9/20,11
 Deaths,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,4/9/20,0
@@ -16891,18 +17219,26 @@ Tests,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,1/2
 Confirmed Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,1/22/20,0
 Deaths,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,1/22/20,0
 Recovered Cases,,Seychelles,-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,,Seychelles,1/22/20,0
+Tests,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/5/2020,0
+Confirmed Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/5/20,199
+Deaths,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/5/20,11
+Recovered Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/5/20,43
+Tests,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/4/2020,0
+Confirmed Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/4/20,178
+Deaths,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/4/20,9
+Recovered Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/4/20,37
+Tests,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/3/2020,0
 Confirmed Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/3/20,166
 Deaths,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/3/20,8
 Recovered Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/3/20,29
+Tests,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/2/2020,0
 Confirmed Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/2/20,155
 Deaths,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/2/20,8
 Recovered Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/2/20,21
+Tests,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/1/2020,0
 Confirmed Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/1/20,136
 Deaths,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/1/20,7
 Recovered Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/1/20,21
-Tests,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/03/2020,0
-Tests,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/02/2020,0
-Tests,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,5/01/2020,0
 Tests,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,4/9/2020,0
 Confirmed Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,4/9/20,7
 Deaths,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,4/9/20,0
@@ -17303,18 +17639,26 @@ Tests,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000
 Confirmed Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,1/22/20,0
 Deaths,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,1/22/20,0
 Recovered Cases,,Sierra Leone,8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,,Sierra Leone,1/22/20,0
+Tests,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/5/2020,0
+Confirmed Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/5/20,835
+Deaths,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/5/20,38
+Recovered Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/5/20,75
+Tests,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/4/2020,0
+Confirmed Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/4/20,756
+Deaths,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/4/20,35
+Recovered Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/4/20,61
+Tests,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/3/2020,0
 Confirmed Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/3/20,722
 Deaths,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/3/20,32
 Recovered Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/3/20,44
+Tests,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/2/2020,0
 Confirmed Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/2/20,671
 Deaths,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/2/20,31
 Recovered Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/2/20,34
+Tests,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/1/2020,0
 Confirmed Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/1/20,601
 Deaths,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/1/20,28
 Recovered Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/1/20,31
-Tests,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/03/2020,0
-Tests,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/02/2020,0
-Tests,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,5/01/2020,0
 Tests,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,4/9/2020,0
 Confirmed Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,4/9/20,12
 Deaths,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,4/9/20,1
@@ -17715,18 +18059,26 @@ Tests,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,1/22/2020
 Confirmed Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,1/22/20,0
 Deaths,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,1/22/20,0
 Recovered Cases,,Somalia,5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,,Somalia,1/22/20,0
+Tests,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/5/2020,279379
+Confirmed Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/5/20,7572
+Deaths,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/5/20,148
+Recovered Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/5/20,2746
+Tests,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/4/2020,257541
+Confirmed Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/4/20,7220
+Deaths,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/4/20,138
+Recovered Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/4/20,2746
+Tests,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/3/2020,257541
 Confirmed Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/3/20,6783
 Deaths,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/3/20,131
 Recovered Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/3/20,2549
+Tests,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/2/2020,230686
 Confirmed Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/2/20,6336
 Deaths,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/2/20,123
 Recovered Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/2/20,2549
+Tests,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/1/2020,230686
 Confirmed Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/1/20,5951
 Deaths,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/1/20,116
 Recovered Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/1/20,2382
-Tests,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/03/2020,257541
-Tests,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/02/2020,230686
-Tests,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,5/01/2020,230686
 Tests,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,4/9/2020,68874
 Confirmed Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,4/9/20,1934
 Deaths,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,4/9/20,18
@@ -18127,18 +18479,26 @@ Tests,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Af
 Confirmed Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,1/22/20,0
 Deaths,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,1/22/20,0
 Recovered Cases,,South Africa,-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,,South Africa,1/22/20,0
+Tests,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/5/2020,1247
+Confirmed Cases,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/5/20,52
+Deaths,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/5/20,0
+Recovered Cases,,South Sudan,6.8770000000000024,31.307,POINT(31.307 6.8770000000000024),Africa,AF,,South Sudan,5/5/20,0
+Tests,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/4/2020,1247
+Confirmed Cases,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/4/20,46
+Deaths,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/4/20,0
+Recovered Cases,,South Sudan,6.8770000000000024,31.307,POINT(31.307 6.8770000000000024),Africa,AF,,South Sudan,5/4/20,0
+Tests,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/3/2020,1247
 Confirmed Cases,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/3/20,46
 Deaths,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/3/20,0
 Recovered Cases,,South Sudan,6.8770000000000024,31.307,POINT(31.307 6.8770000000000024),Africa,AF,,South Sudan,5/3/20,0
+Tests,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/2/2020,1247
 Confirmed Cases,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/2/20,45
 Deaths,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/2/20,0
 Recovered Cases,,South Sudan,6.8770000000000024,31.307,POINT(31.307 6.8770000000000024),Africa,AF,,South Sudan,5/2/20,0
+Tests,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/1/2020,1247
 Confirmed Cases,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/1/20,45
 Deaths,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/1/20,0
 Recovered Cases,,South Sudan,6.8770000000000024,31.307,POINT(31.307 6.8770000000000024),Africa,AF,,South Sudan,5/1/20,0
-Tests,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/03/2020,1247
-Tests,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/02/2020,1247
-Tests,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,5/01/2020,1247
 Tests,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,4/9/2020,0
 Confirmed Cases,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,4/9/20,3
 Deaths,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,4/9/20,0
@@ -18539,18 +18899,26 @@ Tests,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Afri
 Confirmed Cases,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,1/22/20,0
 Deaths,,South Sudan,6.877000000000002,31.307,POINT(31.307 6.877000000000002),Africa,AF,,South Sudan,1/22/20,0
 Recovered Cases,,South Sudan,6.8770000000000024,31.307,POINT(31.307 6.8770000000000024),Africa,AF,,South Sudan,1/22/20,0
+Tests,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/5/2020,0
+Confirmed Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/5/20,778
+Deaths,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/5/20,45
+Recovered Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/5/20,70
+Tests,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/4/2020,0
+Confirmed Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/4/20,678
+Deaths,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/4/20,41
+Recovered Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/4/20,61
+Tests,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/3/2020,0
 Confirmed Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/3/20,592
 Deaths,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/3/20,41
 Recovered Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/3/20,52
+Tests,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/2/2020,0
 Confirmed Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/2/20,592
 Deaths,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/2/20,41
 Recovered Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/2/20,52
+Tests,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/1/2020,0
 Confirmed Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/1/20,533
 Deaths,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/1/20,36
 Recovered Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/1/20,46
-Tests,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/03/2020,0
-Tests,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/02/2020,0
-Tests,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,5/01/2020,0
 Tests,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,4/9/2020,0
 Confirmed Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,4/9/20,15
 Deaths,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,4/9/20,2
@@ -18951,18 +19319,26 @@ Tests,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,1/22/2020,0
 Confirmed Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,1/22/20,0
 Deaths,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,1/22/20,0
 Recovered Cases,,Sudan,12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,,Sudan,1/22/20,0
+Tests,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/5/2020,0
+Confirmed Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/5/20,480
+Deaths,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/5/20,16
+Recovered Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/5/20,167
+Tests,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/4/2020,0
+Confirmed Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/4/20,480
+Deaths,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/4/20,16
+Recovered Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/4/20,167
+Tests,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/3/2020,0
 Confirmed Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/3/20,480
 Deaths,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/3/20,16
 Recovered Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/3/20,167
+Tests,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/2/2020,0
 Confirmed Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/2/20,480
 Deaths,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/2/20,16
 Recovered Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/2/20,167
+Tests,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/1/2020,0
 Confirmed Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/1/20,480
 Deaths,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/1/20,16
 Recovered Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/1/20,167
-Tests,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/03/2020,0
-Tests,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/02/2020,0
-Tests,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,5/01/2020,0
 Tests,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,4/9/2020,0
 Confirmed Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,4/9/20,25
 Deaths,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,4/9/20,1
@@ -19363,18 +19739,26 @@ Tests,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,1/22/20
 Confirmed Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,1/22/20,0
 Deaths,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,1/22/20,0
 Recovered Cases,,Tanzania,-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,,Tanzania,1/22/20,0
+Tests,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/5/2020,8835
+Confirmed Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/5/20,128
+Deaths,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/5/20,9
+Recovered Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/5/20,74
+Tests,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/4/2020,7896
+Confirmed Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/4/20,126
+Deaths,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/4/20,9
+Recovered Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/4/20,74
+Tests,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/3/2020,7891
 Confirmed Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/3/20,124
 Deaths,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/3/20,9
 Recovered Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/3/20,67
+Tests,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/2/2020,7425
 Confirmed Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/2/20,123
 Deaths,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/2/20,9
 Recovered Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/2/20,66
+Tests,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/1/2020,7100
 Confirmed Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/1/20,123
 Deaths,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/1/20,9
 Recovered Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/1/20,66
-Tests,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/03/2020,7891
-Tests,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/02/2020,7425
-Tests,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,5/01/2020,7100
 Tests,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,4/9/2020,1747
 Confirmed Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,4/9/20,73
 Deaths,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,4/9/20,3
@@ -19775,18 +20159,26 @@ Tests,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,1/22/2020,0
 Confirmed Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,1/22/20,0
 Deaths,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,1/22/20,0
 Recovered Cases,,Togo,8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,,Togo,1/22/20,0
+Tests,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/5/2020,25165
+Confirmed Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/5/20,1022
+Deaths,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/5/20,43
+Recovered Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/5/20,482
+Tests,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/4/2020,24853
+Confirmed Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/4/20,1018
+Deaths,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/4/20,43
+Recovered Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/4/20,406
+Tests,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/3/2020,24406
 Confirmed Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/3/20,1013
 Deaths,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/3/20,42
 Recovered Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/3/20,328
+Tests,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/2/2020,24055
 Confirmed Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/2/20,1009
 Deaths,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/2/20,42
 Recovered Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/2/20,323
+Tests,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/1/2020,23526
 Confirmed Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/1/20,998
 Deaths,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/1/20,41
 Recovered Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/1/20,316
-Tests,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/03/2020,24406
-Tests,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/02/2020,24055
-Tests,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,5/01/2020,23526
 Tests,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,4/9/2020,9570
 Confirmed Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,4/9/20,643
 Deaths,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,4/9/20,25
@@ -20187,18 +20579,26 @@ Tests,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,1/22/2020,0
 Confirmed Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,1/22/20,0
 Deaths,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,1/22/20,0
 Recovered Cases,,Tunisia,34.0,9.0,POINT(9.0 34.0),Africa,AF,,Tunisia,1/22/20,0
+Tests,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/5/2020,44110
+Confirmed Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/5/20,98
+Deaths,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/5/20,0
+Recovered Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/5/20,55
+Tests,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/4/2020,41478
+Confirmed Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/4/20,97
+Deaths,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/4/20,0
+Recovered Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/4/20,55
+Tests,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/3/2020,39232
 Confirmed Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/3/20,89
 Deaths,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/3/20,0
 Recovered Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/3/20,52
+Tests,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/2/2020,36302
 Confirmed Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/2/20,88
 Deaths,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/2/20,0
 Recovered Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/2/20,52
+Tests,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/1/2020,33818
 Confirmed Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/1/20,85
 Deaths,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/1/20,0
 Recovered Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/1/20,52
-Tests,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/03/2020,39232
-Tests,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/02/2020,36302
-Tests,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,5/01/2020,33818
 Tests,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,4/9/2020,3310
 Confirmed Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,4/9/20,53
 Deaths,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,4/9/20,0
@@ -20599,18 +20999,26 @@ Tests,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,1/22/2020,0
 Confirmed Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,1/22/20,0
 Deaths,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,1/22/20,0
 Recovered Cases,,Uganda,1.0,32.0,POINT(32.0 1.0),Africa,AF,,Uganda,1/22/20,0
+Tests,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/5/2020,0
+Confirmed Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/5/20,6
+Deaths,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/5/20,0
+Recovered Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/5/20,5
+Tests,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/4/2020,0
+Confirmed Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/4/20,6
+Deaths,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/4/20,0
+Recovered Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/4/20,5
+Tests,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/3/2020,0
 Confirmed Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/3/20,6
 Deaths,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/3/20,0
 Recovered Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/3/20,5
+Tests,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/2/2020,0
 Confirmed Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/2/20,6
 Deaths,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/2/20,0
 Recovered Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/2/20,5
+Tests,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/1/2020,0
 Confirmed Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/1/20,6
 Deaths,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/1/20,0
 Recovered Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/1/20,5
-Tests,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/03/2020,0
-Tests,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/02/2020,0
-Tests,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,5/01/2020,0
 Tests,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,4/9/2020,0
 Confirmed Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,4/9/20,4
 Deaths,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,4/9/20,0
@@ -21011,18 +21419,26 @@ Tests,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Wester
 Confirmed Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,1/22/20,0
 Deaths,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,1/22/20,0
 Recovered Cases,,Western Sahara,24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,,Western Sahara,1/22/20,0
+Tests,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/5/2020,10270
+Confirmed Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/5/20,138
+Deaths,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/5/20,3
+Recovered Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/5/20,92
+Tests,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/4/2020,7277
+Confirmed Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/4/20,137
+Deaths,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/4/20,3
+Recovered Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/4/20,78
+Tests,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/3/2020,7277
 Confirmed Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/3/20,124
 Deaths,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/3/20,3
 Recovered Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/3/20,78
+Tests,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/2/2020,6882
 Confirmed Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/2/20,119
 Deaths,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/2/20,3
 Recovered Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/2/20,75
+Tests,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/1/2020,5284
 Confirmed Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/1/20,109
 Deaths,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/1/20,3
 Recovered Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/1/20,74
-Tests,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/03/2020,7277
-Tests,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/02/2020,6882
-Tests,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,5/01/2020,5284
 Tests,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,4/9/2020,1239
 Confirmed Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,4/9/20,39
 Deaths,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,4/9/20,1
@@ -21423,18 +21839,26 @@ Tests,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,1/22/20
 Confirmed Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,1/22/20,0
 Deaths,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,1/22/20,0
 Recovered Cases,,Zambia,-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,,Zambia,1/22/20,0
+Tests,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/5/2020,7642
+Confirmed Cases,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/5/20,34
+Deaths,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/5/20,4
+Recovered Cases,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/5/20,5
+Tests,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/4/2020,7642
+Confirmed Cases,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/4/20,34
+Deaths,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/4/20,4
+Recovered Cases,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/4/20,5
+Tests,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/3/2020,7642
 Confirmed Cases,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/3/20,34
 Deaths,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/3/20,4
 Recovered Cases,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/3/20,5
+Tests,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/2/2020,7642
 Confirmed Cases,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/2/20,34
 Deaths,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/2/20,4
 Recovered Cases,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/2/20,5
+Tests,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/1/2020,7642
 Confirmed Cases,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/1/20,40
 Deaths,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/1/20,4
 Recovered Cases,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/1/20,5
-Tests,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/03/2020,7642
-Tests,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/02/2020,7642
-Tests,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,5/01/2020,7642
 Tests,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,4/9/2020,371
 Confirmed Cases,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,4/9/20,11
 Deaths,,Zimbabwe,-20.0,30.0,POINT(30.0 -20.0),Africa,AF,,Zimbabwe,4/9/20,3

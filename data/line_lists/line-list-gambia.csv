@@ -1,0 +1,11 @@
+case_id,origin_case_id,date,age,gender,city,province/state,country,current_status,source,symptoms,date_onset_symptoms,date_admission_hospital,date_confirmation,underlying_conditions,travel_history_dates,travel_history_location,death_date,notes_for_discussion
+1,,2020-03-18,28,Female,Fajara,,Gambia,Recovered,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-15,UK,,Case flew from England into Gambia and has recovered as of 31st of March (with two negative results)
+2,,2020-03-16,70,Male,Banjul,,Gambia,Deceased,http://www.moh.gov.gm/covid19-update/,Severe,2020-03-17,,,Diabetes,,High risk countries,2020-03-20,Bangladeshi Citizen deceased traveled to six other countries prior to arriving in The Gambia
+3,,2020-03-20,28,Female,Banjul,,Gambia,Recovered,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-15,UK,,Case flew into Gambia and has recovered as of 23rd April (with two negative results)
+4,,2020-03-20,62,Male,Banjul,,Gambia,Recovered,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-15,UK,,Case flew into Gambia and has recovered as of 23rd April (with two negative results)
+5,,2020-03-20,28,Female,Banjul,,Gambia,Recovered,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-15,UK,,Case flew into Gambia and has recovered as of 23 April
+6,,2020-03-20,26,Female,Banjul,,Gambia,Receiving Treatment,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-15,UK,,Case flew into Gambia 
+7,,2020-03-23,71,Male,Numuyel,,Gambia,Recovered,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-17,France,,Case flew from France into Gambia and is currently undergoing treatment. As of 4/1/2020, patient has been discharged
+8,,2020-03-28,53,Male,Banjul,,Gambia,Receiving Treatment,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-15,UK,,Case flew from England into Gambia and is currently undergoing treatment
+9,,2020-03-29,20,Male,Banjul,,Gambia,Recovered,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-28,Local,,Local case. Has recovered as of 23rd April
+10,,2020-03-29,40,Female,Banjul,,Gambia,Recovered,http://www.moh.gov.gm/covid19-update/,,,,,,2020-03-28,Local,,Local case. Has recovered as of 23rd April

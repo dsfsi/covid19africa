@@ -1,0 +1,11 @@
+"","case_id","origin_case_id","date","age","gender","city","province/state","country","current_status","source","symptoms","date_onset_symptoms","date_admission_hospital","date_confirmation","underlying_conditions","travel_history_dates","travel_history_location","death_date","notes_for_discussion"
+"1",1,NA,2020-03-20,36,"male","Niamey",NA,"Niger","Alive","https://www.afro.who.int/sites/default/files/countries/Niger/Bulletin_4_nCOVID-19_Niger_2003200.pdf",NA,"2020/03/18",NA,2020-03-20,NA,"2020/02/27","Togo, Ghana, Cote d'Ivoire, Burkina Faso",NA,"Nigerian warehouse worker; went back to work on 3/4 after travel; presented with cough and fever on 3/18; importation=Y; transmission_type=NA; detected_through=Self-presentation"
+"2",2,NA,2020-03-21,51,"male","Niamey",NA,"Niger",NA,"http://news.aniamey.com/h/96834.html",NA,NA,NA,2020-03-21,NA,NA,NA,NA,NA
+"3",3,NA,2020-03-23,NA,"female","Niamey",NA,"Niger",NA,"https://www.panapress.com/Coronavirus-Niger-records-third--a_630633889-lang2.html",NA,NA,NA,2020-03-23,NA,"2020/03/16","Switzerland",NA,NA
+"4",4,NA,2020-03-25,NA,NA,"Niamey",NA,"Niger",NA,"http://www.tamtaminfo.com/coronavirus-sept-7-cas-enregistres-dont-un-1mort/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"5",5,NA,2020-03-25,NA,NA,"Niamey",NA,"Niger",NA,"http://www.tamtaminfo.com/coronavirus-sept-7-cas-enregistres-dont-un-1mort/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"6",6,NA,2020-03-25,NA,NA,"Niamey",NA,"Niger",NA,"http://www.tamtaminfo.com/coronavirus-sept-7-cas-enregistres-dont-un-1mort/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"7",7,NA,2020-03-25,63,NA,"Niamey National Hospital",NA,"Niger","Deceased","http://www.tamtaminfo.com/coronavirus-sept-7-cas-enregistres-dont-un-1mort/",NA,NA,NA,2020-03-25,NA,NA,NA,NA,NA
+"8",8,NA,2020-03-25,62,"male","Niamey",NA,"Niger",NA,"http://news.aniamey.com/h/96893.html",NA,NA,NA,2020-03-25,NA,"2020/02/27","Senegal",NA,NA
+"9",9,NA,2020-03-26,56,"male","Niamey",NA,"Niger",NA,"http://news.aniamey.com/h/96904.html",NA,NA,NA,2020-03-26,NA,"2020/02/28","Central African Republic, Liberia, Kenya",NA,NA
+"10",10,NA,2020-03-26,52,NA,"Niamey",NA,"Niger",NA,"http://news.aniamey.com/h/96904.html",NA,NA,NA,2020-03-26,NA,NA,NA,NA,NA

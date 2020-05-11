@@ -1,0 +1,2 @@
+- name: Stale for Actions
+  uses: probot/stale-action@v1.1

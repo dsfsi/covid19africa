@@ -17,6 +17,7 @@ import pytesseract
 # Point this to where you installed Tesseract executable for OCR
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 africa_cdc_path = "data/time_series/africa_cdc/"
+timeseries_path = "data/time_series/"
 # This is a hack for now, it will be replaced with similarity measures for more elegant accomodation of variants
 # Variants happen due to people mistyping or OCR artifacts
 freq_missed = {"ORC" : "DRC", "Cdte d'ivoire": "Cote d'ivoire", "Cdte d'Ivoire": "Cote d'ivoire", 
@@ -55,15 +56,21 @@ def parse_args():
 
     return args
 
-def get_filenames(files_path=africa_cdc_path, file_base="africa_cdc_daily_time_series"):
-    str_ = files_path + file_base + "_"
+def get_filenames(files_path="", files_base=""):
+    str_ = files_path + files_base + "_"
     str_ += '{0}.csv'
-    files = list(map(str_.format, ["cases", "deaths", "recovered"])) # , "tests"]))
+    files = list(map(str_.format, ["cases", "deaths", "recovered", "tests"]))
     print(files)
     return files
 
+def get_africa_cdc_filenames(files_path=africa_cdc_path, files_base="africa_cdc_daily_time_series"):
+    return get_filenames(files_path, files_base)[:3]
+
+def get_timeseries_filenames(files_path=timeseries_path, files_base="africa_daily_time_series"):
+    return get_filenames(files_path, files_base)
+
 def read_time_series():
-    files = get_filenames()
+    files = get_africa_cdc_filenames()
     # read the files
     data_f = [pd.read_csv(f, index_col='Country', encoding = "ISO-8859-1") for f in files]
     # print(data_f)
@@ -95,6 +102,41 @@ def update_time_series(data_f="", data="", date_txt=""):
 def write_time_series(data="", files=""):
     for df, f in zip(data, files):
         df.to_csv(f, encoding = "utf-8")
+
+def unpivot_timeseries():
+    keys = ["Confirmed Cases", "Deaths", "Recovered Cases", "Tests"]
+    df_unp = "unpivoted_dataframe"
+    # First, get all the 4 files, unpivoted and sorted
+    filenames = get_timeseries_filenames()
+    data = {keys[i]:{"filename":filenames[i], \
+                     "df": pd.read_csv(filenames[i]), \
+                      df_unp: pd.read_csv(filenames[i]).melt(id_vars=["Country/Region", "Lat", "Long"], var_name="Dates", value_name="Values"), \
+                    } for i in range(len(keys))
+            }
+    # print(data)
+    df_cases = data[keys[0]][df_unp]
+    print(df_cases.head())
+    print(df_cases.shape)
+    # Insert the extract columns, rename columns, etc
+    rows = df_cases.shape[0]
+    for key in keys:
+        data[key][df_unp].insert(loc=0, column="Group", value=[key for i in range(rows)])
+        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Group")+1, column="Province State", value=["" for i in range(rows)])
+        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Long")+1, column="Location Geom", value=["POINT({} {})".format(data[key][df_unp].at[i, "Long"],data[key][df_unp].at[i, "Lat"]) for i in range(rows)])
+        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Location Geom")+1, column="Continent", value=["Africa" for i in range(rows)])
+        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent")+1, column="Continent Code", value=["AF" for i in range(rows)])
+        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent Code")+1, column="Region", value=["" for i in range(rows)])
+        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Region")+1, column="Country", value=[data[key][df_unp].at[i, "Country/Region"] for i in range(rows)])
+        data[key][df_unp].rename({"Country/Region":"Country Region", "Lat":"Latitude", "Long":"Longitude"}, axis="columns", inplace=True)
+        # data[key][df_unp].sort_values(by=["Country Region"], inplace=True)
+    # Merge the data frames into single "Africa data Format from Mahlet for Tableau Dashboard"
+    df_out = pd.concat([data[key][df_unp] for key in keys])
+    # Finally sort them
+    df_out.sort_values(by=["Country Region", "Dates"], ascending=[True, False], inplace=True)
+    print(df_out.head())
+    print(df_out.shape)
+    # write to file without index
+    df_out.to_csv("data/time_series/africa_daily_time_series_unpivoted.csv", index=False)
 
 def preprocess(img_filename="", args=""):
     # load the example image and convert it to grayscale

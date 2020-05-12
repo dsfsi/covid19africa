@@ -2,7 +2,7 @@ name: Unpivot
 
 on: 
   schedule: 
-    - cron:  '0 * * * *'
+    - cron:  '* * * * *'
 
 jobs: 
   run:

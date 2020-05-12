@@ -6,5 +6,5 @@ runipy
 pyyaml
 opencv-python
 opencv-contrib-python
-Pillow
-
+pillow
+pytesseract

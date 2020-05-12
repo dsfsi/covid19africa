@@ -69,6 +69,15 @@ def get_africa_cdc_filenames(files_path=africa_cdc_path, files_base="africa_cdc_
 def get_timeseries_filenames(files_path=timeseries_path, files_base="africa_daily_time_series"):
     return get_filenames(files_path, files_base)
 
+def get_mixed_timeseries_filenames(files_path=timeseries_path, files_base="africa_daily_time_series"):
+    # Get the African CDC time-series file names for cases, recovered, and deaths
+    files = get_africa_cdc_filenames()
+    # Get the manually collected time-series for testing
+    files_m = get_timeseries_filenames()
+    # append the testing from the manual to the African CDC files
+    files.append(files_m[3])
+    return files
+
 def read_time_series():
     files = get_africa_cdc_filenames()
     # read the files
@@ -107,7 +116,10 @@ def unpivot_timeseries():
     keys = ["Confirmed Cases", "Deaths", "Recovered Cases", "Tests"]
     df_unp = "unpivoted_dataframe"
     # First, get all the 4 files, unpivoted and sorted
+    #filenames = get_mixed_timeseries_filenames()
     filenames = get_timeseries_filenames()
+    print(filenames)
+
     data = {keys[i]:{"filename":filenames[i], \
                      "df": pd.read_csv(filenames[i]), \
                       df_unp: pd.read_csv(filenames[i]).melt(id_vars=["Country/Region", "Lat", "Long"], var_name="Date", value_name="Values"), \
@@ -193,7 +205,9 @@ def extract_africa_cdc_text(file_name=""):
     # African CDC daily reporting images
     # cdr_exp = r"([*&\-'\w]+\s*[*&\-'\w]+\s*[*&\-'\w]+\s*[*&\-'\w]+)\s?(\([^)]+\))" # exp
     # cdr_exp = r"(([*&\-'\w]+\s?){1,4})\s?(\([^)]+\))" # exp
-    cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*(\(?[\d\*\;\s\,\.]+\))" # exp
+    # cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*(\(?[\d\*\;\s\,\.]+\))" # exp
+    cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*(\(?[\d\*\;\s\,\.\%\$]+\))" # exp
+    
     re_ = re.compile(cdr_exp)
 
     #print( image_to_string(Image.open('April_15_6pm.jpg')))
@@ -236,10 +250,10 @@ def parse_date(txt):
     return date_txt
 
 def parse_num(x):
-    exp_n = r'[\d\,\.\*]+'
+    exp_n = r'[\d\,\.\*\%\$]+'
     re_n = re.compile(exp_n)
     print(x)
-    txt_ = [int(re.sub('[\,\.\*]*', '', a)) for a in re_n.findall(x)]
+    txt_ = [int(re.sub('[\,\.\*\%\$]*', '', a)) for a in re_n.findall(x)]
     # print(txt_)
     return txt_
 

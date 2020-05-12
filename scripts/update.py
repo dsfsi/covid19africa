@@ -48,6 +48,6 @@ def main():
     update_africa_cdc_data_batch(imgs_path=images_path, args=args)
 
 if __name__ == "__main__":
-    # main()
+    main()
     # read_config()
-    unpivot_timeseries()
+    # unpivot_timeseries()

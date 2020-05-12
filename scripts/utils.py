@@ -110,7 +110,7 @@ def unpivot_timeseries():
     filenames = get_timeseries_filenames()
     data = {keys[i]:{"filename":filenames[i], \
                      "df": pd.read_csv(filenames[i]), \
-                      df_unp: pd.read_csv(filenames[i]).melt(id_vars=["Country/Region", "Lat", "Long"], var_name="Dates", value_name="Values"), \
+                      df_unp: pd.read_csv(filenames[i]).melt(id_vars=["Country/Region", "Lat", "Long"], var_name="Date", value_name="Values"), \
                     } for i in range(len(keys))
             }
     # print(data)
@@ -132,7 +132,7 @@ def unpivot_timeseries():
     # Merge the data frames into single "Africa data Format from Mahlet for Tableau Dashboard"
     df_out = pd.concat([data[key][df_unp] for key in keys])
     # Finally sort them
-    df_out.sort_values(by=["Country Region", "Dates"], ascending=[True, False], inplace=True)
+    df_out.sort_values(by=["Country Region", "Date"], ascending=[True, False], inplace=True)
     print(df_out.head())
     print(df_out.shape)
     # write to file without index
@@ -150,7 +150,16 @@ def preprocess(img_filename="", args=""):
     # make a check to see if median blurring should be done to remove
     # noise
     elif args["preprocess"] == "blur":
-        gray = cv2.medianBlur(gray, 3)
+        # Median blur
+        # gray = cv2.medianBlur(gray, 3)
+        # Regular averaging
+        # kernel = np.ones((3,3),np.float32)/9
+        # gray = cv2.filter2D(gray,-1,kernel)
+        # gray = cv2.blur(gray,(3,3))
+        # Gaussian blur
+        # gray = cv2.GaussianBlur(gray,(3,3),0)
+        # Bilateral Filter
+        gray = cv2.bilateralFilter(gray,9,75,75)
     # write the grayscale image to disk as a temporary file so we can
     # apply OCR to it later
     filename = "img/tmp_{}.png".format(os.getpid())
@@ -227,9 +236,10 @@ def parse_date(txt):
     return date_txt
 
 def parse_num(x):
-    exp_n = r'[\d\,\.]+'
+    exp_n = r'[\d\,\.\*]+'
     re_n = re.compile(exp_n)
-    txt_ = [int(re.sub('[\,\.]*', '', a)) for a in re_n.findall(x)]
+    print(x)
+    txt_ = [int(re.sub('[\,\.\*]*', '', a)) for a in re_n.findall(x)]
     # print(txt_)
     return txt_
 

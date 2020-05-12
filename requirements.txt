@@ -1,0 +1,10 @@
+pandas
+matplotlib
+requests
+notebook
+runipy
+pyyaml
+opencv-python
+opencv-contrib-python
+Pillow
+

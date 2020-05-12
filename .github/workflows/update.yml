@@ -1,12 +1,12 @@
 name: Update Daily Time-series 
 
 on:
-  push:
-    branches: 
-      - master
-  pull_request:
+  #push:
+  #  branches: 
+  #    - master
+  #pull_request:
   schedule: 
-    - cron:  '0 3 * * *'
+    - cron:  '25 6 * * *'
 
 jobs: 
   run:

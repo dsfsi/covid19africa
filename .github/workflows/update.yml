@@ -2,7 +2,7 @@ name: Unpivot
 
 on: 
   schedule: 
-    - cron:  '* * * * *'
+    - cron:  '0 3 * * *'
 
 jobs: 
   run:
@@ -29,7 +29,7 @@ jobs:
         if [ -z "$(git status --porcelain)" ]; then
            echo "::set-output name=push::false"
         else
-           git commit -m "Add changes" -a
+           git commit -m "Updating the daily time-series automatically at 3 am UTC" -a
            echo "::set-output name=push::true"
         fi
       shell: bash

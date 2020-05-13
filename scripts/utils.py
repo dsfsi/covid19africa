@@ -64,19 +64,10 @@ def get_filenames(files_path="", files_base=""):
     return files
 
 def get_africa_cdc_filenames(files_path=africa_cdc_path, files_base="africa_cdc_daily_time_series"):
-    return get_filenames(files_path, files_base)[:3]
+    return get_filenames(files_path, files_base)
 
 def get_timeseries_filenames(files_path=timeseries_path, files_base="africa_daily_time_series"):
     return get_filenames(files_path, files_base)
-
-def get_mixed_timeseries_filenames(files_path=timeseries_path, files_base="africa_daily_time_series"):
-    # Get the African CDC time-series file names for cases, recovered, and deaths
-    files = get_africa_cdc_filenames()
-    # Get the manually collected time-series for testing
-    files_m = get_timeseries_filenames()
-    # append the testing from the manual to the African CDC files
-    files.append(files_m[3])
-    return files
 
 def read_time_series():
     files = get_africa_cdc_filenames()
@@ -117,12 +108,12 @@ def unpivot_timeseries():
     df_unp = "unpivoted_dataframe"
     # First, get all the 4 files, unpivoted and sorted
     #filenames = get_mixed_timeseries_filenames()
-    filenames = get_timeseries_filenames()
+    filenames = get_africa_cdc_filenames()
     print(filenames)
 
     data = {keys[i]:{"filename":filenames[i], \
                      "df": pd.read_csv(filenames[i]), \
-                      df_unp: pd.read_csv(filenames[i]).melt(id_vars=["Country/Region", "Lat", "Long"], var_name="Date", value_name="Values"), \
+                      df_unp: pd.read_csv(filenames[i]).melt(id_vars=["Country/Region", "Subregion", "Population-2020", "Lat", "Long"], var_name="Date", value_name="Values"), \
                     } for i in range(len(keys))
             }
     # print(data)
@@ -137,14 +128,14 @@ def unpivot_timeseries():
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Long")+1, column="Location Geom", value=["POINT({} {})".format(data[key][df_unp].at[i, "Long"],data[key][df_unp].at[i, "Lat"]) for i in range(rows)])
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Location Geom")+1, column="Continent", value=["Africa" for i in range(rows)])
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent")+1, column="Continent Code", value=["AF" for i in range(rows)])
-        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent Code")+1, column="Region", value=["" for i in range(rows)])
+        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent Code")+1, column="Region", value=[data[key][df_unp].at[i, "Subregion"] + " Africa" for i in range(rows)])
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Region")+1, column="Country", value=[data[key][df_unp].at[i, "Country/Region"] for i in range(rows)])
         data[key][df_unp].rename({"Country/Region":"Country Region", "Lat":"Latitude", "Long":"Longitude"}, axis="columns", inplace=True)
-        # data[key][df_unp].sort_values(by=["Country Region"], inplace=True)
+        # data[key][df_unp].sort_values(by=["Date", "Country Region"], ascending=[False, True], inplace=True)
     # Merge the data frames into single "Africa data Format from Mahlet for Tableau Dashboard"
     df_out = pd.concat([data[key][df_unp] for key in keys])
     # Finally sort them
-    df_out.sort_values(by=["Country Region", "Date"], ascending=[True, False], inplace=True)
+    df_out.sort_values(by=["Country Region", "Date", "Group"], ascending=[True, False, True], inplace=True)
     print(df_out.head())
     print(df_out.shape)
     # write to file without index

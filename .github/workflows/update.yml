@@ -1,7 +1,7 @@
 name: Update Daily Time-series 
 
 on:
-  #push:
+  push:
     branches: 
       - master
   #pull_request:

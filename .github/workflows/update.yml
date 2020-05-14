@@ -18,20 +18,13 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: '3.x'
+    
     - name: Install dependencies and autogenerate unpivoted time-series
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "github-actions"
-        git add --all
-        
-        if [ -z "$(git status --porcelain)" ]; then
-          echo "Nothing Changed! Skipping Auto Generation!"
-        else
-          python -m pip install --upgrade pip setuptools wheel
-          pip install -r requirements.txt
-          python scripts/unpivot.py
-        fi
-        
+        python -m pip install --upgrade pip setuptools wheel
+        pip install -r requirements.txt
+        python scripts/unpivot.py        
+    
     - name: Commit files
       id: commit
       run: |
@@ -45,6 +38,7 @@ jobs:
            echo "::set-output name=push::true"
         fi
       shell: bash
+    
     - name: Push changes
       if: steps.commit.outputs.push == 'true'
       uses: ad-m/github-push-action@master

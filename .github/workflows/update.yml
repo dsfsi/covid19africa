@@ -20,6 +20,10 @@ jobs:
         python-version: '3.x'
     - name: Install dependencies and autogenerate unpivoted time-series
       run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "github-actions"
+        git add --all
+        
         if [ -z "$(git status --porcelain)" ]; then
           echo "Nothing Changed! Skipping Auto Generation!"
         else
@@ -37,7 +41,7 @@ jobs:
         if [ -z "$(git status --porcelain)" ]; then
            echo "::set-output name=push::false"
         else
-           git commit -m "Updating the daily time-series automatically at 3 am UTC" -a
+           git commit -m "Updating the daily time-series automatically at 6:25 am UTC" -a
            echo "::set-output name=push::true"
         fi
       shell: bash

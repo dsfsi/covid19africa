@@ -70,9 +70,9 @@ def get_timeseries_filenames(files_path=timeseries_path, files_base="africa_dail
     return get_filenames(files_path, files_base)
 
 def read_time_series():
-    files = get_africa_cdc_filenames()
+    files = get_africa_cdc_filenames()[:3]
     # read the files
-    data_f = [pd.read_csv(f, index_col='Country', encoding = "ISO-8859-1") for f in files]
+    data_f = [pd.read_csv(f, index_col='Country/Region', encoding = "ISO-8859-1") for f in files]
     # print(data_f)
     return data_f, files
 
@@ -197,7 +197,8 @@ def extract_africa_cdc_text(file_name=""):
     # cdr_exp = r"([*&\-'\w]+\s*[*&\-'\w]+\s*[*&\-'\w]+\s*[*&\-'\w]+)\s?(\([^)]+\))" # exp
     # cdr_exp = r"(([*&\-'\w]+\s?){1,4})\s?(\([^)]+\))" # exp
     # cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*(\(?[\d\*\;\s\,\.]+\))" # exp
-    cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*(\(?[\d\*\;\s\,\.\%\$]+\))" # exp
+    # cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*(\(?[\d\*\;\s\,\.\%\$]+\))" # exp
+    cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*([\(\{]?[\d\*\;\s\,\.\%\$]+[\)\}])" # exp
     
     re_ = re.compile(cdr_exp)
 

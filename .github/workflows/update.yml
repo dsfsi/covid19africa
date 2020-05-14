@@ -18,11 +18,15 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: '3.x'
-    - name: Install dependencies
+    - name: Install dependencies and autogenerate unpivoted time-series
       run: |
-        python -m pip install --upgrade pip setuptools wheel
-        pip install -r requirements.txt
-        python scripts/unpivot.py
+        if [ -z "$(git status --porcelain)" ]; then
+          echo "Nothing Changed! Skipping Auto Generation!"
+        else
+          python -m pip install --upgrade pip setuptools wheel
+          pip install -r requirements.txt
+          python scripts/unpivot.py
+        fi
         
     - name: Commit files
       id: commit

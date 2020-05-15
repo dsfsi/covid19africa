@@ -25,6 +25,8 @@ freq_missed = {"ORC" : "DRC", "Cdte d'ivoire": "Cote d'ivoire", "Cdte d'Ivoire":
                                 "Céte d'ivoire" : "Cote d'ivoire", "Céte d'Ivoire" : "Cote d'ivoire", "Cte d'Ivoire" : "Cote d'ivoire",
                                 "S20 Tome & Principe" : "Sao Tome & Principe", "Sa0 Tome & Principe" : "Sao Tome & Principe"}
 
+case_type = ["cases", "deaths", "recovered", "tests"]
+
 def print_inter_diff(data_f, data):
     # matched text from images
     txt = list(data.keys())
@@ -59,7 +61,7 @@ def parse_args():
 def get_filenames(files_path="", files_base=""):
     str_ = files_path + files_base + "_"
     str_ += '{0}.csv'
-    files = list(map(str_.format, ["cases", "deaths", "recovered", "tests"]))
+    files = list(map(str_.format, case_type))
     print(files)
     return files
 
@@ -131,15 +133,19 @@ def unpivot_timeseries():
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent Code")+1, column="Region", value=[data[key][df_unp].at[i, "Subregion"] + " Africa" for i in range(rows)])
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Region")+1, column="Country", value=[data[key][df_unp].at[i, "Country/Region"] for i in range(rows)])
         data[key][df_unp].rename({"Country/Region":"Country Region", "Lat":"Latitude", "Long":"Longitude"}, axis="columns", inplace=True)
-        # data[key][df_unp].sort_values(by=["Date", "Country Region"], ascending=[False, True], inplace=True)
+
     # Merge the data frames into single "Africa data Format from Mahlet for Tableau Dashboard"
     df_out = pd.concat([data[key][df_unp] for key in keys])
     # Finally sort them
     df_out.sort_values(by=["Country Region", "Date", "Group"], ascending=[True, False, True], inplace=True)
     print(df_out.head())
     print(df_out.shape)
-    # write to file without index
+    # write the combined data to file without index
     df_out.to_csv("data/time_series/africa_daily_time_series_unpivoted.csv", index=False)
+    # write the individual unpivoted data to respective files
+    for _key, _type in zip(keys, case_type):
+        data[_key][df_unp].sort_values(by=["Country Region", "Date"], ascending=[True, False], inplace=True)
+        data[_key][df_unp].to_csv("data/time_series/africa_daily_time_series_unpivoted_{}.csv".format(_type), index=False)
 
 def preprocess(img_filename="", args=""):
     # load the example image and convert it to grayscale

@@ -7,6 +7,7 @@ Tests,,Algeria,Northern,"43,851,044",28.0339,1.6596,POINT(1.6596 28.0339),Africa
 Tests,,Algeria,Northern,"43,851,044",28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,Northern Africa,Algeria,5/4/2020,6500
 Tests,,Algeria,Northern,"43,851,044",28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,Northern Africa,Algeria,5/3/2020,6500
 Tests,,Algeria,Northern,"43,851,044",28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,Northern Africa,Algeria,5/2/2020,6500
+Tests,,Algeria,Northern,"43,851,044",28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,Northern Africa,Algeria,5/16/2020,6500
 Tests,,Algeria,Northern,"43,851,044",28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,Northern Africa,Algeria,5/15/2020,6500
 Tests,,Algeria,Northern,"43,851,044",28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,Northern Africa,Algeria,5/14/2020,6500
 Tests,,Algeria,Northern,"43,851,044",28.0339,1.6596,POINT(1.6596 28.0339),Africa,AF,Northern Africa,Algeria,5/13/2020,6500
@@ -122,6 +123,7 @@ Tests,,Angola,Central,"32,866,272",-11.2027,17.8739,POINT(17.8739 -11.2027),Afri
 Tests,,Angola,Central,"32,866,272",-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,Central Africa,Angola,5/4/2020,3000
 Tests,,Angola,Central,"32,866,272",-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,Central Africa,Angola,5/3/2020,3000
 Tests,,Angola,Central,"32,866,272",-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,Central Africa,Angola,5/2/2020,481
+Tests,,Angola,Central,"32,866,272",-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,Central Africa,Angola,5/16/2020,6136
 Tests,,Angola,Central,"32,866,272",-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,Central Africa,Angola,5/15/2020,6136
 Tests,,Angola,Central,"32,866,272",-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,Central Africa,Angola,5/14/2020,3000
 Tests,,Angola,Central,"32,866,272",-11.2027,17.8739,POINT(17.8739 -11.2027),Africa,AF,Central Africa,Angola,5/13/2020,3000
@@ -237,6 +239,7 @@ Tests,,Benin,Western,"12,123,200",9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,W
 Tests,,Benin,Western,"12,123,200",9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,Western Africa,Benin,5/4/2020,0
 Tests,,Benin,Western,"12,123,200",9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,Western Africa,Benin,5/3/2020,0
 Tests,,Benin,Western,"12,123,200",9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,Western Africa,Benin,5/2/2020,0
+Tests,,Benin,Western,"12,123,200",9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,Western Africa,Benin,5/16/2020,25471
 Tests,,Benin,Western,"12,123,200",9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,Western Africa,Benin,5/15/2020,25471
 Tests,,Benin,Western,"12,123,200",9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,Western Africa,Benin,5/14/2020,25471
 Tests,,Benin,Western,"12,123,200",9.3077,2.3158,POINT(2.3158 9.3077),Africa,AF,Western Africa,Benin,5/13/2020,25471
@@ -352,6 +355,7 @@ Tests,,Botswana,Southern,"2,351,627",-22.3285,24.6849,POINT(24.6849 -22.3285),Af
 Tests,,Botswana,Southern,"2,351,627",-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,Southern Africa,Botswana,5/4/2020,8636
 Tests,,Botswana,Southern,"2,351,627",-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,Southern Africa,Botswana,5/3/2020,8636
 Tests,,Botswana,Southern,"2,351,627",-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,Southern Africa,Botswana,5/2/2020,7675
+Tests,,Botswana,Southern,"2,351,627",-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,Southern Africa,Botswana,5/16/2020,11495
 Tests,,Botswana,Southern,"2,351,627",-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,Southern Africa,Botswana,5/15/2020,11495
 Tests,,Botswana,Southern,"2,351,627",-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,Southern Africa,Botswana,5/14/2020,11495
 Tests,,Botswana,Southern,"2,351,627",-22.3285,24.6849,POINT(24.6849 -22.3285),Africa,AF,Southern Africa,Botswana,5/13/2020,11495
@@ -467,6 +471,7 @@ Tests,,Burkina Faso,Western,"20,903,273",12.2383,-1.5616,POINT(-1.5616 12.2383),
 Tests,,Burkina Faso,Western,"20,903,273",12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,Western Africa,Burkina Faso,5/4/2020,0
 Tests,,Burkina Faso,Western,"20,903,273",12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,Western Africa,Burkina Faso,5/3/2020,0
 Tests,,Burkina Faso,Western,"20,903,273",12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,Western Africa,Burkina Faso,5/2/2020,0
+Tests,,Burkina Faso,Western,"20,903,273",12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,Western Africa,Burkina Faso,5/16/2020,0
 Tests,,Burkina Faso,Western,"20,903,273",12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,Western Africa,Burkina Faso,5/15/2020,0
 Tests,,Burkina Faso,Western,"20,903,273",12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,Western Africa,Burkina Faso,5/14/2020,0
 Tests,,Burkina Faso,Western,"20,903,273",12.2383,-1.5616,POINT(-1.5616 12.2383),Africa,AF,Western Africa,Burkina Faso,5/13/2020,0
@@ -582,6 +587,7 @@ Tests,,Burundi,Eastern,"11,890,784",-3.3731,29.9189,POINT(29.9189 -3.3731),Afric
 Tests,,Burundi,Eastern,"11,890,784",-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,Eastern Africa,Burundi,5/4/2020,284
 Tests,,Burundi,Eastern,"11,890,784",-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,Eastern Africa,Burundi,5/3/2020,284
 Tests,,Burundi,Eastern,"11,890,784",-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,Eastern Africa,Burundi,5/2/2020,284
+Tests,,Burundi,Eastern,"11,890,784",-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,Eastern Africa,Burundi,5/16/2020,284
 Tests,,Burundi,Eastern,"11,890,784",-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,Eastern Africa,Burundi,5/15/2020,284
 Tests,,Burundi,Eastern,"11,890,784",-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,Eastern Africa,Burundi,5/14/2020,284
 Tests,,Burundi,Eastern,"11,890,784",-3.3731,29.9189,POINT(29.9189 -3.3731),Africa,AF,Eastern Africa,Burundi,5/13/2020,284
@@ -697,6 +703,7 @@ Tests,,Cameroon,Central,"26,545,863",3.8480000000000003,11.5021,POINT(11.5021 3.
 Tests,,Cameroon,Central,"26,545,863",3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,Central Africa,Cameroon,5/4/2020,0
 Tests,,Cameroon,Central,"26,545,863",3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,Central Africa,Cameroon,5/3/2020,0
 Tests,,Cameroon,Central,"26,545,863",3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,Central Africa,Cameroon,5/2/2020,0
+Tests,,Cameroon,Central,"26,545,863",3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,Central Africa,Cameroon,5/16/2020,0
 Tests,,Cameroon,Central,"26,545,863",3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,Central Africa,Cameroon,5/15/2020,0
 Tests,,Cameroon,Central,"26,545,863",3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,Central Africa,Cameroon,5/14/2020,0
 Tests,,Cameroon,Central,"26,545,863",3.8480000000000003,11.5021,POINT(11.5021 3.8480000000000003),Africa,AF,Central Africa,Cameroon,5/13/2020,0
@@ -812,6 +819,7 @@ Tests,,Cape Verde,Western,"555,987",16.5388,-23.0418,POINT(-23.0418 16.5388),Afr
 Tests,,Cape Verde,Western,"555,987",16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,Western Africa,Cape Verde,5/4/2020,791
 Tests,,Cape Verde,Western,"555,987",16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,Western Africa,Cape Verde,5/3/2020,791
 Tests,,Cape Verde,Western,"555,987",16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,Western Africa,Cape Verde,5/2/2020,791
+Tests,,Cape Verde,Western,"555,987",16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,Western Africa,Cape Verde,5/16/2020,791
 Tests,,Cape Verde,Western,"555,987",16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,Western Africa,Cape Verde,5/15/2020,791
 Tests,,Cape Verde,Western,"555,987",16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,Western Africa,Cape Verde,5/14/2020,791
 Tests,,Cape Verde,Western,"555,987",16.5388,-23.0418,POINT(-23.0418 16.5388),Africa,AF,Western Africa,Cape Verde,5/13/2020,791
@@ -927,6 +935,7 @@ Tests,,Central African Republic,Central,"4,829,767",6.6111,20.9394,POINT(20.9394
 Tests,,Central African Republic,Central,"4,829,767",6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,Central Africa,Central African Republic,5/4/2020,3498
 Tests,,Central African Republic,Central,"4,829,767",6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,Central Africa,Central African Republic,5/3/2020,3498
 Tests,,Central African Republic,Central,"4,829,767",6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,Central Africa,Central African Republic,5/2/2020,0
+Tests,,Central African Republic,Central,"4,829,767",6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,Central Africa,Central African Republic,5/16/2020,3498
 Tests,,Central African Republic,Central,"4,829,767",6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,Central Africa,Central African Republic,5/15/2020,3498
 Tests,,Central African Republic,Central,"4,829,767",6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,Central Africa,Central African Republic,5/14/2020,3498
 Tests,,Central African Republic,Central,"4,829,767",6.6111,20.9394,POINT(20.9394 6.6111),Africa,AF,Central Africa,Central African Republic,5/13/2020,3498
@@ -1042,6 +1051,7 @@ Tests,,Chad,Central,"16,425,864",15.4542,18.7322,POINT(18.7322 15.4542),Africa,A
 Tests,,Chad,Central,"16,425,864",15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,Central Africa,Chad,5/4/2020,0
 Tests,,Chad,Central,"16,425,864",15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,Central Africa,Chad,5/3/2020,0
 Tests,,Chad,Central,"16,425,864",15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,Central Africa,Chad,5/2/2020,0
+Tests,,Chad,Central,"16,425,864",15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,Central Africa,Chad,5/16/2020,0
 Tests,,Chad,Central,"16,425,864",15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,Central Africa,Chad,5/15/2020,0
 Tests,,Chad,Central,"16,425,864",15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,Central Africa,Chad,5/14/2020,0
 Tests,,Chad,Central,"16,425,864",15.4542,18.7322,POINT(18.7322 15.4542),Africa,AF,Central Africa,Chad,5/13/2020,0
@@ -1157,6 +1167,7 @@ Tests,,Comoros,Eastern,"869,601",-11.652000000000001,43.3726,POINT(43.3726 -11.6
 Tests,,Comoros,Eastern,"869,601",-11.652000000000001,43.3726,POINT(43.3726 -11.652000000000001),Africa,AF,Eastern Africa,Comoros,5/4/2020,0
 Tests,,Comoros,Eastern,"869,601",-11.652000000000001,43.3726,POINT(43.3726 -11.652000000000001),Africa,AF,Eastern Africa,Comoros,5/3/2020,0
 Tests,,Comoros,Eastern,"869,601",-11.652000000000001,43.3726,POINT(43.3726 -11.652000000000001),Africa,AF,Eastern Africa,Comoros,5/2/2020,0
+Tests,,Comoros,Eastern,"869,601",-11.652000000000001,43.3726,POINT(43.3726 -11.652000000000001),Africa,AF,Eastern Africa,Comoros,5/16/2020,0
 Tests,,Comoros,Eastern,"869,601",-11.652000000000001,43.3726,POINT(43.3726 -11.652000000000001),Africa,AF,Eastern Africa,Comoros,5/15/2020,0
 Tests,,Comoros,Eastern,"869,601",-11.652000000000001,43.3726,POINT(43.3726 -11.652000000000001),Africa,AF,Eastern Africa,Comoros,5/14/2020,0
 Tests,,Comoros,Eastern,"869,601",-11.652000000000001,43.3726,POINT(43.3726 -11.652000000000001),Africa,AF,Eastern Africa,Comoros,5/13/2020,0
@@ -1272,6 +1283,7 @@ Tests,,Congo,Central,"5,518,087",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,A
 Tests,,Congo,Central,"5,518,087",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,Congo,5/4/2020,0
 Tests,,Congo,Central,"5,518,087",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,Congo,5/3/2020,0
 Tests,,Congo,Central,"5,518,087",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,Congo,5/2/2020,0
+Tests,,Congo,Central,"5,518,087",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,Congo,5/16/2020,0
 Tests,,Congo,Central,"5,518,087",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,Congo,5/15/2020,0
 Tests,,Congo,Central,"5,518,087",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,Congo,5/14/2020,0
 Tests,,Congo,Central,"5,518,087",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,Congo,5/13/2020,0
@@ -1387,6 +1399,7 @@ Tests,,Cote d'ivoire,Western,"26,378,274",7.54,-5.5471,POINT(-5.5471 7.54),Afric
 Tests,,Cote d'ivoire,Western,"26,378,274",7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,Western Africa,Cote d'ivoire,5/4/2020,10778
 Tests,,Cote d'ivoire,Western,"26,378,274",7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,Western Africa,Cote d'ivoire,5/3/2020,10778
 Tests,,Cote d'ivoire,Western,"26,378,274",7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,Western Africa,Cote d'ivoire,5/2/2020,10508
+Tests,,Cote d'ivoire,Western,"26,378,274",7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,Western Africa,Cote d'ivoire,5/16/2020,15260
 Tests,,Cote d'ivoire,Western,"26,378,274",7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,Western Africa,Cote d'ivoire,5/15/2020,15260
 Tests,,Cote d'ivoire,Western,"26,378,274",7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,Western Africa,Cote d'ivoire,5/14/2020,15260
 Tests,,Cote d'ivoire,Western,"26,378,274",7.54,-5.5471,POINT(-5.5471 7.54),Africa,AF,Western Africa,Cote d'ivoire,5/13/2020,15260
@@ -1502,6 +1515,7 @@ Tests,,DRC,Central,"89,561,403",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF
 Tests,,DRC,Central,"89,561,403",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,DRC,5/4/2020,0
 Tests,,DRC,Central,"89,561,403",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,DRC,5/3/2020,0
 Tests,,DRC,Central,"89,561,403",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,DRC,5/2/2020,0
+Tests,,DRC,Central,"89,561,403",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,DRC,5/16/2020,0
 Tests,,DRC,Central,"89,561,403",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,DRC,5/15/2020,0
 Tests,,DRC,Central,"89,561,403",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,DRC,5/14/2020,0
 Tests,,DRC,Central,"89,561,403",-4.0383,21.7587,POINT(21.7587 -4.0383),Africa,AF,Central Africa,DRC,5/13/2020,0
@@ -1617,6 +1631,7 @@ Tests,,Djibouti,Eastern,"988,000",11.8251,42.5903,POINT(42.5903 11.8251),Africa,
 Tests,,Djibouti,Eastern,"988,000",11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,Eastern Africa,Djibouti,5/4/2020,14222
 Tests,,Djibouti,Eastern,"988,000",11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,Eastern Africa,Djibouti,5/3/2020,14222
 Tests,,Djibouti,Eastern,"988,000",11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,Eastern Africa,Djibouti,5/2/2020,13856
+Tests,,Djibouti,Eastern,"988,000",11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,Eastern Africa,Djibouti,5/16/2020,16878
 Tests,,Djibouti,Eastern,"988,000",11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,Eastern Africa,Djibouti,5/15/2020,16647
 Tests,,Djibouti,Eastern,"988,000",11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,Eastern Africa,Djibouti,5/14/2020,16424
 Tests,,Djibouti,Eastern,"988,000",11.8251,42.5903,POINT(42.5903 11.8251),Africa,AF,Eastern Africa,Djibouti,5/13/2020,16424
@@ -1732,6 +1747,7 @@ Tests,,Egypt,Northern,"102,334,404",26.0,30.0,POINT(30.0 26.0),Africa,AF,Norther
 Tests,,Egypt,Northern,"102,334,404",26.0,30.0,POINT(30.0 26.0),Africa,AF,Northern Africa,Egypt,5/4/2020,90000
 Tests,,Egypt,Northern,"102,334,404",26.0,30.0,POINT(30.0 26.0),Africa,AF,Northern Africa,Egypt,5/3/2020,90000
 Tests,,Egypt,Northern,"102,334,404",26.0,30.0,POINT(30.0 26.0),Africa,AF,Northern Africa,Egypt,5/2/2020,90000
+Tests,,Egypt,Northern,"102,334,404",26.0,30.0,POINT(30.0 26.0),Africa,AF,Northern Africa,Egypt,5/16/2020,135000
 Tests,,Egypt,Northern,"102,334,404",26.0,30.0,POINT(30.0 26.0),Africa,AF,Northern Africa,Egypt,5/15/2020,105000
 Tests,,Egypt,Northern,"102,334,404",26.0,30.0,POINT(30.0 26.0),Africa,AF,Northern Africa,Egypt,5/14/2020,105000
 Tests,,Egypt,Northern,"102,334,404",26.0,30.0,POINT(30.0 26.0),Africa,AF,Northern Africa,Egypt,5/13/2020,105000
@@ -1847,6 +1863,7 @@ Tests,,Equatorial Guinea,Central,"1,402,985",1.5,10.0,POINT(10.0 1.5),Africa,AF,
 Tests,,Equatorial Guinea,Central,"1,402,985",1.5,10.0,POINT(10.0 1.5),Africa,AF,Central Africa,Equatorial Guinea,5/4/2020,854
 Tests,,Equatorial Guinea,Central,"1,402,985",1.5,10.0,POINT(10.0 1.5),Africa,AF,Central Africa,Equatorial Guinea,5/3/2020,854
 Tests,,Equatorial Guinea,Central,"1,402,985",1.5,10.0,POINT(10.0 1.5),Africa,AF,Central Africa,Equatorial Guinea,5/2/2020,854
+Tests,,Equatorial Guinea,Central,"1,402,985",1.5,10.0,POINT(10.0 1.5),Africa,AF,Central Africa,Equatorial Guinea,5/16/2020,854
 Tests,,Equatorial Guinea,Central,"1,402,985",1.5,10.0,POINT(10.0 1.5),Africa,AF,Central Africa,Equatorial Guinea,5/15/2020,854
 Tests,,Equatorial Guinea,Central,"1,402,985",1.5,10.0,POINT(10.0 1.5),Africa,AF,Central Africa,Equatorial Guinea,5/14/2020,854
 Tests,,Equatorial Guinea,Central,"1,402,985",1.5,10.0,POINT(10.0 1.5),Africa,AF,Central Africa,Equatorial Guinea,5/13/2020,854
@@ -1962,6 +1979,7 @@ Tests,,Eritrea,Eastern,"3,546,421",15.1794,39.7823,POINT(39.7823 15.1794),Africa
 Tests,,Eritrea,Eastern,"3,546,421",15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,Eastern Africa,Eritrea,5/4/2020,0
 Tests,,Eritrea,Eastern,"3,546,421",15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,Eastern Africa,Eritrea,5/3/2020,0
 Tests,,Eritrea,Eastern,"3,546,421",15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,Eastern Africa,Eritrea,5/2/2020,0
+Tests,,Eritrea,Eastern,"3,546,421",15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,Eastern Africa,Eritrea,5/16/2020,0
 Tests,,Eritrea,Eastern,"3,546,421",15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,Eastern Africa,Eritrea,5/15/2020,0
 Tests,,Eritrea,Eastern,"3,546,421",15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,Eastern Africa,Eritrea,5/14/2020,0
 Tests,,Eritrea,Eastern,"3,546,421",15.1794,39.7823,POINT(39.7823 15.1794),Africa,AF,Eastern Africa,Eritrea,5/13/2020,0
@@ -2077,6 +2095,7 @@ Tests,,Eswatini,Southern,"1,160,164",-26.5225,31.4659,POINT(31.4659 -26.5225),Af
 Tests,,Eswatini,Southern,"1,160,164",-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,Southern Africa,Eswatini,5/4/2020,714
 Tests,,Eswatini,Southern,"1,160,164",-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,Southern Africa,Eswatini,5/3/2020,714
 Tests,,Eswatini,Southern,"1,160,164",-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,Southern Africa,Eswatini,5/2/2020,714
+Tests,,Eswatini,Southern,"1,160,164",-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,Southern Africa,Eswatini,5/16/2020,4160
 Tests,,Eswatini,Southern,"1,160,164",-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,Southern Africa,Eswatini,5/15/2020,2262
 Tests,,Eswatini,Southern,"1,160,164",-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,Southern Africa,Eswatini,5/14/2020,2262
 Tests,,Eswatini,Southern,"1,160,164",-26.5225,31.4659,POINT(31.4659 -26.5225),Africa,AF,Southern Africa,Eswatini,5/13/2020,2262
@@ -2192,6 +2211,7 @@ Tests,,Ethiopia,Eastern,"114,963,588",9.145,40.4897,POINT(40.4897 9.145),Africa,
 Tests,,Ethiopia,Eastern,"114,963,588",9.145,40.4897,POINT(40.4897 9.145),Africa,AF,Eastern Africa,Ethiopia,5/4/2020,25135
 Tests,,Ethiopia,Eastern,"114,963,588",9.145,40.4897,POINT(40.4897 9.145),Africa,AF,Eastern Africa,Ethiopia,5/3/2020,24088
 Tests,,Ethiopia,Eastern,"114,963,588",9.145,40.4897,POINT(40.4897 9.145),Africa,AF,Eastern Africa,Ethiopia,5/2/2020,22330
+Tests,,Ethiopia,Eastern,"114,963,588",9.145,40.4897,POINT(40.4897 9.145),Africa,AF,Eastern Africa,Ethiopia,5/16/2020,53029
 Tests,,Ethiopia,Eastern,"114,963,588",9.145,40.4897,POINT(40.4897 9.145),Africa,AF,Eastern Africa,Ethiopia,5/15/2020,48985
 Tests,,Ethiopia,Eastern,"114,963,588",9.145,40.4897,POINT(40.4897 9.145),Africa,AF,Eastern Africa,Ethiopia,5/14/2020,45278
 Tests,,Ethiopia,Eastern,"114,963,588",9.145,40.4897,POINT(40.4897 9.145),Africa,AF,Eastern Africa,Ethiopia,5/13/2020,45278
@@ -2307,6 +2327,7 @@ Tests,,Gabon,Central,"2,225,734",-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,A
 Tests,,Gabon,Central,"2,225,734",-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,Central Africa,Gabon,5/4/2020,724
 Tests,,Gabon,Central,"2,225,734",-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,Central Africa,Gabon,5/3/2020,724
 Tests,,Gabon,Central,"2,225,734",-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,Central Africa,Gabon,5/2/2020,724
+Tests,,Gabon,Central,"2,225,734",-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,Central Africa,Gabon,5/16/2020,7050
 Tests,,Gabon,Central,"2,225,734",-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,Central Africa,Gabon,5/15/2020,6617
 Tests,,Gabon,Central,"2,225,734",-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,Central Africa,Gabon,5/14/2020,5530
 Tests,,Gabon,Central,"2,225,734",-0.8037,11.6094,POINT(11.6094 -0.8037),Africa,AF,Central Africa,Gabon,5/13/2020,5530
@@ -2422,6 +2443,7 @@ Tests,,Gambia,Western,"2,416,668",13.4432,-15.3101,POINT(-15.3101 13.4432),Afric
 Tests,,Gambia,Western,"2,416,668",13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,Western Africa,Gambia,5/4/2020,401
 Tests,,Gambia,Western,"2,416,668",13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,Western Africa,Gambia,5/3/2020,401
 Tests,,Gambia,Western,"2,416,668",13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,Western Africa,Gambia,5/2/2020,401
+Tests,,Gambia,Western,"2,416,668",13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,Western Africa,Gambia,5/16/2020,1341
 Tests,,Gambia,Western,"2,416,668",13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,Western Africa,Gambia,5/15/2020,1341
 Tests,,Gambia,Western,"2,416,668",13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,Western Africa,Gambia,5/14/2020,1341
 Tests,,Gambia,Western,"2,416,668",13.4432,-15.3101,POINT(-15.3101 13.4432),Africa,AF,Western Africa,Gambia,5/13/2020,1341
@@ -2537,6 +2559,7 @@ Tests,,Ghana,Western,"31,072,940",7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF
 Tests,,Ghana,Western,"31,072,940",7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,Western Africa,Ghana,5/4/2020,129461
 Tests,,Ghana,Western,"31,072,940",7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,Western Africa,Ghana,5/3/2020,129461
 Tests,,Ghana,Western,"31,072,940",7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,Western Africa,Ghana,5/2/2020,117049
+Tests,,Ghana,Western,"31,072,940",7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,Western Africa,Ghana,5/16/2020,171642
 Tests,,Ghana,Western,"31,072,940",7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,Western Africa,Ghana,5/15/2020,167704
 Tests,,Ghana,Western,"31,072,940",7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,Western Africa,Ghana,5/14/2020,164452
 Tests,,Ghana,Western,"31,072,940",7.9465,-1.0232,POINT(-1.0232 7.9465),Africa,AF,Western Africa,Ghana,5/13/2020,164452
@@ -2652,6 +2675,7 @@ Tests,,Guinea,Western,"13,132,795",9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,A
 Tests,,Guinea,Western,"13,132,795",9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,Western Africa,Guinea,5/4/2020,0
 Tests,,Guinea,Western,"13,132,795",9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,Western Africa,Guinea,5/3/2020,0
 Tests,,Guinea,Western,"13,132,795",9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,Western Africa,Guinea,5/2/2020,0
+Tests,,Guinea,Western,"13,132,795",9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,Western Africa,Guinea,5/16/2020,10304
 Tests,,Guinea,Western,"13,132,795",9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,Western Africa,Guinea,5/15/2020,10304
 Tests,,Guinea,Western,"13,132,795",9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,Western Africa,Guinea,5/14/2020,0
 Tests,,Guinea,Western,"13,132,795",9.9456,-9.6966,POINT(-9.6966 9.9456),Africa,AF,Western Africa,Guinea,5/13/2020,0
@@ -2767,6 +2791,7 @@ Tests,,Guinea-Bissau,Western,"1,968,001",11.8037,-15.1804,POINT(-15.1804 11.8037
 Tests,,Guinea-Bissau,Western,"1,968,001",11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,Western Africa,Guinea-Bissau,5/4/2020,1500
 Tests,,Guinea-Bissau,Western,"1,968,001",11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,Western Africa,Guinea-Bissau,5/3/2020,1500
 Tests,,Guinea-Bissau,Western,"1,968,001",11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,Western Africa,Guinea-Bissau,5/2/2020,1500
+Tests,,Guinea-Bissau,Western,"1,968,001",11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,Western Africa,Guinea-Bissau,5/16/2020,1500
 Tests,,Guinea-Bissau,Western,"1,968,001",11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,Western Africa,Guinea-Bissau,5/15/2020,1500
 Tests,,Guinea-Bissau,Western,"1,968,001",11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,Western Africa,Guinea-Bissau,5/14/2020,1500
 Tests,,Guinea-Bissau,Western,"1,968,001",11.8037,-15.1804,POINT(-15.1804 11.8037),Africa,AF,Western Africa,Guinea-Bissau,5/13/2020,1500
@@ -2882,6 +2907,7 @@ Tests,,Kenya,Eastern,"53,771,296",-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,
 Tests,,Kenya,Eastern,"53,771,296",-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,Eastern Africa,Kenya,5/4/2020,24784
 Tests,,Kenya,Eastern,"53,771,296",-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,Eastern Africa,Kenya,5/3/2020,24784
 Tests,,Kenya,Eastern,"53,771,296",-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,Eastern Africa,Kenya,5/2/2020,23780
+Tests,,Kenya,Eastern,"53,771,296",-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,Eastern Africa,Kenya,5/16/2020,36918
 Tests,,Kenya,Eastern,"53,771,296",-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,Eastern Africa,Kenya,5/15/2020,36918
 Tests,,Kenya,Eastern,"53,771,296",-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,Eastern Africa,Kenya,5/14/2020,36918
 Tests,,Kenya,Eastern,"53,771,296",-0.0236,37.9062,POINT(37.9062 -0.0236),Africa,AF,Eastern Africa,Kenya,5/13/2020,36918
@@ -2997,6 +3023,7 @@ Tests,,Lesotho,Southern,"2,142,249",-29.6232,28.2335,POINT(28.2335 -29.6232),Afr
 Tests,,Lesotho,Southern,"2,142,249",-29.6232,28.2335,POINT(28.2335 -29.6232),Africa,AF,Southern Africa,Lesotho,5/4/2020,0
 Tests,,Lesotho,Southern,"2,142,249",-29.6232,28.2335,POINT(28.2335 -29.6232),Africa,AF,Southern Africa,Lesotho,5/3/2020,0
 Tests,,Lesotho,Southern,"2,142,249",-29.6232,28.2335,POINT(28.2335 -29.6232),Africa,AF,Southern Africa,Lesotho,5/2/2020,0
+Tests,,Lesotho,Southern,"2,142,249",-29.6232,28.2335,POINT(28.2335 -29.6232),Africa,AF,Southern Africa,Lesotho,5/16/2020,0
 Tests,,Lesotho,Southern,"2,142,249",-29.6232,28.2335,POINT(28.2335 -29.6232),Africa,AF,Southern Africa,Lesotho,5/15/2020,0
 Tests,,Lesotho,Southern,"2,142,249",-29.6232,28.2335,POINT(28.2335 -29.6232),Africa,AF,Southern Africa,Lesotho,5/14/2020,0
 Tests,,Lesotho,Southern,"2,142,249",-29.6232,28.2335,POINT(28.2335 -29.6232),Africa,AF,Southern Africa,Lesotho,5/13/2020,0
@@ -3112,6 +3139,7 @@ Tests,,Liberia,Western,"5,057,681",6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,A
 Tests,,Liberia,Western,"5,057,681",6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,Western Africa,Liberia,5/4/2020,0
 Tests,,Liberia,Western,"5,057,681",6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,Western Africa,Liberia,5/3/2020,0
 Tests,,Liberia,Western,"5,057,681",6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,Western Africa,Liberia,5/2/2020,0
+Tests,,Liberia,Western,"5,057,681",6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,Western Africa,Liberia,5/16/2020,0
 Tests,,Liberia,Western,"5,057,681",6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,Western Africa,Liberia,5/15/2020,0
 Tests,,Liberia,Western,"5,057,681",6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,Western Africa,Liberia,5/14/2020,0
 Tests,,Liberia,Western,"5,057,681",6.4281,-9.4295,POINT(-9.4295 6.4281),Africa,AF,Western Africa,Liberia,5/13/2020,0
@@ -3227,6 +3255,7 @@ Tests,,Libya,Northern,"6,871,292",26.3351,17.228331,POINT(17.228331 26.3351),Afr
 Tests,,Libya,Northern,"6,871,292",26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,Northern Africa,Libya,5/4/2020,2338
 Tests,,Libya,Northern,"6,871,292",26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,Northern Africa,Libya,5/3/2020,2338
 Tests,,Libya,Northern,"6,871,292",26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,Northern Africa,Libya,5/2/2020,2155
+Tests,,Libya,Northern,"6,871,292",26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,Northern Africa,Libya,5/16/2020,3633
 Tests,,Libya,Northern,"6,871,292",26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,Northern Africa,Libya,5/15/2020,3253
 Tests,,Libya,Northern,"6,871,292",26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,Northern Africa,Libya,5/14/2020,3253
 Tests,,Libya,Northern,"6,871,292",26.3351,17.228331,POINT(17.228331 26.3351),Africa,AF,Northern Africa,Libya,5/13/2020,3253
@@ -3342,6 +3371,7 @@ Tests,,Madagascar,Eastern,"27,691,018",-18.7669,46.8691,POINT(46.8691 -18.7669),
 Tests,,Madagascar,Eastern,"27,691,018",-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,Eastern Africa,Madagascar,5/4/2020,3861
 Tests,,Madagascar,Eastern,"27,691,018",-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,Eastern Africa,Madagascar,5/3/2020,3772
 Tests,,Madagascar,Eastern,"27,691,018",-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,Eastern Africa,Madagascar,5/2/2020,3611
+Tests,,Madagascar,Eastern,"27,691,018",-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,Eastern Africa,Madagascar,5/16/2020,5670
 Tests,,Madagascar,Eastern,"27,691,018",-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,Eastern Africa,Madagascar,5/15/2020,5670
 Tests,,Madagascar,Eastern,"27,691,018",-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,Eastern Africa,Madagascar,5/14/2020,5670
 Tests,,Madagascar,Eastern,"27,691,018",-18.7669,46.8691,POINT(46.8691 -18.7669),Africa,AF,Eastern Africa,Madagascar,5/13/2020,5670
@@ -3457,6 +3487,7 @@ Tests,,Malawi,Eastern,"19,129,952",-13.254307999999998,34.301525,POINT(34.301525
 Tests,,Malawi,Eastern,"19,129,952",-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,Eastern Africa,Malawi,5/4/2020,907
 Tests,,Malawi,Eastern,"19,129,952",-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,Eastern Africa,Malawi,5/3/2020,907
 Tests,,Malawi,Eastern,"19,129,952",-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,Eastern Africa,Malawi,5/2/2020,892
+Tests,,Malawi,Eastern,"19,129,952",-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,Eastern Africa,Malawi,5/16/2020,1363
 Tests,,Malawi,Eastern,"19,129,952",-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,Eastern Africa,Malawi,5/15/2020,1363
 Tests,,Malawi,Eastern,"19,129,952",-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,Eastern Africa,Malawi,5/14/2020,1363
 Tests,,Malawi,Eastern,"19,129,952",-13.254307999999998,34.301525,POINT(34.301525 -13.254307999999998),Africa,AF,Eastern Africa,Malawi,5/13/2020,1363
@@ -3572,6 +3603,7 @@ Tests,,Mali,Western,"20,250,833",17.570692,-3.9961660000000006,POINT(-3.99616600
 Tests,,Mali,Western,"20,250,833",17.570692,-3.9961660000000006,POINT(-3.9961660000000006 17.570692),Africa,AF,Western Africa,Mali,5/4/2020,2172
 Tests,,Mali,Western,"20,250,833",17.570692,-3.9961660000000006,POINT(-3.9961660000000006 17.570692),Africa,AF,Western Africa,Mali,5/3/2020,2172
 Tests,,Mali,Western,"20,250,833",17.570692,-3.9961660000000006,POINT(-3.9961660000000006 17.570692),Africa,AF,Western Africa,Mali,5/2/2020,2172
+Tests,,Mali,Western,"20,250,833",17.570692,-3.9961660000000006,POINT(-3.9961660000000006 17.570692),Africa,AF,Western Africa,Mali,5/16/2020,2498
 Tests,,Mali,Western,"20,250,833",17.570692,-3.9961660000000006,POINT(-3.9961660000000006 17.570692),Africa,AF,Western Africa,Mali,5/15/2020,2498
 Tests,,Mali,Western,"20,250,833",17.570692,-3.9961660000000006,POINT(-3.9961660000000006 17.570692),Africa,AF,Western Africa,Mali,5/14/2020,2498
 Tests,,Mali,Western,"20,250,833",17.570692,-3.9961660000000006,POINT(-3.9961660000000006 17.570692),Africa,AF,Western Africa,Mali,5/13/2020,2498
@@ -3687,6 +3719,7 @@ Tests,,Mauritania,Western,"4,649,658",21.0079,10.9408,POINT(10.9408 21.0079),Afr
 Tests,,Mauritania,Western,"4,649,658",21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,Western Africa,Mauritania,5/4/2020,1032
 Tests,,Mauritania,Western,"4,649,658",21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,Western Africa,Mauritania,5/3/2020,1032
 Tests,,Mauritania,Western,"4,649,658",21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,Western Africa,Mauritania,5/2/2020,1032
+Tests,,Mauritania,Western,"4,649,658",21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,Western Africa,Mauritania,5/16/2020,2015
 Tests,,Mauritania,Western,"4,649,658",21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,Western Africa,Mauritania,5/15/2020,2015
 Tests,,Mauritania,Western,"4,649,658",21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,Western Africa,Mauritania,5/14/2020,2015
 Tests,,Mauritania,Western,"4,649,658",21.0079,10.9408,POINT(10.9408 21.0079),Africa,AF,Western Africa,Mauritania,5/13/2020,2015
@@ -3802,6 +3835,7 @@ Tests,,Mauritius,Eastern,"1,271,768",-20.2,57.5,POINT(57.5 -20.2),Africa,AF,East
 Tests,,Mauritius,Eastern,"1,271,768",-20.2,57.5,POINT(57.5 -20.2),Africa,AF,Eastern Africa,Mauritius,5/4/2020,18959
 Tests,,Mauritius,Eastern,"1,271,768",-20.2,57.5,POINT(57.5 -20.2),Africa,AF,Eastern Africa,Mauritius,5/3/2020,18398
 Tests,,Mauritius,Eastern,"1,271,768",-20.2,57.5,POINT(57.5 -20.2),Africa,AF,Eastern Africa,Mauritius,5/2/2020,16028
+Tests,,Mauritius,Eastern,"1,271,768",-20.2,57.5,POINT(57.5 -20.2),Africa,AF,Eastern Africa,Mauritius,5/16/2020,69773
 Tests,,Mauritius,Eastern,"1,271,768",-20.2,57.5,POINT(57.5 -20.2),Africa,AF,Eastern Africa,Mauritius,5/15/2020,69773
 Tests,,Mauritius,Eastern,"1,271,768",-20.2,57.5,POINT(57.5 -20.2),Africa,AF,Eastern Africa,Mauritius,5/14/2020,69773
 Tests,,Mauritius,Eastern,"1,271,768",-20.2,57.5,POINT(57.5 -20.2),Africa,AF,Eastern Africa,Mauritius,5/13/2020,69773
@@ -3917,6 +3951,7 @@ Tests,,Morocco,Northern,"36,910,560",31.7917,-7.0926,POINT(-7.0926 31.7917),Afri
 Tests,,Morocco,Northern,"36,910,560",31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,Northern Africa,Morocco,5/4/2020,47837
 Tests,,Morocco,Northern,"36,910,560",31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,Northern Africa,Morocco,5/3/2020,45302
 Tests,,Morocco,Northern,"36,910,560",31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,Northern Africa,Morocco,5/2/2020,40961
+Tests,,Morocco,Northern,"36,910,560",31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,Northern Africa,Morocco,5/16/2020,84095
 Tests,,Morocco,Northern,"36,910,560",31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,Northern Africa,Morocco,5/15/2020,80505
 Tests,,Morocco,Northern,"36,910,560",31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,Northern Africa,Morocco,5/14/2020,77922
 Tests,,Morocco,Northern,"36,910,560",31.7917,-7.0926,POINT(-7.0926 31.7917),Africa,AF,Northern Africa,Morocco,5/13/2020,77922
@@ -4032,6 +4067,7 @@ Tests,,Mozambique,Eastern,"31,255,435",-18.665695,35.529562,POINT(35.529562 -18.
 Tests,,Mozambique,Eastern,"31,255,435",-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,Eastern Africa,Mozambique,5/4/2020,2466
 Tests,,Mozambique,Eastern,"31,255,435",-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,Eastern Africa,Mozambique,5/3/2020,2466
 Tests,,Mozambique,Eastern,"31,255,435",-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,Eastern Africa,Mozambique,5/2/2020,2337
+Tests,,Mozambique,Eastern,"31,255,435",-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,Eastern Africa,Mozambique,5/16/2020,5361
 Tests,,Mozambique,Eastern,"31,255,435",-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,Eastern Africa,Mozambique,5/15/2020,5119
 Tests,,Mozambique,Eastern,"31,255,435",-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,Eastern Africa,Mozambique,5/14/2020,5119
 Tests,,Mozambique,Eastern,"31,255,435",-18.665695,35.529562,POINT(35.529562 -18.665695),Africa,AF,Eastern Africa,Mozambique,5/13/2020,5119
@@ -4147,6 +4183,7 @@ Tests,,Namibia,Southern,"2,540,905",-22.9576,18.4904,POINT(18.4904 -22.9576),Afr
 Tests,,Namibia,Southern,"2,540,905",-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,Southern Africa,Namibia,5/4/2020,1122
 Tests,,Namibia,Southern,"2,540,905",-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,Southern Africa,Namibia,5/3/2020,1122
 Tests,,Namibia,Southern,"2,540,905",-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,Southern Africa,Namibia,5/2/2020,1122
+Tests,,Namibia,Southern,"2,540,905",-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,Southern Africa,Namibia,5/16/2020,2074
 Tests,,Namibia,Southern,"2,540,905",-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,Southern Africa,Namibia,5/15/2020,2074
 Tests,,Namibia,Southern,"2,540,905",-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,Southern Africa,Namibia,5/14/2020,2011
 Tests,,Namibia,Southern,"2,540,905",-22.9576,18.4904,POINT(18.4904 -22.9576),Africa,AF,Southern Africa,Namibia,5/13/2020,2011
@@ -4262,6 +4299,7 @@ Tests,,Niger,Western,"24,206,644",17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF
 Tests,,Niger,Western,"24,206,644",17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,Western Africa,Niger,5/4/2020,5309
 Tests,,Niger,Western,"24,206,644",17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,Western Africa,Niger,5/3/2020,5309
 Tests,,Niger,Western,"24,206,644",17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,Western Africa,Niger,5/2/2020,5271
+Tests,,Niger,Western,"24,206,644",17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,Western Africa,Niger,5/16/2020,5749
 Tests,,Niger,Western,"24,206,644",17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,Western Africa,Niger,5/15/2020,5723
 Tests,,Niger,Western,"24,206,644",17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,Western Africa,Niger,5/14/2020,5691
 Tests,,Niger,Western,"24,206,644",17.6078,8.0817,POINT(8.0817 17.6078),Africa,AF,Western Africa,Niger,5/13/2020,5691
@@ -4377,6 +4415,7 @@ Tests,,Nigeria,Western,"206,139,589",9.082,8.6753,POINT(8.6753 9.082),Africa,AF,
 Tests,,Nigeria,Western,"206,139,589",9.082,8.6753,POINT(8.6753 9.082),Africa,AF,Western Africa,Nigeria,5/4/2020,19512
 Tests,,Nigeria,Western,"206,139,589",9.082,8.6753,POINT(8.6753 9.082),Africa,AF,Western Africa,Nigeria,5/3/2020,18536
 Tests,,Nigeria,Western,"206,139,589",9.082,8.6753,POINT(8.6753 9.082),Africa,AF,Western Africa,Nigeria,5/2/2020,16588
+Tests,,Nigeria,Western,"206,139,589",9.082,8.6753,POINT(8.6753 9.082),Africa,AF,Western Africa,Nigeria,5/16/2020,30657
 Tests,,Nigeria,Western,"206,139,589",9.082,8.6753,POINT(8.6753 9.082),Africa,AF,Western Africa,Nigeria,5/15/2020,30657
 Tests,,Nigeria,Western,"206,139,589",9.082,8.6753,POINT(8.6753 9.082),Africa,AF,Western Africa,Nigeria,5/14/2020,29408
 Tests,,Nigeria,Western,"206,139,589",9.082,8.6753,POINT(8.6753 9.082),Africa,AF,Western Africa,Nigeria,5/13/2020,29408
@@ -4492,6 +4531,7 @@ Tests,,Rwanda,Eastern,"12,952,218",-1.9403,29.8739,POINT(29.8739 -1.9403),Africa
 Tests,,Rwanda,Eastern,"12,952,218",-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,Eastern Africa,Rwanda,5/4/2020,35096
 Tests,,Rwanda,Eastern,"12,952,218",-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,Eastern Africa,Rwanda,5/3/2020,35096
 Tests,,Rwanda,Eastern,"12,952,218",-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,Eastern Africa,Rwanda,5/2/2020,33303
+Tests,,Rwanda,Eastern,"12,952,218",-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,Eastern Africa,Rwanda,5/16/2020,46198
 Tests,,Rwanda,Eastern,"12,952,218",-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,Eastern Africa,Rwanda,5/15/2020,45140
 Tests,,Rwanda,Eastern,"12,952,218",-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,Eastern Africa,Rwanda,5/14/2020,44245
 Tests,,Rwanda,Eastern,"12,952,218",-1.9403,29.8739,POINT(29.8739 -1.9403),Africa,AF,Eastern Africa,Rwanda,5/13/2020,44245
@@ -4607,6 +4647,7 @@ Tests,,Sao Tome & Principe,Central,"219,159",0.18636,6.613081,POINT(6.613081 0.1
 Tests,,Sao Tome & Principe,Central,"219,159",0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,Central Africa,Sao Tome & Principe,5/4/2020,175
 Tests,,Sao Tome & Principe,Central,"219,159",0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,Central Africa,Sao Tome & Principe,5/3/2020,175
 Tests,,Sao Tome & Principe,Central,"219,159",0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,Central Africa,Sao Tome & Principe,5/2/2020,19
+Tests,,Sao Tome & Principe,Central,"219,159",0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,Central Africa,Sao Tome & Principe,5/16/2020,175
 Tests,,Sao Tome & Principe,Central,"219,159",0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,Central Africa,Sao Tome & Principe,5/15/2020,175
 Tests,,Sao Tome & Principe,Central,"219,159",0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,Central Africa,Sao Tome & Principe,5/14/2020,175
 Tests,,Sao Tome & Principe,Central,"219,159",0.18636,6.613081,POINT(6.613081 0.18636),Africa,AF,Central Africa,Sao Tome & Principe,5/13/2020,175
@@ -4722,6 +4763,7 @@ Tests,,Senegal,Western,"16,743,927",14.4974,-14.4524,POINT(-14.4524 14.4974),Afr
 Tests,,Senegal,Western,"16,743,927",14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,Western Africa,Senegal,5/4/2020,17787
 Tests,,Senegal,Western,"16,743,927",14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,Western Africa,Senegal,5/3/2020,17787
 Tests,,Senegal,Western,"16,743,927",14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,Western Africa,Senegal,5/2/2020,466
+Tests,,Senegal,Western,"16,743,927",14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,Western Africa,Senegal,5/16/2020,24599
 Tests,,Senegal,Western,"16,743,927",14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,Western Africa,Senegal,5/15/2020,24599
 Tests,,Senegal,Western,"16,743,927",14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,Western Africa,Senegal,5/14/2020,24599
 Tests,,Senegal,Western,"16,743,927",14.4974,-14.4524,POINT(-14.4524 14.4974),Africa,AF,Western Africa,Senegal,5/13/2020,24599
@@ -4837,6 +4879,7 @@ Tests,,Seychelles,Eastern,"98,347",-4.6796,55.492,POINT(55.492 -4.6796),Africa,A
 Tests,,Seychelles,Eastern,"98,347",-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,Eastern Africa,Seychelles,5/4/2020,0
 Tests,,Seychelles,Eastern,"98,347",-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,Eastern Africa,Seychelles,5/3/2020,0
 Tests,,Seychelles,Eastern,"98,347",-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,Eastern Africa,Seychelles,5/2/2020,0
+Tests,,Seychelles,Eastern,"98,347",-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,Eastern Africa,Seychelles,5/16/2020,0
 Tests,,Seychelles,Eastern,"98,347",-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,Eastern Africa,Seychelles,5/15/2020,0
 Tests,,Seychelles,Eastern,"98,347",-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,Eastern Africa,Seychelles,5/14/2020,0
 Tests,,Seychelles,Eastern,"98,347",-4.6796,55.492,POINT(55.492 -4.6796),Africa,AF,Eastern Africa,Seychelles,5/13/2020,0
@@ -4952,6 +4995,7 @@ Tests,,Sierra Leone,Western,"7,976,983",8.460555000000001,-11.779889,POINT(-11.7
 Tests,,Sierra Leone,Western,"7,976,983",8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,Western Africa,Sierra Leone,5/4/2020,0
 Tests,,Sierra Leone,Western,"7,976,983",8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,Western Africa,Sierra Leone,5/3/2020,0
 Tests,,Sierra Leone,Western,"7,976,983",8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,Western Africa,Sierra Leone,5/2/2020,0
+Tests,,Sierra Leone,Western,"7,976,983",8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,Western Africa,Sierra Leone,5/16/2020,0
 Tests,,Sierra Leone,Western,"7,976,983",8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,Western Africa,Sierra Leone,5/15/2020,0
 Tests,,Sierra Leone,Western,"7,976,983",8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,Western Africa,Sierra Leone,5/14/2020,0
 Tests,,Sierra Leone,Western,"7,976,983",8.460555000000001,-11.779889,POINT(-11.779889 8.460555000000001),Africa,AF,Western Africa,Sierra Leone,5/13/2020,0
@@ -5067,6 +5111,7 @@ Tests,,Somalia,Eastern,"15,893,222",5.1521,46.1996,POINT(46.1996 5.1521),Africa,
 Tests,,Somalia,Eastern,"15,893,222",5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,Eastern Africa,Somalia,5/4/2020,0
 Tests,,Somalia,Eastern,"15,893,222",5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,Eastern Africa,Somalia,5/3/2020,0
 Tests,,Somalia,Eastern,"15,893,222",5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,Eastern Africa,Somalia,5/2/2020,0
+Tests,,Somalia,Eastern,"15,893,222",5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,Eastern Africa,Somalia,5/16/2020,0
 Tests,,Somalia,Eastern,"15,893,222",5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,Eastern Africa,Somalia,5/15/2020,0
 Tests,,Somalia,Eastern,"15,893,222",5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,Eastern Africa,Somalia,5/14/2020,0
 Tests,,Somalia,Eastern,"15,893,222",5.1521,46.1996,POINT(46.1996 5.1521),Africa,AF,Eastern Africa,Somalia,5/13/2020,0
@@ -5182,6 +5227,7 @@ Tests,,South Africa,Southern,"59,308,690",-30.5595,22.9375,POINT(22.9375 -30.559
 Tests,,South Africa,Southern,"59,308,690",-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,Southern Africa,South Africa,5/4/2020,257541
 Tests,,South Africa,Southern,"59,308,690",-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,Southern Africa,South Africa,5/3/2020,257541
 Tests,,South Africa,Southern,"59,308,690",-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,Southern Africa,South Africa,5/2/2020,230686
+Tests,,South Africa,Southern,"59,308,690",-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,Southern Africa,South Africa,5/16/2020,421555
 Tests,,South Africa,Southern,"59,308,690",-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,Southern Africa,South Africa,5/15/2020,403018
 Tests,,South Africa,Southern,"59,308,690",-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,Southern Africa,South Africa,5/14/2020,386352
 Tests,,South Africa,Southern,"59,308,690",-30.5595,22.9375,POINT(22.9375 -30.5595),Africa,AF,Southern Africa,South Africa,5/13/2020,386352
@@ -5297,6 +5343,7 @@ Tests,,South Sudan,Eastern,"11,193,725",6.877000000000001,31.307,POINT(31.307 6.
 Tests,,South Sudan,Eastern,"11,193,725",6.877000000000001,31.307,POINT(31.307 6.877000000000001),Africa,AF,Eastern Africa,South Sudan,5/4/2020,1247
 Tests,,South Sudan,Eastern,"11,193,725",6.877000000000001,31.307,POINT(31.307 6.877000000000001),Africa,AF,Eastern Africa,South Sudan,5/3/2020,1247
 Tests,,South Sudan,Eastern,"11,193,725",6.877000000000001,31.307,POINT(31.307 6.877000000000001),Africa,AF,Eastern Africa,South Sudan,5/2/2020,1247
+Tests,,South Sudan,Eastern,"11,193,725",6.877000000000001,31.307,POINT(31.307 6.877000000000001),Africa,AF,Eastern Africa,South Sudan,5/16/2020,3356
 Tests,,South Sudan,Eastern,"11,193,725",6.877000000000001,31.307,POINT(31.307 6.877000000000001),Africa,AF,Eastern Africa,South Sudan,5/15/2020,3356
 Tests,,South Sudan,Eastern,"11,193,725",6.877000000000001,31.307,POINT(31.307 6.877000000000001),Africa,AF,Eastern Africa,South Sudan,5/14/2020,1247
 Tests,,South Sudan,Eastern,"11,193,725",6.877000000000001,31.307,POINT(31.307 6.877000000000001),Africa,AF,Eastern Africa,South Sudan,5/13/2020,1247
@@ -5412,6 +5459,7 @@ Tests,,Sudan,Northern,"43,849,260",12.8628,30.2176,POINT(30.2176 12.8628),Africa
 Tests,,Sudan,Northern,"43,849,260",12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,Northern Africa,Sudan,5/4/2020,0
 Tests,,Sudan,Northern,"43,849,260",12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,Northern Africa,Sudan,5/3/2020,0
 Tests,,Sudan,Northern,"43,849,260",12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,Northern Africa,Sudan,5/2/2020,0
+Tests,,Sudan,Northern,"43,849,260",12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,Northern Africa,Sudan,5/16/2020,0
 Tests,,Sudan,Northern,"43,849,260",12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,Northern Africa,Sudan,5/15/2020,0
 Tests,,Sudan,Northern,"43,849,260",12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,Northern Africa,Sudan,5/14/2020,0
 Tests,,Sudan,Northern,"43,849,260",12.8628,30.2176,POINT(30.2176 12.8628),Africa,AF,Northern Africa,Sudan,5/13/2020,0
@@ -5527,6 +5575,7 @@ Tests,,Tanzania,Eastern,"59,734,218",-6.369,34.8888,POINT(34.8888 -6.369),Africa
 Tests,,Tanzania,Eastern,"59,734,218",-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,Eastern Africa,Tanzania,5/4/2020,0
 Tests,,Tanzania,Eastern,"59,734,218",-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,Eastern Africa,Tanzania,5/3/2020,0
 Tests,,Tanzania,Eastern,"59,734,218",-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,Eastern Africa,Tanzania,5/2/2020,0
+Tests,,Tanzania,Eastern,"59,734,218",-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,Eastern Africa,Tanzania,5/16/2020,0
 Tests,,Tanzania,Eastern,"59,734,218",-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,Eastern Africa,Tanzania,5/15/2020,0
 Tests,,Tanzania,Eastern,"59,734,218",-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,Eastern Africa,Tanzania,5/14/2020,0
 Tests,,Tanzania,Eastern,"59,734,218",-6.369,34.8888,POINT(34.8888 -6.369),Africa,AF,Eastern Africa,Tanzania,5/13/2020,0
@@ -5642,6 +5691,7 @@ Tests,,Togo,Western,"8,278,724",8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,Wes
 Tests,,Togo,Western,"8,278,724",8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,Western Africa,Togo,5/4/2020,7896
 Tests,,Togo,Western,"8,278,724",8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,Western Africa,Togo,5/3/2020,7891
 Tests,,Togo,Western,"8,278,724",8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,Western Africa,Togo,5/2/2020,7425
+Tests,,Togo,Western,"8,278,724",8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,Western Africa,Togo,5/16/2020,12040
 Tests,,Togo,Western,"8,278,724",8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,Western Africa,Togo,5/15/2020,11796
 Tests,,Togo,Western,"8,278,724",8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,Western Africa,Togo,5/14/2020,11374
 Tests,,Togo,Western,"8,278,724",8.6195,0.8248,POINT(0.8248 8.6195),Africa,AF,Western Africa,Togo,5/13/2020,11374
@@ -5757,6 +5807,7 @@ Tests,,Tunisia,Northern,"11,818,619",34.0,9.0,POINT(9.0 34.0),Africa,AF,Northern
 Tests,,Tunisia,Northern,"11,818,619",34.0,9.0,POINT(9.0 34.0),Africa,AF,Northern Africa,Tunisia,5/4/2020,24853
 Tests,,Tunisia,Northern,"11,818,619",34.0,9.0,POINT(9.0 34.0),Africa,AF,Northern Africa,Tunisia,5/3/2020,24406
 Tests,,Tunisia,Northern,"11,818,619",34.0,9.0,POINT(9.0 34.0),Africa,AF,Northern Africa,Tunisia,5/2/2020,24055
+Tests,,Tunisia,Northern,"11,818,619",34.0,9.0,POINT(9.0 34.0),Africa,AF,Northern Africa,Tunisia,5/16/2020,37862
 Tests,,Tunisia,Northern,"11,818,619",34.0,9.0,POINT(9.0 34.0),Africa,AF,Northern Africa,Tunisia,5/15/2020,36523
 Tests,,Tunisia,Northern,"11,818,619",34.0,9.0,POINT(9.0 34.0),Africa,AF,Northern Africa,Tunisia,5/14/2020,34323
 Tests,,Tunisia,Northern,"11,818,619",34.0,9.0,POINT(9.0 34.0),Africa,AF,Northern Africa,Tunisia,5/13/2020,34323
@@ -5872,6 +5923,7 @@ Tests,,Uganda,Eastern,"45,741,007",1.0,32.0,POINT(32.0 1.0),Africa,AF,Eastern Af
 Tests,,Uganda,Eastern,"45,741,007",1.0,32.0,POINT(32.0 1.0),Africa,AF,Eastern Africa,Uganda,5/4/2020,41478
 Tests,,Uganda,Eastern,"45,741,007",1.0,32.0,POINT(32.0 1.0),Africa,AF,Eastern Africa,Uganda,5/3/2020,39232
 Tests,,Uganda,Eastern,"45,741,007",1.0,32.0,POINT(32.0 1.0),Africa,AF,Eastern Africa,Uganda,5/2/2020,36302
+Tests,,Uganda,Eastern,"45,741,007",1.0,32.0,POINT(32.0 1.0),Africa,AF,Eastern Africa,Uganda,5/16/2020,70117
 Tests,,Uganda,Eastern,"45,741,007",1.0,32.0,POINT(32.0 1.0),Africa,AF,Eastern Africa,Uganda,5/15/2020,67559
 Tests,,Uganda,Eastern,"45,741,007",1.0,32.0,POINT(32.0 1.0),Africa,AF,Eastern Africa,Uganda,5/14/2020,65663
 Tests,,Uganda,Eastern,"45,741,007",1.0,32.0,POINT(32.0 1.0),Africa,AF,Eastern Africa,Uganda,5/13/2020,65663
@@ -5987,6 +6039,7 @@ Tests,,Western Sahara,Western,"597,339",24.2155,-12.8858,POINT(-12.8858 24.2155)
 Tests,,Western Sahara,Western,"597,339",24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,Western Africa,Western Sahara,5/4/2020,0
 Tests,,Western Sahara,Western,"597,339",24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,Western Africa,Western Sahara,5/3/2020,0
 Tests,,Western Sahara,Western,"597,339",24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,Western Africa,Western Sahara,5/2/2020,0
+Tests,,Western Sahara,Western,"597,339",24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,Western Africa,Western Sahara,5/16/2020,0
 Tests,,Western Sahara,Western,"597,339",24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,Western Africa,Western Sahara,5/15/2020,0
 Tests,,Western Sahara,Western,"597,339",24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,Western Africa,Western Sahara,5/14/2020,0
 Tests,,Western Sahara,Western,"597,339",24.2155,-12.8858,POINT(-12.8858 24.2155),Africa,AF,Western Africa,Western Sahara,5/13/2020,0
@@ -6102,6 +6155,7 @@ Tests,,Zambia,Eastern,"18,383,955",-15.4167,28.2833,POINT(28.2833 -15.4167),Afri
 Tests,,Zambia,Eastern,"18,383,955",-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,Eastern Africa,Zambia,5/4/2020,7277
 Tests,,Zambia,Eastern,"18,383,955",-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,Eastern Africa,Zambia,5/3/2020,7277
 Tests,,Zambia,Eastern,"18,383,955",-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,Eastern Africa,Zambia,5/2/2020,6882
+Tests,,Zambia,Eastern,"18,383,955",-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,Eastern Africa,Zambia,5/16/2020,15811
 Tests,,Zambia,Eastern,"18,383,955",-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,Eastern Africa,Zambia,5/15/2020,15487
 Tests,,Zambia,Eastern,"18,383,955",-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,Eastern Africa,Zambia,5/14/2020,15487
 Tests,,Zambia,Eastern,"18,383,955",-15.4167,28.2833,POINT(28.2833 -15.4167),Africa,AF,Eastern Africa,Zambia,5/13/2020,15487
@@ -6217,6 +6271,7 @@ Tests,,Zimbabwe,Eastern,"14,862,924",-20.0,30.0,POINT(30.0 -20.0),Africa,AF,East
 Tests,,Zimbabwe,Eastern,"14,862,924",-20.0,30.0,POINT(30.0 -20.0),Africa,AF,Eastern Africa,Zimbabwe,5/4/2020,7642
 Tests,,Zimbabwe,Eastern,"14,862,924",-20.0,30.0,POINT(30.0 -20.0),Africa,AF,Eastern Africa,Zimbabwe,5/3/2020,7642
 Tests,,Zimbabwe,Eastern,"14,862,924",-20.0,30.0,POINT(30.0 -20.0),Africa,AF,Eastern Africa,Zimbabwe,5/2/2020,7642
+Tests,,Zimbabwe,Eastern,"14,862,924",-20.0,30.0,POINT(30.0 -20.0),Africa,AF,Eastern Africa,Zimbabwe,5/16/2020,25478
 Tests,,Zimbabwe,Eastern,"14,862,924",-20.0,30.0,POINT(30.0 -20.0),Africa,AF,Eastern Africa,Zimbabwe,5/15/2020,36081
 Tests,,Zimbabwe,Eastern,"14,862,924",-20.0,30.0,POINT(30.0 -20.0),Africa,AF,Eastern Africa,Zimbabwe,5/14/2020,20537
 Tests,,Zimbabwe,Eastern,"14,862,924",-20.0,30.0,POINT(30.0 -20.0),Africa,AF,Eastern Africa,Zimbabwe,5/13/2020,20537

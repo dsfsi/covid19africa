@@ -115,7 +115,7 @@ def unpivot_timeseries():
 
     data = {keys[i]:{"filename":filenames[i], \
                      "df": pd.read_csv(filenames[i]), \
-                      df_unp: pd.read_csv(filenames[i]).melt(id_vars=["Country/Region", "Subregion", "Population-2020", "Lat", "Long"], var_name="Date", value_name="Values"), \
+                      df_unp: pd.read_csv(filenames[i]).melt(id_vars=["Country/Region", "iso2", "iso3", "Subregion", "Population-2020", "Lat", "Long"], var_name="Date", value_name="Values"), \
                     } for i in range(len(keys))
             }
     # print(data)
@@ -132,6 +132,14 @@ def unpivot_timeseries():
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent")+1, column="Continent Code", value=["AF" for i in range(rows)])
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent Code")+1, column="Region", value=[data[key][df_unp].at[i, "Subregion"] + " Africa" for i in range(rows)])
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Region")+1, column="Country", value=[data[key][df_unp].at[i, "Country/Region"] for i in range(rows)])
+        row = []
+        for i in range(rows):
+            a = data[key][df_unp].at[i, "Values"]
+            b = data[key][df_unp].at[i, "Population-2020"].replace(',', '')
+            #print(a)
+            #print(b)
+            row.append(int(1000000*(int(a)/int(b))))
+        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Values")+1, column="Values per Mil", value=row)
         data[key][df_unp].rename({"Country/Region":"Country Region", "Lat":"Latitude", "Long":"Longitude"}, axis="columns", inplace=True)
 
     # Merge the data frames into single "Africa data Format from Mahlet for Tableau Dashboard"

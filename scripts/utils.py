@@ -25,6 +25,8 @@ freq_missed = {"ORC" : "DRC", "Cdte d'ivoire": "Cote d'ivoire", "Cdte d'Ivoire":
                                 "Céte d'ivoire" : "Cote d'ivoire", "Céte d'Ivoire" : "Cote d'ivoire", "Cte d'Ivoire" : "Cote d'ivoire",
                                 "S20 Tome & Principe" : "Sao Tome & Principe", "Sa0 Tome & Principe" : "Sao Tome & Principe"}
 
+case_type = ["cases", "deaths", "recovered", "tests"]
+
 def print_inter_diff(data_f, data):
     # matched text from images
     txt = list(data.keys())
@@ -59,20 +61,20 @@ def parse_args():
 def get_filenames(files_path="", files_base=""):
     str_ = files_path + files_base + "_"
     str_ += '{0}.csv'
-    files = list(map(str_.format, ["cases", "deaths", "recovered", "tests"]))
+    files = list(map(str_.format, case_type))
     print(files)
     return files
 
 def get_africa_cdc_filenames(files_path=africa_cdc_path, files_base="africa_cdc_daily_time_series"):
-    return get_filenames(files_path, files_base)[:3]
+    return get_filenames(files_path, files_base)
 
 def get_timeseries_filenames(files_path=timeseries_path, files_base="africa_daily_time_series"):
     return get_filenames(files_path, files_base)
 
 def read_time_series():
-    files = get_africa_cdc_filenames()
+    files = get_africa_cdc_filenames()[:3]
     # read the files
-    data_f = [pd.read_csv(f, index_col='Country', encoding = "ISO-8859-1") for f in files]
+    data_f = [pd.read_csv(f, index_col='Country/Region', encoding = "ISO-8859-1") for f in files]
     # print(data_f)
     return data_f, files
 
@@ -107,14 +109,20 @@ def unpivot_timeseries():
     keys = ["Confirmed Cases", "Deaths", "Recovered Cases", "Tests"]
     df_unp = "unpivoted_dataframe"
     # First, get all the 4 files, unpivoted and sorted
-    filenames = get_timeseries_filenames()
+    #filenames = get_mixed_timeseries_filenames()
+    filenames = get_africa_cdc_filenames()
+    # print(filenames)
+    dfs = [pd.read_csv(filenames[i], keep_default_na=False) for i in range(len(keys))]
+    # df = dfs[0]
+    # print(df.loc[df['Country/Region'] == "Namibia"])
     data = {keys[i]:{"filename":filenames[i], \
-                     "df": pd.read_csv(filenames[i]), \
-                      df_unp: pd.read_csv(filenames[i]).melt(id_vars=["Country/Region", "Lat", "Long"], var_name="Dates", value_name="Values"), \
+                     "df": dfs[i], \
+                      df_unp: dfs[i].melt(id_vars=["Country/Region", "iso2", "iso3", "Subregion", "Population-2020", "Lat", "Long"], var_name="Date", value_name="Values"), \
                     } for i in range(len(keys))
             }
-    # print(data)
+    #print(data)
     df_cases = data[keys[0]][df_unp]
+    # print(df_cases.loc[df_cases['Country/Region'] == "Namibia"])
     print(df_cases.head())
     print(df_cases.shape)
     # Insert the extract columns, rename columns, etc
@@ -125,18 +133,30 @@ def unpivot_timeseries():
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Long")+1, column="Location Geom", value=["POINT({} {})".format(data[key][df_unp].at[i, "Long"],data[key][df_unp].at[i, "Lat"]) for i in range(rows)])
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Location Geom")+1, column="Continent", value=["Africa" for i in range(rows)])
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent")+1, column="Continent Code", value=["AF" for i in range(rows)])
-        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent Code")+1, column="Region", value=["" for i in range(rows)])
+        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent Code")+1, column="Region", value=[data[key][df_unp].at[i, "Subregion"] + " Africa" for i in range(rows)])
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Region")+1, column="Country", value=[data[key][df_unp].at[i, "Country/Region"] for i in range(rows)])
+        row = []
+        for i in range(rows):
+            a = data[key][df_unp].at[i, "Values"]
+            b = data[key][df_unp].at[i, "Population-2020"].replace(',', '')
+            #print(a)
+            #print(b)
+            row.append(int(1000000*(int(a)/int(b))))
+        data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Values")+1, column="Values per Mil", value=row)
         data[key][df_unp].rename({"Country/Region":"Country Region", "Lat":"Latitude", "Long":"Longitude"}, axis="columns", inplace=True)
-        # data[key][df_unp].sort_values(by=["Country Region"], inplace=True)
+
     # Merge the data frames into single "Africa data Format from Mahlet for Tableau Dashboard"
     df_out = pd.concat([data[key][df_unp] for key in keys])
     # Finally sort them
-    df_out.sort_values(by=["Country Region", "Dates"], ascending=[True, False], inplace=True)
+    df_out.sort_values(by=["Country Region", "Date", "Group"], ascending=[True, False, True], inplace=True)
     print(df_out.head())
     print(df_out.shape)
-    # write to file without index
+    # write the combined data to file without index
     df_out.to_csv("data/time_series/africa_daily_time_series_unpivoted.csv", index=False)
+    # write the individual unpivoted data to respective files
+    for _key, _type in zip(keys, case_type):
+        data[_key][df_unp].sort_values(by=["Country Region", "Date"], ascending=[True, False], inplace=True)
+        data[_key][df_unp].to_csv("data/time_series/africa_daily_time_series_unpivoted_{}.csv".format(_type), index=False)
 
 def preprocess(img_filename="", args=""):
     # load the example image and convert it to grayscale
@@ -150,7 +170,16 @@ def preprocess(img_filename="", args=""):
     # make a check to see if median blurring should be done to remove
     # noise
     elif args["preprocess"] == "blur":
-        gray = cv2.medianBlur(gray, 3)
+        # Median blur
+        # gray = cv2.medianBlur(gray, 3)
+        # Regular averaging
+        # kernel = np.ones((3,3),np.float32)/9
+        # gray = cv2.filter2D(gray,-1,kernel)
+        # gray = cv2.blur(gray,(3,3))
+        # Gaussian blur
+        # gray = cv2.GaussianBlur(gray,(3,3),0)
+        # Bilateral Filter
+        gray = cv2.bilateralFilter(gray,9,75,75)
     # write the grayscale image to disk as a temporary file so we can
     # apply OCR to it later
     filename = "img/tmp_{}.png".format(os.getpid())
@@ -184,7 +213,10 @@ def extract_africa_cdc_text(file_name=""):
     # African CDC daily reporting images
     # cdr_exp = r"([*&\-'\w]+\s*[*&\-'\w]+\s*[*&\-'\w]+\s*[*&\-'\w]+)\s?(\([^)]+\))" # exp
     # cdr_exp = r"(([*&\-'\w]+\s?){1,4})\s?(\([^)]+\))" # exp
-    cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*(\(?[\d\*\;\s\,\.]+\))" # exp
+    # cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*(\(?[\d\*\;\s\,\.]+\))" # exp
+    # cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*(\(?[\d\*\;\s\,\.\%\$]+\))" # exp
+    cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*([\(\{\]]?[\d\*\;\s\,\.\%\$\)\(\/]+[\)\}\]])" # exp
+    
     re_ = re.compile(cdr_exp)
 
     #print( image_to_string(Image.open('April_15_6pm.jpg')))
@@ -227,9 +259,10 @@ def parse_date(txt):
     return date_txt
 
 def parse_num(x):
-    exp_n = r'[\d\,\.]+'
+    exp_n = r'[\d\,\.\*\%\$]+' #r'[\d\,\.\*\%\$\)\(\/]+'
     re_n = re.compile(exp_n)
-    txt_ = [int(re.sub('[\,\.]*', '', a)) for a in re_n.findall(x)]
+    print(x)
+    txt_ = [int(re.sub('[\,\.\*\%\$\)\(\/]*', '', a)) for a in re_n.findall(x)]
     # print(txt_)
     return txt_
 

@@ -33,3 +33,6 @@ case_id,origin_case_id,date,age,gender,city,province/state,country,current_statu
 32,,,52,M,Murehwa,Mash East,Zimbabwe,Stable,MoHCC,,,,,,,Local,, No known details of contact with positive person
 33,,,70,M,Bulawayo,Bulawayo Metro,Zimbabwe,Stable,MoHCC,,,,,,,UK,,
 34,,,27,M,Bulawayo,Bulawayo Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,, contact of case 33
+35,,,50,M,Harare,Harare Metro,Zimbabwe,Stable,MoHCC,,,,,,,Local,,
+36,,,30,M,Chegutu,Mash West,Zimbabwe,Stable,MoHCC,,,,,,,Local,,
+37,,,42,M,Chinhoyi,Mash West,Zimbabwe,Stable,MoHCC,,,,,,,Local,,

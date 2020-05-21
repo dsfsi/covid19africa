@@ -212,7 +212,7 @@ def extract_africa_cdc_text(file_name=""):
     # cdr_exp = r"(([*&\-'\w]+\s?){1,4})\s?(\([^)]+\))" # exp
     # cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*(\(?[\d\*\;\s\,\.]+\))" # exp
     # cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*(\(?[\d\*\;\s\,\.\%\$]+\))" # exp
-    cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*([\(\{\]]?[\d\*\;\s\,\.\%\$\)\(]+[\)\}\]])" # exp
+    cdr_exp = r"((\s[*&\-'\w\,]+){1,4})\s*([\(\{\]]?[\d\*\;\s\,\.\%\$\)\(\/]+[\)\}\]])" # exp
     
     re_ = re.compile(cdr_exp)
 
@@ -256,10 +256,10 @@ def parse_date(txt):
     return date_txt
 
 def parse_num(x):
-    exp_n = r'[\d\,\.\*\%\$\)\(]+'
+    exp_n = r'[\d\,\.\*\%\$]+' #r'[\d\,\.\*\%\$\)\(\/]+'
     re_n = re.compile(exp_n)
     print(x)
-    txt_ = [int(re.sub('[\,\.\*\%\$\)\(]*', '', a)) for a in re_n.findall(x)]
+    txt_ = [int(re.sub('[\,\.\*\%\$\)\(\/]*', '', a)) for a in re_n.findall(x)]
     # print(txt_)
     return txt_
 

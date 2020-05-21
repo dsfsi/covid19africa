@@ -111,15 +111,18 @@ def unpivot_timeseries():
     # First, get all the 4 files, unpivoted and sorted
     #filenames = get_mixed_timeseries_filenames()
     filenames = get_africa_cdc_filenames()
-    print(filenames)
-
+    # print(filenames)
+    dfs = [pd.read_csv(filenames[i], keep_default_na=False) for i in range(len(keys))]
+    # df = dfs[0]
+    # print(df.loc[df['Country/Region'] == "Namibia"])
     data = {keys[i]:{"filename":filenames[i], \
-                     "df": pd.read_csv(filenames[i]), \
-                      df_unp: pd.read_csv(filenames[i]).melt(id_vars=["Country/Region", "iso2", "iso3", "Subregion", "Population-2020", "Lat", "Long"], var_name="Date", value_name="Values"), \
+                     "df": dfs[i], \
+                      df_unp: dfs[i].melt(id_vars=["Country/Region", "iso2", "iso3", "Subregion", "Population-2020", "Lat", "Long"], var_name="Date", value_name="Values"), \
                     } for i in range(len(keys))
             }
-    # print(data)
+    #print(data)
     df_cases = data[keys[0]][df_unp]
+    # print(df_cases.loc[df_cases['Country/Region'] == "Namibia"])
     print(df_cases.head())
     print(df_cases.shape)
     # Insert the extract columns, rename columns, etc

@@ -129,3 +129,13 @@ dmypy.json
 .pyre/
 
 data/Ghana_updates_moh/
+
+# WIP files
+.idea/
+act.exe
+actions-runner/
+data/testing/covid-testing-all-observations.csv
+twitter_developer_account_for_api
+
+# Other build files
+.vscode/

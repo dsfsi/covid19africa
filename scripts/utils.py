@@ -20,7 +20,7 @@ africa_cdc_path = "data/time_series/africa_cdc/"
 timeseries_path = "data/time_series/"
 # This is a hack for now, it will be replaced with similarity measures for more elegant accomodation of variants
 # Variants happen due to people mistyping or OCR artifacts
-freq_missed = {"ORC" : "DRC", "Cdte d'ivoire": "Cote d'ivoire", "Cdte d'Ivoire": "Cote d'ivoire", 
+freq_missed = {"Cape Verde":"Cabo Verde", "ORC" : "DRC", "Cdte d'ivoire": "Cote d'ivoire", "Cdte d'Ivoire": "Cote d'ivoire", 
                                 "Cate d'ivoire" : "Cote d'ivoire", "Cote d'Ivoire" : "Cote d'ivoire", "Cate d'Ivoire" : "Cote d'ivoire", 
                                 "Céte d'ivoire" : "Cote d'ivoire", "Céte d'Ivoire" : "Cote d'ivoire", "Cte d'Ivoire" : "Cote d'ivoire",
                                 "S20 Tome & Principe" : "Sao Tome & Principe", "Sa0 Tome & Principe" : "Sao Tome & Principe"}

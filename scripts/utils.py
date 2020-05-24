@@ -72,9 +72,19 @@ def get_timeseries_filenames(files_path=timeseries_path, files_base="africa_dail
     return get_filenames(files_path, files_base)
 
 def read_time_series():
-    files = get_africa_cdc_filenames()[:3]
+    data_f, files = read_africa_cdc_time_series()
+    return data_f[:3], files[:3]
+
+def read_africa_cdc_time_series(use_country_asid=True):
+    files = get_africa_cdc_filenames()
     # read the files
-    data_f = [pd.read_csv(f, index_col='Country/Region', encoding = "ISO-8859-1") for f in files]
+    if use_country_asid:
+        data_f = [pd.read_csv(f, index_col='Country/Region', encoding = "ISO-8859-1", keep_default_na=False) for f in files]
+    else:
+        data_f = [pd.read_csv(f, encoding = "ISO-8859-1", keep_default_na=False) for f in files]
+    # df = data_f[0]
+    # print(df)
+    # print(df.loc[df['Country/Region'] == "Namibia"])
     # print(data_f)
     return data_f, files
 
@@ -109,12 +119,11 @@ def unpivot_timeseries():
     keys = ["Confirmed Cases", "Deaths", "Recovered Cases", "Tests"]
     df_unp = "unpivoted_dataframe"
     # First, get all the 4 files, unpivoted and sorted
-    #filenames = get_mixed_timeseries_filenames()
-    filenames = get_africa_cdc_filenames()
+    # filenames = get_mixed_timeseries_filenames()
+    # filenames = get_africa_cdc_filenames()
     # print(filenames)
-    dfs = [pd.read_csv(filenames[i], keep_default_na=False) for i in range(len(keys))]
-    # df = dfs[0]
-    # print(df.loc[df['Country/Region'] == "Namibia"])
+    dfs, filenames = read_africa_cdc_time_series(use_country_asid=False) #[pd.read_csv(filenames[i], keep_default_na=False) for i in range(len(keys))]
+    
     data = {keys[i]:{"filename":filenames[i], \
                      "df": dfs[i], \
                       df_unp: dfs[i].melt(id_vars=["Country/Region", "iso2", "iso3", "Subregion", "Population-2020", "Lat", "Long"], var_name="Date", value_name="Values"), \

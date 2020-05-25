@@ -9,7 +9,7 @@ import pandas as pd
 import re
 import argparse
 import yaml
-from datetime import datetime
+from datetime import datetime, timedelta
 import cv2
 from PIL import Image
 
@@ -123,10 +123,29 @@ def unpivot_timeseries():
     # filenames = get_africa_cdc_filenames()
     # print(filenames)
     dfs, filenames = read_africa_cdc_time_series(use_country_asid=False) #[pd.read_csv(filenames[i], keep_default_na=False) for i in range(len(keys))]
+
+    df_cases_orig = dfs[0]
+    rows = df_cases_orig.shape[0]
+    
+    for i in range(len(keys)):
+        row = []
+        for j in range(rows):
+            old_col = dfs[i].columns[-1] # Grab the last day (last column name)
+            d = datetime.strptime(old_col, '%m/%d/%Y')
+            one_day = timedelta(days=1)
+            d -= one_day
+            col = d.strftime('%#m/%#d/%Y')
+            # Now grab the previous day value and subtract it from current day's value
+            # to get the daily increase
+            a = dfs[i].at[j, old_col]
+            b = dfs[i].at[j, col]
+            row.append(int(a) - int(b))
+
+        dfs[i].insert(loc=dfs[i].columns.get_loc(old_col)+1, column="Daily Values", value=row)
     
     data = {keys[i]:{"filename":filenames[i], \
                      "df": dfs[i], \
-                      df_unp: dfs[i].melt(id_vars=["Country/Region", "iso2", "iso3", "Subregion", "Population-2020", "Lat", "Long"], var_name="Date", value_name="Values"), \
+                      df_unp: dfs[i].melt(id_vars=["Country/Region", "iso2", "iso3", "Subregion", "Population-2020", "Lat", "Long", "Daily Values"], var_name="Date", value_name="Values"), \
                     } for i in range(len(keys))
             }
     #print(data)
@@ -145,12 +164,13 @@ def unpivot_timeseries():
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Continent Code")+1, column="Region", value=[data[key][df_unp].at[i, "Subregion"] + " Africa" for i in range(rows)])
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Region")+1, column="Country", value=[data[key][df_unp].at[i, "Country/Region"] for i in range(rows)])
         row = []
-        for i in range(rows):
-            a = data[key][df_unp].at[i, "Values"]
-            b = data[key][df_unp].at[i, "Population-2020"].replace(',', '')
+        for j in range(rows):
+            a = data[key][df_unp].at[j, "Values"]
+            b = data[key][df_unp].at[j, "Population-2020"].replace(',', '')
             #print(a)
             #print(b)
             row.append(int(1000000*(int(a)/int(b))))
+        
         data[key][df_unp].insert(loc=data[key][df_unp].columns.get_loc("Values")+1, column="Values per Mil", value=row)
         data[key][df_unp].rename({"Country/Region":"Country Region", "Lat":"Latitude", "Long":"Longitude"}, axis="columns", inplace=True)
 

@@ -3,6 +3,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3757554.svg)](https://doi.org/10.5281/zenodo.3757554)
 ![Update Daily Time-series](https://github.com/dsfsi/covid19africa/workflows/Update%20Daily%20Time-series/badge.svg)
 
+# Dashboard based on this data repository:
+[Africa COVID-19 Dashboard](https://datastudio.google.com/reporting/b669b26c-4f49-4415-b734-0e5f90976169/page/VIwK)
+
 The purpose of this repository is to collate data on the ongoing coronavirus pandemic in Africa. Our goal is to record detailed information on each reported case in every African country. We want to build a line list – a table summarizing information about people who are infected, dead, or recovered. The table for each African country would include demographic, location, and  symptom (where available) information for each reported case. The data will be obtained from official sources (e.g., WHO, departments of health, CDC etc.) and unofficial sources (e.g., news). Such a dataset has many uses, including studying the spread of COVID-19 across Africa and assessing similarities and differences to what’s being observed in other regions of the world.
 
 To sign up to contribute to this effort please send an email to onelaine@bu.edu and choose a country (or countries) in the  Contributors file below. This is part of a larger global effort to collate data on the coronavirus pandemic. 

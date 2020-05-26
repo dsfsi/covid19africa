@@ -3,6 +3,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3757554.svg)](https://doi.org/10.5281/zenodo.3757554)
 ![Update Daily Time-series](https://github.com/dsfsi/covid19africa/workflows/Update%20Daily%20Time-series/badge.svg)
 
+## Licenses
+
+Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  | Data [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ## Dashboard based on this data repository:
 [Africa COVID-19 Dashboard](https://datastudio.google.com/reporting/b669b26c-4f49-4415-b734-0e5f90976169/page/VIwK)
 
@@ -14,12 +18,6 @@ To sign up to contribute to this effort please send an email to onelaine@bu.edu 
 See our [blog post](https://dsfsi.github.io/blog/covida19africa-call-to-action/) on why we built this and how we are working.
 
 For information on daily updates on the repo, go to [https://twitter.com/vukosi/status/1243077753563484160?s=20](https://twitter.com/vukosi/status/1243077753563484160?s=20)
-
-
-## Licenses
-
-Code [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  | Data [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
 
 ## Contributing
 

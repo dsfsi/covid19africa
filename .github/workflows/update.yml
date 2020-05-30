@@ -1,9 +1,9 @@
 name: Update Daily Time-series 
 
 on:
-  push:
-    branches: 
-      - master
+  #push:
+  #  branches: 
+  #    - master
   #pull_request:
   schedule: 
     - cron:  '25 6 * * *'

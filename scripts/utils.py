@@ -139,6 +139,7 @@ def unpivot_timeseries():
             # to get the daily increase
             a = dfs[i].at[j, old_col]
             b = dfs[i].at[j, col]
+            
             row.append(int(a) - int(b))
 
         dfs[i].insert(loc=dfs[i].columns.get_loc(old_col)+1, column="Daily Values", value=row)

@@ -63,6 +63,10 @@ For information on daily updates on the repo, go to [https://twitter.com/vukosi/
 |    line-list-south-africa            |  [line-list-south-africa](data/line_lists/line-list-south-africa.csv)   |       [line-list-south-africa.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-south-africa.csv)        |
 |    line-list-zimbabwe            |  [line-list-zimbabwe](data/line_lists/line-list-zimbabwe.csv)   |       [line-list-south-zimbabwe.csv](https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line_lists/line-list-zimbabwe.csv)        |
 ## Visualisation
+* Time-sereis Dashboard - [Africa COVID-19 Dashboard](https://datastudio.google.com/reporting/b669b26c-4f49-4415-b734-0e5f90976169/page/VIwK)
+
+<iframe width="600" height="800" src="https://datastudio.google.com/embed/reporting/b669b26c-4f49-4415-b734-0e5f90976169/page/VIwK" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 * Line List Dashboard - [https://bitly.com/covid19africa-dash](https://bitly.com/covid19africa-dash)
 ![](https://github.com/dsfsi/covid19africa/raw/master/visualization/dash_screenshot.png)
 ## Data Sources

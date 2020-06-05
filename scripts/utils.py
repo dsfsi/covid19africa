@@ -128,9 +128,13 @@ def unpivot_timeseries():
     rows = df_cases_orig.shape[0]
     
     for i in range(len(keys)):
-        row = []
+        row, tw_sum, lw_sum, diff = [], [], [], []
         for j in range(rows):
             old_col = dfs[i].columns[-1] # Grab the last day (last column name)
+            twfd_idx = dfs[i].columns[-7] # Grab the first day of this week (column name)
+            lwld_idx = dfs[i].columns[-8] # Grab the last day of last week (column name)
+            lwfd_idx = dfs[i].columns[-14] # Grab the first day of last week (column name)
+            
             d = datetime.strptime(old_col, '%m/%d/%Y')
             one_day = timedelta(days=1)
             d -= one_day
@@ -139,14 +143,34 @@ def unpivot_timeseries():
             # to get the daily increase
             a = dfs[i].at[j, old_col]
             b = dfs[i].at[j, col]
+            # Now grab this week values sum them up
+            # to get the total for this week
+            tw = sum(list(dfs[i].loc[j, twfd_idx:old_col]))
+            # Now grab this week values sum them up
+            # to get the total for this week
+            lw = sum(list(dfs[i].loc[j, lwfd_idx:lwld_idx]))
+
+            #print("Today value: {}".format(a))
+            #print("Yesterday value: {}".format(b))
+            #print("Difference between this week and last week: {}".format(tw-lw))
+            #print("% Difference between this week and last week: {}".format(100*(tw-lw)/lw))
             
             row.append(int(a) - int(b))
+            tw_sum.append(tw)
+            lw_sum.append(lw)
+            d = 0
+            if not(lw == 0):
+                d = 100*(tw-lw)/lw
+            diff.append(d)
 
         dfs[i].insert(loc=dfs[i].columns.get_loc(old_col)+1, column="Daily Values", value=row)
+        dfs[i].insert(loc=dfs[i].columns.get_loc(old_col)+2, column="Last Week Values", value=lw_sum)
+        dfs[i].insert(loc=dfs[i].columns.get_loc(old_col)+3, column="This Week Values", value=tw_sum)
+        dfs[i].insert(loc=dfs[i].columns.get_loc(old_col)+4, column="Diff Values", value=diff)
     
     data = {keys[i]:{"filename":filenames[i], \
                      "df": dfs[i], \
-                      df_unp: dfs[i].melt(id_vars=["Country/Region", "iso2", "iso3", "Subregion", "Population-2020", "Lat", "Long", "Daily Values"], var_name="Date", value_name="Values"), \
+                      df_unp: dfs[i].melt(id_vars=["Country/Region", "iso2", "iso3", "Subregion", "Population-2020", "Lat", "Long", "Daily Values", "Last Week Values", "This Week Values", "Diff Values"], var_name="Date", value_name="Values"), \
                     } for i in range(len(keys))
             }
     #print(data)

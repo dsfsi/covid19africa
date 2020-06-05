@@ -157,7 +157,7 @@ def unpivot_timeseries():
             lw_sum.append(lw)
             d = 0
             if not(lw == 0):
-                d = 100*(tw-lw)/lw
+                d = (tw-lw)/lw #100*
             diff.append(d)
 
         dfs[i].insert(loc=dfs[i].columns.get_loc(old_col)+1, column="Daily Values", value=row)

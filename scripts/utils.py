@@ -143,12 +143,9 @@ def unpivot_timeseries():
             # to get the daily increase
             a = dfs[i].at[j, old_col]
             b = dfs[i].at[j, col]
-            # Now grab this week values sum them up
-            # to get the total for this week
-            tw = sum(list(dfs[i].loc[j, twfd_idx:old_col]))
-            # Now grab this week values sum them up
-            # to get the total for this week
-            lw = sum(list(dfs[i].loc[j, lwfd_idx:lwld_idx]))
+            tw = a
+            # Now grab last week value
+            lw = dfs[i].at[j, lwld_idx]
 
             #print("Today value: {}".format(a))
             #print("Yesterday value: {}".format(b))

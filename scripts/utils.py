@@ -126,10 +126,21 @@ def unpivot_timeseries():
 
     df_cases_orig = dfs[0]
     rows = df_cases_orig.shape[0]
-    
+
+    # Copy the time-series into daily value dataframes
+    dfs_daily = [df.copy() for df in dfs] # pd.DataFrame(0, index=np.arange(df.shape[0]), columns=df.columns)
+    for df in dfs_daily:
+        # Grab the time-series values
+        df.iloc[:,7:] = df.iloc[:,7:].diff(axis=1).fillna(value=0,axis=1)
+
+    # print(dfs_daily[0].head())
+    # print(dfs[0].head())
+
+    # Compute current "Daily Values", "Daily", "Last Week values", "This Week Values", "Diff Values"
     for i in range(len(keys)):
         row, tw_sum, lw_sum, diff = [], [], [], []
         for j in range(rows):
+
             old_col = dfs[i].columns[-1] # Grab the last day (last column name)
             twfd_idx = dfs[i].columns[-7] # Grab the first day of this week (column name)
             lwld_idx = dfs[i].columns[-8] # Grab the last day of last week (column name)
@@ -143,9 +154,11 @@ def unpivot_timeseries():
             # to get the daily increase
             a = dfs[i].at[j, old_col]
             b = dfs[i].at[j, col]
-            tw = a
+            tw = sum(dfs_daily[i].loc[j, twfd_idx:old_col])
             # Now grab last week value
-            lw = dfs[i].at[j, lwld_idx]
+            lw = sum(dfs_daily[i].loc[j, lwfd_idx:lwld_idx])
+            #print("This Week: \n{}".format(tw))
+            #print("Last Week: \n{}".format(lw))
 
             #print("Today value: {}".format(a))
             #print("Yesterday value: {}".format(b))
@@ -165,6 +178,7 @@ def unpivot_timeseries():
         dfs[i].insert(loc=dfs[i].columns.get_loc(old_col)+3, column="This Week Values", value=tw_sum)
         dfs[i].insert(loc=dfs[i].columns.get_loc(old_col)+4, column="Diff Values", value=diff)
     
+    # Unpivot the time-series and Daily data by blending them
     data = {keys[i]:{"filename":filenames[i], \
                      "df": dfs[i], \
                       df_unp: dfs[i].melt(id_vars=["Country/Region", "iso2", "iso3", "Subregion", "Population-2020", "Lat", "Long", "Daily Values", "Last Week Values", "This Week Values", "Diff Values"], var_name="Date", value_name="Values"), \
@@ -208,6 +222,8 @@ def unpivot_timeseries():
     for _key, _type in zip(keys, case_type):
         data[_key][df_unp].sort_values(by=["Country Region", "Date"], ascending=[True, False], inplace=True)
         data[_key][df_unp].to_csv("data/time_series/africa_daily_time_series_unpivoted_{}.csv".format(_type), index=False)
+    # write individual daily data 
+
 
 def preprocess(img_filename="", args=""):
     # load the example image and convert it to grayscale

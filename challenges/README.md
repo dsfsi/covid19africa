@@ -9,7 +9,7 @@ The first project will look at differences in response to lockdown and other dis
 
 The second project could focus on how to combine data from multiple sources to forecast the spatial incidence of disease. Given that we would have the mobility dataset at a provider, we could use the building dataset as an estimate of the density per ward. These could be used as features to train a model which perhaps estimates the number of infections per day or looks into other objectives of this nature. Besides the modelling, this dataset could also inform on the types of neighbourhoods(type by: density, formal/informal, e.t.c.) in which most infections occur(if we have ward-level Covid19 data*)
 
-Read more [COVID-19 Africa Spatial Data Exploration Google Doc](#)
+Read more [COVID-19 Africa Spatial Data Exploration Google Doc](https://docs.google.com/document/d/1NkNZMpV1OYH1Lmi2xXoLcv9J_NMSsYVv4eksWop8NXo/edit?usp=sharing)
 
 ### COVID-19 Africa ModelHub
 

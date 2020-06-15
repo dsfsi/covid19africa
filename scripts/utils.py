@@ -313,9 +313,10 @@ def extract_africa_cdc_text(file_name=""):
     return data, date_txt
 
 def parse_date(txt):
-    exp_d = r'\d\d?\s[\w]+\s\d{4}'
+    exp_d = r'\d\d?\s[\w]+\s\d{4},'
     re_d = re.compile(exp_d)
-    txt_ = re_d.findall(txt)
+    txt_ = [r.replace(",",'') for r in re_d.findall(txt)]
+    
     # Grab the first matched date
     print(txt_)
     date_obj = datetime.strptime(txt_[0], '%d %B %Y').date()
